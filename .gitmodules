@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 [submodule "41023239"]
 	path = 41023239
 	url = https://github.com/a92826/cd2024.git
+=======
 [submodule "41023124"]
 	path = 41023124
 	url = https://github.com/41023124/cd2024.git
@@ -11,4 +12,4 @@
 [submodule "41023122"]
 	path = 41023122
 	url = https://github.com/41023122/cd2024.git
->>>>>>> 37cd9e2365cada47b40337e4ae40ee562bb6ddc8
+
