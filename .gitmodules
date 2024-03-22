@@ -19,3 +19,6 @@
 [submodule "4102324"]
 	path = 4102324
 	url = https://github.com/BrianTsai071/cd2024.git
+[submodule "41023152"]
+	path = 41023152
+	url = https://github.com/Chang-Nien-Chun/cd2024.git
