@@ -2736,6 +2736,56 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p>cd2024 2a w6 利用 pelicanconf py 整合各組員的網誌</p>
 <p>2. 教學影片如下:</p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-xuR2hL4zIw?si=xXWP1CbQfsNTVc0G" title="YouTube video player" width="560"></iframe></p>
+<p>Github Actions 帶有子模組的 main.yml 設定</p>
 <p></p>
-<p></p>
+<p>加入取子模組內容的 main.yml 設定</p>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">on:
+  push:
+    branches: [pdf]
+  pull_request:
+    branches: [pdf]
+  workflow_dispatch:
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.1.1
+      - name: Install texlive and related fonts
+        run: |
+          sudo apt install -y texlive texlive-xetex texlive-lang-chinese gsfonts fonts-moe-standard-kai ttf-mscorefonts-installer librsvg2-bin texlive-fonts-extra 
+      - name: Initialize submodules
+        run: git submodule update --init --recursive
+      - name: Test LaTeX
+        working-directory: ./latex
+        run: |
+          xelatex cd_report.tex
+          xelatex cd_report.tex
+          xelatex cd_report.tex
+      - name: Bump version and push tag
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v6.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create Release
+        id: create_release
+        uses: comnoco/create-release-action@v2.0.5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.tag_version.outputs.new_tag }}
+          release_name: Release ${{ steps.tag_version.outputs.new_tag }}
+          draft: false
+          prerelease: false
+      - name: Upload Release Asset
+        id: upload-release-asset 
+        uses: shogo82148/actions-upload-release-asset@v1.7.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }} 
+          asset_path: ./latex/cd_report.pdf
+          asset_name: cd_report.pdf
+          asset_content_type: pdf</pre>
+<p><br/><br/></p>
 <p><a href="https://git-scm.com/book/zh-tw/v2/%E4%BD%BF%E7%94%A8-Git-%E5%88%86%E6%94%AF-%E7%B0%A1%E8%BF%B0%E5%88%86%E6%94%AF"></a></p></div></div>
