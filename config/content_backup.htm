@@ -2737,6 +2737,9 @@ doc["threejsblock"].bind("click", threejsblock.do)
 <p>2. 教學影片如下:</p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-xuR2hL4zIw?si=xXWP1CbQfsNTVc0G" title="YouTube video player" width="560"></iframe></p>
 <p></p>
+<p>Github Actions 帶有子模組的 main.yml 設定</p>
+<p>加入取子模組內容的 main.yml 設定</p>
+<p></p>
 <pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">on:
   push:
     branches: [pdf]
@@ -2785,5 +2788,8 @@ jobs:
           asset_path: ./latex/cd_report.pdf
           asset_name: cd_report.pdf
           asset_content_type: pdf</pre>
-<p><br/><br/></p>
+<p>其中加入取子模組內容的設定為:</p>
+<p></p>
+<pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">- name: Initialize submodules
+  run: git submodule update --init --recursive</pre>
 <p><a href="https://git-scm.com/book/zh-tw/v2/%E4%BD%BF%E7%94%A8-Git-%E5%88%86%E6%94%AF-%E7%B0%A1%E8%BF%B0%E5%88%86%E6%94%AF"></a></p></div></div>
