@@ -2728,6 +2728,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 </table>
 <p></p>
 <h1>w6</h1>
+<p>更改個人與群組 .md 與 slug名稱 , 加上自己的學號或者加上群組分組名稱</p>
 <p>更新分組倉儲中的分組倉儲</p>
 <p>cd2024 2a w6 取下子模組, 以及更新學員倉儲內容</p>
 <p>1. 教學影片如下:</p>
@@ -2788,8 +2789,39 @@ jobs:
           asset_path: ./latex/cd_report.pdf
           asset_name: cd_report.pdf
           asset_content_type: pdf</pre>
+<p></p>
 <p>其中加入取子模組內容的設定為:</p>
 <p></p>
 <pre class="brush:html;auto-links:false;toolbar:false" contenteditable="false">- name: Initialize submodules
   run: git submodule update --init --recursive</pre>
-<p><a href="https://git-scm.com/book/zh-tw/v2/%E4%BD%BF%E7%94%A8-Git-%E5%88%86%E6%94%AF-%E7%B0%A1%E8%BF%B0%E5%88%86%E6%94%AF"></a></p></div></div>
+<p><a href="https://git-scm.com/book/zh-tw/v2/%E4%BD%BF%E7%94%A8-Git-%E5%88%86%E6%94%AF-%E7%B0%A1%E8%BF%B0%E5%88%86%E6%94%AF"></a></p>
+<h1>w7</h1>
+<p><span>更改個人與群組 .md 與 slug名稱 , 加上自己的學號或者加上群組分組名稱</span></p>
+<p><span></span></p>
+<p><span>協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點.</span></p>
+<p><span></span></p>
+<p>從協同設計的架構上, 個人與分組的倉儲中, 總共設計了以下幾種內容的協同模式:</p>
+<ol>
+<li><span>分組網站內容的協同</span><span> </span>- 其中包括章節式的網站內容與網誌內容, 可以透過 Python 程式方法整合各學員子模組中的<span> </span><a href="https://github.com/mdecycu/cmsimde_site/blob/main/config/content.htm">config/content.htm</a><span> </span>以及 markdown/*.md 檔案至分組網站中</li>
+<li><span>分組報告內容的協同</span><span> </span>- 採用的是<span> </span><a href="https://github.com/features/actions">Github Actions</a><span> </span>與近端<span> </span><a href="https://miktex.org/">MikTeX</a><span> </span>中的<span> </span><a href="https://yenlungblog.wordpress.com/2012/08/30/latex-xelatex-%E7%B0%A1%E7%B0%A1%E5%96%AE%E5%96%AE%E8%AE%93-latex-%E8%AA%AA%E4%B8%AD%E6%96%87/">xelatex</a><span> </span>將 .tex 轉為 pdf 的整合過程</li>
+<li><span>分組產品設計的 <a href="https://en.wikipedia.org/wiki/Product_lifecycle">PLM</a> 協同</span><span> </span>- 採用的是<span> </span><a href="https://www.odoo.com/app/plm">Odoo PLM</a><span> </span>模組, 讓各分組可以將網站內容、報告內容視為產品, 從協同架構的訂定作為起點, 完成資料展示作為終點, 逐一將過程的協調、派任與執行方法納入<span> </span><a href="https://en.wikipedia.org/wiki/Product_lifecycle">PLM</a><span> </span>系統管理</li>
+<li><span>分組零組件設計的協同</span><span> </span>- 分別採用<span> </span><a href="https://solvespace.com/">Solvespace</a><span> </span>作為鋼球平衡台範例, 讓學員使用<span> </span><a href="https://plm.sw.siemens.com/en-US/nx/">Siemens NX</a><span> </span>1872 進行協同零組件繪圖設計, 並將各零件的 .prt 檔案納入各學員的倉儲進行組立, 以便找出最佳的設計分工以及零組件轉檔流程</li>
+<li><span>分組模擬場景設計的協同</span><span> </span>- 當各分組順利完成鋼球平衡台的零組件轉檔後, 一旦進入<span> </span><a href="https://coppeliarobotics.com/">CoppeliaSim</a><span> </span>場景後, 必須逐一配置感測器 (Sensors)、致動器 (Actuators) 以及<span> </span><a href="https://en.wikipedia.org/wiki/Proportional%E2%80%93integral%E2%80%93derivative_controller">ZMQ RemoteAPI Python</a>程式, 主要探討如何將此一場景模擬過程在<span> </span><a href="https://manual.coppeliarobotics.com/en/xmlFormat.htm">CoppeliaSim XML</a><span> </span>檔案格式與<span> </span><a href="https://community.sw.siemens.com/s/global-search/%40uri#q=journal.exe">Siemens NXOpen Python</a><span> </span>零件程式檔案間, 找到合用或最佳的協同產品設計模式.</li>
+<li><span>分組專案簡報設計的協同</span><span> </span>- 在上述各產品設計階段所累積的各種資料, 該如何有效整合到專案完成後必須進行的網際簡報中.</li>
+</ol>
+<p></p>
+<p></p>
+<p>分組網站內容的協同</p>
+<p>各分組網站內容的協同包含:</p>
+<ol>
+<li>章節式網站內容</li>
+<li>週記式網誌內容</li>
+<li>網際簡報內容</li>
+</ol>
+<p>其中首先要求各組員必須每週在 cd2024 倉儲中的 markdown 目錄編寫 markdown 網誌文章, 再經由<span> </span><a href="https://getpelican.com/">Pelican</a><span> </span>轉檔至 blog 目錄中的超文件網誌. 由於<span> </span><a href="https://getpelican.com/">Pelican</a><span> </span>採用 Python 檔案進行設定, 因此可以在轉檔的過程中, 將各子目錄中的組員倉儲網誌集合到分組倉儲中的 combined_markdown 目錄之後, 再指定將網誌超文件轉至各分組倉儲的 blog 目錄.</p>
+<p>由於分組網誌內容協同時, 所有組員所編寫的 markdown 文章必須存入 combined_markdown 目錄, 因此 markdown 網誌文章檔案的命名不可重複, 且各網誌文章的 Slug 字串將會被當作用來命名轉檔後的超文件檔案名稱, 因此也不能重複.</p>
+<p>至於當各組員採用 Replit 維護個人倉儲內容時, 可以直接從<span> </span><a href="https://replit.com/">Replit</a><span> </span>Connect 至<span> </span><a href="https://github.com/">Github</a><span> </span>取得維護倉儲的權限, 旦卻無法直接用管理分組倉儲, 因為各組員雖然擁有管理分組倉儲的權限, 但是無法在<span> </span><a href="https://replit.com/">Replit</a><span> </span>中以免費的組員帳號管理<span> </span><a href="https://classroom.github.com/">Github Classroom</a><span> </span>所取得的分組倉儲. 而必須動態納入針對分組倉儲的 OpenSSH 管理權限.</p>
+<p></p>
+<p>分組報告內容的協同</p>
+<p><a href="https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/b3d63d6c1bb7214989f49715356eeefd1ecc2cac/add_to_content_html.py">add_to_content_html.py</a></p>
+<p><a href="https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/b3d63d6c1bb7214989f49715356eeefd1ecc2cac/generate_pages.py">generate_pages.py</a></p></div></div>
