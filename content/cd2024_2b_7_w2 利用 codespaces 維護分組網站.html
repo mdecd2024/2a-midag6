@@ -1,0 +1,388 @@
+<!DOCTYPE html><html>
+        <head>
+        <title>cmsimde_site</title>
+        <meta charset="utf-8">
+<meta property="head" content="H3">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/magnific-popup.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/jquery-ui.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/aos.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/style.css">
+        <link rel="shortcut icon" href="./../cmsimde/static/favicons.png">
+
+        <style type='text/css'>
+            .site-section {
+            background-color: #FFFF;
+            padding: 40px 40px;
+            }
+            body > div > div.dropdown.open {
+                display: block;
+            }
+        </style>
+    
+        <!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+        <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/normalize.min.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+        <script src="tipuesearch_content.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/tipuesearch.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch.js"></script>
+        <!-- for Wink3 客製化關閉 -->
+        <!--
+        <link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css" />
+        <script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"></script>
+        -->
+        <script>
+            /* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+        </script>
+        
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushBash.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDiff.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPowerShell.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushMojo.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushRust.js"></script>
+<link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+<!-- 暫時不用
+<script src="./../cmsimde/static/fengari-web.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
+
+</head>
+<body>
+<div class='container'><nav>
+        
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+            <header class="site-navbar py-4 bg-white" role="banner">
+              <div class="container">
+                <div class="row align-items-center">
+                <h1>midag6 分組網站</h1>
+                <div class="pl-4">
+                    <form>
+                    <input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required>
+                    </form>
+                </div>
+                  <!-- <div class="col-11 col-xl-2">
+                    <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">midag6 分組網站</a></h1> 
+                  </div>
+                  -->
+                  <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+    <ul class='site-menu js-clone-nav mr-auto d-none d-lg-block'>
+                        <li class="active has-children"><a href="index.html">Home</a>
+                        <ul class="dropdown">
+                            <li><a href="sitemap.html">SMap</a></li>
+                            <li><a href="./../reveal/index.html">reveal</a></li>
+                            <li><a href="./../blog/index.html">blog</a></li>
+                        </ul>
+                      </li>
+                     <li><a href='About.html'>About</a><li><a href='cmsimde.html'>cmsimde</a><li><a href='Codespace.html'>Codespace</a><li><a href='Replit.html'>Replit</a><li><a href='Brython.html'>Brython</a><li class='has-children'><a href='w4.html'>w4</a><ul class='dropdown'><li class='has-children'><a href='w1.html'>w1</a><ul class='dropdown'><li><a href='cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github.html'>cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github</a><li><a href='cd2024 2a 1 blog setup.html'>cd2024 2a 1 blog setup</a><li><a href='cd2024 2b 1 建立個人課程倉儲與網站.html'>cd2024 2b 1 建立個人課程倉儲與網站</a><li><a href='cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github.html'>cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github</a><li><a href='cd2024 2b 3 如何設定 Github 帳號的雙重認證.html'>cd2024 2b 3 如何設定 Github 帳號的雙重認證</a></li></ul><li class='has-children'><a href='w2.html'>w2</a><ul class='dropdown'><li><a href='cd2024_2b_7_w2 利用 codespaces 維護分組網站.html'>cd2024_2b_7_w2 利用 codespaces 維護分組網站</a><li><a href='cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容.html'>cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容</a><li><a href='cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲.html'>cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲</a><li><a href='cd2024_2a_w2_1(41023239楊祐銘).html'>cd2024_2a_w2_1(41023239楊祐銘)</a><li><a href='cd2024 2a w2 4 利用 Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘).html'>cd2024 2a w2 4 利用 Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘)</a></li></ul><li class='has-children'><a href='w3.html'>w3</a><ul class='dropdown'><li><a href='wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組-1.html'>wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組-1</a><li><a href='wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組-2.html'>wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組-2</a><li><a href='cd2024 2b w3 使用 gitpod 與 localhost 維護個人倉儲.html'>cd2024 2b w3 使用 gitpod 與 localhost 維護個人倉儲</a></li></li></ul></ul><li><a href='w5.html'>w5</a><li><a href='w6.html'>w6</a><li><a href='w7.html'>w7</a><li><a href='w8.html'>w8</a></li>
+                      </ul>
+                </nav>
+              </div>
+              <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+              </div>
+
+            </div>
+          </div>
+
+        </header>
+    <div id="tipue_search_content">w2 << <a href='w2.html'>Previous</a> <a href='cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容.html'>Next</a> >> cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容<br /><h1>cd2024_2b_7_w2 利用 codespaces 維護分組網站</h1>
+<p></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/3OGCk_aDP9U?si=yMsGIIgbKW5y-D_u" title="YouTube video player" width="560"></iframe></p>
+<p>0:00:04.864,0:00:07.424<br/>好接下來啊我要用</p>
+<p>0:00:09.472,0:00:12.288<br/>用這第一組的</p>
+<p>0:00:15.360,0:00:18.688<br/>對應的這個來做示範OK</p>
+<p>0:00:19.456,0:00:21.248<br/>因為他們已經把</p>
+<p>0:00:23.808,0:00:27.392<br/>分組的這一個倉儲內容已經建好了</p>
+<p>0:00:29.184,0:00:31.744<br/>可是我現在想要用</p>
+<p>0:00:32.768,0:00:34.816<br/>Codespaces來維護他</p>
+<p>0:00:37.376,0:00:39.168<br/>所以你要仔細看喔</p>
+<p>0:00:39.680,0:00:42.240<br/>現在每一個倉儲啊</p>
+<p>0:00:43.008,0:00:45.056<br/>他其實都有code</p>
+<p>0:00:46.592,0:00:52.736<br/>OK那你想要去看老師的畫面你各組你趕快弄成這樣之後就可以改版了</p>
+<p>0:00:56.320,0:01:00.928<br/>然後你就可以直接點這個code他就會跑其實他就跑這個啦</p>
+<p>0:01:01.440,0:01:02.720<br/>然後你再點這個</p>
+<p>0:01:04.512,0:01:10.656<br/>你就會發現這個code任何一個倉儲裡面其實都已經有配置這個codespaces這個就</p>
+<p>0:01:10.912,0:01:11.680<br/>是一個</p>
+<p>0:01:12.192,0:01:15.776<br/>線上的一個整合環境其實跟一樣</p>
+<p>0:01:16.288,0:01:20.128<br/>只是他的的界面啊是用v studio code</p>
+<p>0:01:20.896,0:01:23.968<br/>所以你點他的話他這邊就會出現了你可以</p>
+<p>0:01:25.248,0:01:28.320<br/>在這個倉儲底下你可以建一個</p>
+<p>0:01:29.600,0:01:31.136<br/>透過主分支</p>
+<p>0:01:31.648,0:01:35.488<br/>來見一個Codespaces</p>
+<p>0:01:36.512,0:01:38.048<br/>目前我是用</p>
+<p>0:01:38.560,0:01:41.120<br/>第一組組長的帳號做</p>
+<p>0:01:42.912,0:01:47.264<br/>Ok所以他就進入這個就是v studio code的畫面</p>
+<p>0:01:49.568,0:01:54.432<br/>那首先當然我要先啟動想辦法先啟動他的動態</p>
+<p>0:01:54.688,0:01:56.224<br/>編輯網站對不對</p>
+<p>0:01:57.504,0:02:00.576<br/>好那我們先看一下他這邊的配置</p>
+<p>0:02:01.344,0:02:03.392<br/>他這個是他的主要的</p>
+<p>0:02:04.672,0:02:05.696<br/>功能表</p>
+<p>0:02:06.720,0:02:09.024<br/>我們比較常用的是這個終端機</p>
+<p>0:02:09.536,0:02:13.120<br/>因為我們啟動動態之後</p>
+<p>0:02:13.632,0:02:18.496<br/>我必須要在新增一個終端機這個就是我的我們的shell</p>
+<p>0:02:20.032,0:02:24.128<br/>Terminal的意思就是輸入指令用</p>
+<p>0:02:24.384,0:02:28.480<br/>但因為我們一方沒有啟動動態他沒有啟動靜態</p>
+<p>0:02:28.736,0:02:30.528<br/>好所以我就必須要再</p>
+<p>0:02:30.784,0:02:31.552<br/>這個</p>
+<p>0:02:32.320,0:02:36.928<br/>拉出終端機我新增一個最表示現在我有兩個命令區</p>
+<p>0:02:37.440,0:02:40.000<br/>因為他是boom share</p>
+<p>0:02:40.256,0:02:46.400<br/>好像urn吧S.S.H輸入指令的地方</p>
+<p>0:02:48.192,0:02:50.496<br/>還記得我們在</p>
+<p>0:02:52.544,0:02:57.664<br/>Replit裡面啊我們啟動的時候他這個run其實是執行什麼</p>
+<p>0:02:58.176,0:02:59.712<br/>我們可以在</p>
+<p>0:03:00.736,0:03:06.624<br/>對應的設定檔所以我們在之前講你知道的話我把hidden file要打開來</p>
+<p>0:03:07.392,0:03:09.696<br/>我們run啊其實他就是啟動</p>
+<p>0:03:11.488,0:03:14.048<br/>Python3去執行他的main</p>
+<p>0:03:15.328,0:03:17.376<br/>他就是run就是這個</p>
+<p>0:03:19.168,0:03:20.704<br/>就是利用python3</p>
+<p>0:03:20.960,0:03:23.776<br/>第三版的python去執行main.py</p>
+<p>0:03:24.032,0:03:25.568<br/>好那我們試試看</p>
+<p>0:03:26.080,0:03:27.104<br/>同樣的在</p>
+<p>0:03:28.896,0:03:34.784<br/>Codespaces我們就這樣做看看</p>
+<p>0:03:35.040,0:03:39.904<br/>ptyhon環境啊我們執行看就知道了你就打python3</p>
+<p>0:03:40.672,0:03:41.696<br/>main.py</p>
+<p>0:03:42.976,0:03:45.024<br/>他就馬上告訴你說不行喔</p>
+<p>0:03:45.792,0:03:48.864<br/>因為連flask都沒有模組沒有啊</p>
+<p>0:03:49.376,0:03:52.960<br/>模組沒有還記得我們在Replit是怎麼做的嗎</p>
+<p>0:03:53.472,0:03:56.032<br/>我們是chmod u+x</p>
+<p>0:03:57.824,0:04:00.640<br/>然後是針對什麼init</p>
+<p>0:04:01.408,0:04:02.176<br/>replit</p>
+<p>0:04:03.200,0:04:05.504<br/>這個程式可以執行</p>
+<p>0:04:06.016,0:04:10.112<br/>緊接著就請他幫我安裝對應的模組對吧</p>
+<p>0:04:13.952,0:04:17.024<br/>那你就會發現說他速度好像比replit快</p>
+<p>0:04:17.791,0:04:19.839<br/>他給的資源相對是多的</p>
+<p>0:04:20.863,0:04:22.911<br/>我那應該是快蠻多啦</p>
+<p>0:04:24.191,0:04:29.567<br/>因為他給你免費啊目前的核心啦你只要進來</p>
+<p>0:04:31.103,0:04:32.895<br/>他對應的這個</p>
+<p>0:04:33.407,0:04:36.735<br/>你這裡想要看到底他現在配置給我們什麼</p>
+<p>0:04:36.991,0:04:39.551<br/>你都可以codespaces</p>
+<p>0:04:40.319,0:04:44.415<br/>那你就可以看到其實你剛剛已經啟動了一個codespaces</p>
+<p>0:04:45.183,0:04:45.951<br/>OK</p>
+<p>0:04:46.463,0:04:52.607<br/>然後他的給定了是兩個core啊8GB剛剛你講的注意的話replit給你兩GB</p>
+<p>0:04:54.143,0:04:56.191<br/>因為他先給你8gb兩個core</p>
+<p>0:04:56.447,0:05:00.031<br/>然後一個月啊他免費的是一天啊</p>
+<p>0:05:00.543,0:05:03.359<br/>假如two core用他hour</p>
+<p>0:05:04.127,0:05:05.407<br/>小時的話</p>
+<p>0:05:06.431,0:05:09.247<br/>他一個月免費是120個cors hours</p>
+<p>0:05:10.015,0:05:14.367<br/>睡覺我們今天用了一個小時就用掉兩個扣</p>
+<p>0:05:15.135,0:05:19.487<br/>這樣你基本上就剩下118個core hours</p>
+<p>0:05:19.743,0:05:21.279<br/>用完就沒了</p>
+<p>0:05:21.791,0:05:24.863<br/>所以很顯然我們要善用這裡面的core hours</p>
+<p>0:05:25.631,0:05:29.727<br/>編輯的時候可以不要在上面就不要在上面就轉檔</p>
+<p>0:05:29.983,0:05:32.287<br/>特定啟動的時候在上面</p>
+<p>0:05:32.799,0:05:38.687<br/>這個時候你就你就知道要怎麼想好所以我這樣才安裝的我其實已經可以了所以我用</p>
+<p>0:05:39.711,0:05:43.295<br/>上網上的箭頭把剛剛的這個拿去拿出來</p>
+<p>0:05:43.551,0:05:46.367<br/>這個時候再執行啊你就會發現說</p>
+<p>0:05:46.879,0:05:48.671<br/>他就幫我啟動一個阜號</p>
+<p>0:05:50.463,0:05:54.303<br/>現在這裡就跳出來說他已經啟動一個阜號</p>
+<p>0:05:54.815,0:05:57.887<br/>那這個是動態所以我就把動態打開來</p>
+<p>0:05:59.167,0:06:01.727<br/>這個接下來就跟local host</p>
+<p>0:06:02.239,0:06:08.383<br/>以及我在對應的Replit是一樣的所以是小寫Admin進來</p>
+<p>0:06:08.639,0:06:11.455<br/>為什麼不需要像replit上學期的這一個</p>
+<p>0:06:12.223,0:06:12.991<br/>Secret</p>
+<p>0:06:15.039,0:06:19.647<br/>因為誰知道我的網址是什麼他每一次中間這個都不一樣</p>
+<p>0:06:20.671,0:06:22.719<br/>所以舊友就保全的功能</p>
+<p>0:06:22.975,0:06:27.583<br/>老師我進來這邊我只要會更新會轉檔就ok了</p>
+<p>0:06:28.863,0:06:32.191<br/>問題是</p>
+<p>0:06:33.471,0:06:35.263<br/>那我的靜態要怎麼看</p>
+<p>0:06:35.519,0:06:36.287<br/>好的靜態</p>
+<p>0:06:36.799,0:06:40.895<br/>因為我有兩個吧這個已經執行開始了我在我還有一個啊</p>
+<p>0:06:41.407,0:06:47.551<br/>在這裡是新的喔我們就要python3我要執行他的模組</p>
+<p>0:06:47.807,0:06:51.135<br/>而且是啟動http.server</p>
+<p>0:06:52.159,0:06:55.231<br/>這個的意思就是因為我們這個系統啊</p>
+<p>0:06:55.999,0:06:58.559<br/>這個系統帶有動態跟靜態</p>
+<p>0:06:59.327,0:07:01.887<br/>靜態我們還有一個index</p>
+<p>0:07:02.911,0:07:09.055<br/>我們的根目錄有index可以啟動那你想要看他裡面就有這個index我把他帶到</p>
+<p>0:07:09.311,0:07:11.871<br/>編輯器index怎麼講的</p>
+<p>0:07:13.407,0:07:15.455<br/>index就說你幫我</p>
+<p>0:07:15.711,0:07:21.599<br/>毫不猶豫了這個是沒有任何Delay了0秒他會跳到哪裡</p>
+<p>0:07:22.111,0:07:24.415<br/>他會跳進content index</p>
+<p>0:07:25.183,0:07:26.719<br/>Content是靜態對不對</p>
+<p>0:07:27.231,0:07:30.559<br/>這很顯然我只要利用這個指令</p>
+<p>0:07:31.071,0:07:33.887<br/>啟動靜態我就可以看到了</p>
+<p>0:07:34.655,0:07:35.935<br/>意思是</p>
+<p>0:07:36.191,0:07:37.983<br/>就跟我在近端一樣</p>
+<p>0:07:39.007,0:07:40.543<br/>唉他又開了一阜號</p>
+<p>0:07:40.799,0:07:42.335<br/>就在打開</p>
+<p>0:07:42.847,0:07:45.407<br/>我就可以同時有動態跟靜態</p>
+<p>0:07:47.455,0:07:48.991<br/>那好處是什麼</p>
+<p>0:07:49.247,0:07:52.319<br/>好處是我改版之後轉檔馬上可以看到</p>
+<p>0:07:53.599,0:07:58.975<br/>比方說我想要在about跟cmsimd這裡我要加一個onshape</p>
+<p>0:08:00.255,0:08:01.791<br/>我到時候指定給</p>
+<p>0:08:02.047,0:08:04.351<br/>某一個組員話零件的部分</p>
+<p>0:08:04.607,0:08:07.679<br/>我要請他把它相關的連結放到這裡來</p>
+<p>0:08:08.191,0:08:10.239<br/>而且是第一階的我就把它save起來</p>
+<p>0:08:11.263,0:08:13.823<br/>只要我按一下轉靜態</p>
+<p>0:08:14.335,0:08:16.127<br/>我馬上在這裡可以看到</p>
+<p>0:08:16.383,0:08:17.919<br/>原來這裡沒有在沒有</p>
+<p>0:08:18.175,0:08:18.943<br/>我現在</p>
+<p>0:08:19.967,0:08:23.551<br/>而且這個是還沒有推到給他配置</p>
+<p>0:08:24.319,0:08:25.599<br/>很方便啊</p>
+<p>0:08:25.855,0:08:27.391<br/>同樣的假如你會</p>
+<p>0:08:27.903,0:08:28.927<br/>寫網誌</p>
+<p>0:08:29.695,0:08:31.743<br/>好那我們現在的網誌在這裡</p>
+<p>0:08:32.767,0:08:34.559<br/>其實你有部分的</p>
+<p>0:08:34.815,0:08:36.351<br/>設定程式</p>
+<p>0:08:37.119,0:08:40.191<br/>或者是我們要求你每個禮拜都寫的話</p>
+<p>0:08:41.471,0:08:46.079<br/>那你有一些運算設計的運算也好或者是你在裡面想要</p>
+<p>0:08:46.335,0:08:48.127<br/>呈現什麼樣的動態內容</p>
+<p>0:08:48.639,0:08:51.199<br/>你就可以直接寫在網誌</p>
+<p>0:08:51.711,0:08:55.039<br/>而且一轉檔馬上就會出現在這邊了</p>
+<p>0:08:55.807,0:09:00.415<br/>為什麼因為現在動態靜態兩個同時在而且他的</p>
+<p>0:09:00.927,0:09:05.023<br/>前面的這個部分是一樣差別在阜號</p>
+<p>0:09:05.791,0:09:09.375<br/>有沒有這個是8080但它阜號並不是放在後面喔</p>
+<p>0:09:09.631,0:09:12.703<br/>全部都用443幫你轉所以不錯啊</p>
+<p>0:09:13.215,0:09:17.055<br/>對我來講非常方便所以我們就這樣的一個情況下</p>
+<p>0:09:17.311,0:09:18.847<br/>你怎麼覺得兩個不夠</p>
+<p>0:09:19.103,0:09:22.687<br/>給我們他又沒有限制我幾個終端機</p>
+<p>0:09:22.943,0:09:26.271<br/>他只限制我們使用的core hours對不對</p>
+<p>0:09:27.295,0:09:29.855<br/>我們想要編網誌</p>
+<p>0:09:30.111,0:09:31.647<br/>我們一般是不會在這裡</p>
+<p>0:09:32.671,0:09:36.767<br/>不會不會在這裡動那意思就好那我想要推上去了</p>
+<p>0:09:37.279,0:09:40.095<br/>推上去我要用手動啦</p>
+<p>0:09:41.631,0:09:42.655<br/>git add git commit</p>
+<p>0:09:44.191,0:09:47.519<br/>阿這裡因為沒有git的那個()沒有啦</p>
+<p>0:09:47.775,0:09:49.055<br/>全部都是指令</p>
+<p>0:09:49.311,0:09:50.847<br/>所說的Add onshape</p>
+<p>0:09:51.615,0:09:52.639<br/>我要開始畫</p>
+<p>0:09:53.663,0:09:59.807<br/>期中的那個平台對不對我趕快去就上去了要上去之後他就會</p>
+<p>0:10:00.063,0:10:01.343<br/>出現在這裡啊</p>
+<p>0:10:02.111,0:10:04.159<br/>他就出現在這裡啊要轉檔</p>
+<p>0:10:04.927,0:10:09.023<br/>所以這個很方便那因為假如你要退出來他有兩個地方退</p>
+<p>0:10:09.535,0:10:12.095<br/>一個是從這裡因為現在目前是active</p>
+<p>0:10:13.119,0:10:15.167<br/>那這裡我是怎麼過來的</p>
+<p>0:10:15.423,0:10:18.239<br/>你只要有啟動登入</p>
+<p>0:10:19.007,0:10:21.567<br/>到github你只要打給他打github.com</p>
+<p>0:10:21.823,0:10:23.871<br/>斜線codespaces</p>
+<p>0:10:24.383,0:10:28.991<br/>他就進來了那目前我是啟動一個codespaces所以你在這裡你可以關</p>
+<p>0:10:29.247,0:10:30.527<br/>你在這裡你可以stop</p>
+<p>0:10:30.783,0:10:33.087<br/>他就不在計算你的cors hours</p>
+<p>0:10:33.343,0:10:37.439<br/>你也可以直接在剛才的這裡面</p>
+<p>0:10:38.463,0:10:41.535<br/>在這裡要怎麼關不是在那裡關在這裡關</p>
+<p>0:10:42.559,0:10:43.839<br/>從這裡也可以關</p>
+<p>0:10:45.119,0:10:51.263<br/>這個跟他那個是一樣只是這個是在倉儲下面剛才那個是在Codespaces的畫面下</p>
+<p>0:10:51.519,0:10:56.639<br/>我現在把它關掉我就跑到我的倉儲跑到這裡我就跟他講我要關我要知道</p>
+<p>0:10:56.895,0:10:58.943<br/>那這樣他就不會記錄那個core hours</p>
+<p>0:10:59.199,0:11:01.247<br/>我一個月只有</p>
+<p>0:11:01.503,0:11:04.319<br/>120個那這個月</p>
+<p>0:11:05.599,0:11:08.415<br/>最後一天了所以你就盡量用啦</p>
+<p>0:11:08.671,0:11:11.743<br/>我不曉得他怎麼算了啊我們29號了嗎</p>
+<p>0:11:11.999,0:11:14.815<br/>所以你現在120個反正那你可以開通宵拉</p>
+<p>0:11:15.327,0:11:17.375<br/>對吧三月份重新計算</p>
+<p>0:11:17.887,0:11:23.007<br/>所以這裡等於有一點吃到飽的概念喔你最後一天我不知道他是不是這樣算</p>
+<p>0:11:23.263,0:11:26.847<br/>轉檔完其實我們的</p>
+<p>0:11:28.127,0:11:29.919<br/>這一個所謂的</p>
+<p>0:11:30.175,0:11:32.479<br/>我們從這裡面要怎麼看他的靜態</p>
+<p>0:11:32.991,0:11:39.135<br/>你想要懶得去聽的話你就跑了pages這裡來然後你就點這個規律我們也知道了</p>
+<p>0:11:39.391,0:11:41.695<br/>所以onshape應該有在上面</p>
+<p>0:11:43.487,0:11:46.303<br/>他說這個影片我們就把它丟到</p>
+<p>0:11:46.815,0:11:52.959<br/>線上然後你剩下的時間啊你就趕快一方面我加入二方面</p>
+<p>0:11:53.215,0:11:54.495<br/>我就開始每一個人直接進入到倉儲</p>
+<br />w2 << <a href='w2.html'>Previous</a> <a href='cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容.html'>Next</a> >> cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容</div>
+
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        
+<!-- 啟用 LaTeX equations 編輯 -->
+  <!-- <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>-->
+    </body></html>
+        

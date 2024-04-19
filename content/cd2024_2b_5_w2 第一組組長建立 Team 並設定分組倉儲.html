@@ -1,0 +1,508 @@
+<!DOCTYPE html><html>
+        <head>
+        <title>cmsimde_site</title>
+        <meta charset="utf-8">
+<meta property="head" content="H3">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/magnific-popup.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/jquery-ui.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/aos.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/style.css">
+        <link rel="shortcut icon" href="./../cmsimde/static/favicons.png">
+
+        <style type='text/css'>
+            .site-section {
+            background-color: #FFFF;
+            padding: 40px 40px;
+            }
+            body > div > div.dropdown.open {
+                display: block;
+            }
+        </style>
+    
+        <!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+        <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/normalize.min.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+        <script src="tipuesearch_content.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/tipuesearch.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch.js"></script>
+        <!-- for Wink3 客製化關閉 -->
+        <!--
+        <link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css" />
+        <script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"></script>
+        -->
+        <script>
+            /* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+        </script>
+        
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushBash.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDiff.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPowerShell.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushMojo.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushRust.js"></script>
+<link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+<!-- 暫時不用
+<script src="./../cmsimde/static/fengari-web.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
+
+</head>
+<body>
+<div class='container'><nav>
+        
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+
+            <header class="site-navbar py-4 bg-white" role="banner">
+              <div class="container">
+                <div class="row align-items-center">
+                <h1>midag6 分組網站</h1>
+                <div class="pl-4">
+                    <form>
+                    <input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required>
+                    </form>
+                </div>
+                  <!-- <div class="col-11 col-xl-2">
+                    <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">midag6 分組網站</a></h1> 
+                  </div>
+                  -->
+                  <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+    <ul class='site-menu js-clone-nav mr-auto d-none d-lg-block'>
+                        <li class="active has-children"><a href="index.html">Home</a>
+                        <ul class="dropdown">
+                            <li><a href="sitemap.html">SMap</a></li>
+                            <li><a href="./../reveal/index.html">reveal</a></li>
+                            <li><a href="./../blog/index.html">blog</a></li>
+                        </ul>
+                      </li>
+                     <li><a href='About.html'>About</a><li><a href='cmsimde.html'>cmsimde</a><li><a href='Codespace.html'>Codespace</a><li><a href='Replit.html'>Replit</a><li><a href='Brython.html'>Brython</a><li class='has-children'><a href='w4.html'>w4</a><ul class='dropdown'><li class='has-children'><a href='w1.html'>w1</a><ul class='dropdown'><li><a href='cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github.html'>cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github</a><li><a href='cd2024 2a 1 blog setup.html'>cd2024 2a 1 blog setup</a><li><a href='cd2024 2b 1 建立個人課程倉儲與網站.html'>cd2024 2b 1 建立個人課程倉儲與網站</a><li><a href='cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github.html'>cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github</a><li><a href='cd2024 2b 3 如何設定 Github 帳號的雙重認證.html'>cd2024 2b 3 如何設定 Github 帳號的雙重認證</a></li></ul><li class='has-children'><a href='w2.html'>w2</a><ul class='dropdown'><li><a href='cd2024_2b_7_w2 利用 codespaces 維護分組網站.html'>cd2024_2b_7_w2 利用 codespaces 維護分組網站</a><li><a href='cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容.html'>cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容</a><li><a href='cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲.html'>cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲</a><li><a href='cd2024_2a_w2_1(41023239楊祐銘).html'>cd2024_2a_w2_1(41023239楊祐銘)</a><li><a href='cd2024 2a w2 4 利用 Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘).html'>cd2024 2a w2 4 利用 Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘)</a></li></ul><li class='has-children'><a href='w3.html'>w3</a><ul class='dropdown'><li><a href='wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組-1.html'>wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組-1</a><li><a href='wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組-2.html'>wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組-2</a><li><a href='cd2024 2b w3 使用 gitpod 與 localhost 維護個人倉儲.html'>cd2024 2b w3 使用 gitpod 與 localhost 維護個人倉儲</a></li></li></ul></ul><li><a href='w5.html'>w5</a><li><a href='w6.html'>w6</a><li><a href='w7.html'>w7</a><li><a href='w8.html'>w8</a></li>
+                      </ul>
+                </nav>
+              </div>
+              <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+              </div>
+
+            </div>
+          </div>
+
+        </header>
+    <div id="tipue_search_content">cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容 << <a href='cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容.html'>Previous</a> <a href='cd2024_2a_w2_1(41023239楊祐銘).html'>Next</a> >> cd2024_2a_w2_1(41023239楊祐銘)<br /><h1>cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲</h1>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/vwYnRnk8K_4?si=6Clg0_VxbWCGILLA" title="YouTube video player" width="560"></iframe></p>
+<p></p>
+<p>0:00:02.304,0:00:03.840<br/>我們就從這裡開始</p>
+<p>0:00:04.608,0:00:08.704<br/>意思是說我們現在已經取到對應的這一個</p>
+<p>0:00:09.216,0:00:13.312<br/>加入2B這一個群組作業的權限</p>
+<p>0:00:13.824,0:00:17.408<br/>他第一點就是說組長必須要先登入到他的github</p>
+<p>0:00:17.664,0:00:18.688<br/>這是第一組的組長</p>
+<p>0:00:19.200,0:00:22.784<br/>Ok所以我們就可以把那個連結把它貼上來</p>
+<p>0:00:24.320,0:00:29.952<br/>按下去之後啊裡面理論上應該只有一個team就是測試的這個team</p>
+<p>0:00:30.464,0:00:34.048<br/>那這個team的意思就告訴你啊因為我是第99組</p>
+<p>0:00:35.072,0:00:41.216<br/>這個可能要在操場上課才有99組就說我們現在是midbg99我要</p>
+<p>0:00:41.472,0:00:43.008<br/>建team的部分我要建</p>
+<p>0:00:43.264,0:00:44.288<br/>bg1</p>
+<p>0:00:44.800,0:00:46.848<br/>然後你屬於第一組的你就join</p>
+<p>0:00:48.640,0:00:53.760<br/>好所以我現在要建create一個team而且這個名稱一定要對你就看得上面mid</p>
+<p>0:00:54.272,0:00:56.576<br/>然後我是b班我是group1</p>
+<p>0:00:57.600,0:00:59.904<br/>這個就是按照我們的規劃</p>
+<p>0:01:00.160,0:01:04.768<br/>這樣的話我就可以看到這個是midterm期中報告的B班</p>
+<p>0:01:05.024,0:01:06.304<br/>然後是group1</p>
+<p>0:01:06.560,0:01:08.864<br/>所以我就可以直接create這個team</p>
+<p>0:01:10.656,0:01:15.008<br/>好所以我Accept這樣的assignment</p>
+<p>0:01:15.264,0:01:19.616<br/>其實我就已經拿到分組倉儲了所以其他的人啊</p>
+<p>0:01:19.872,0:01:22.688<br/>假如取得是待會我們會</p>
+<p>0:01:23.200,0:01:26.272<br/>在團隊那邊給你那一個我們2B的</p>
+<p>0:01:27.040,0:01:27.808<br/>這個連結</p>
+<p>0:01:28.320,0:01:30.112<br/>這我已經取到這個</p>
+<p>0:01:30.624,0:01:31.648<br/>第一組的</p>
+<p>0:01:31.904,0:01:32.672<br/>期中分組報告</p>
+<p>0:01:35.744,0:01:37.280<br/>糟糕糟糕</p>
+<p>0:01:37.792,0:01:40.096<br/>我竟然沒有設定</p>
+<p>0:01:40.608,0:01:42.400<br/>竟然沒有設定template</p>
+<p>0:01:45.472,0:01:48.800<br/>所以我這個可能那這樣對嗎</p>
+<p>0:01:50.592,0:01:53.408<br/>我這個是難度增加因為現在是空的</p>
+<p>0:01:54.944,0:01:58.528<br/>我在設定的時候忘記這個也可以啦</p>
+<p>0:01:59.296,0:02:03.904<br/>這個也可以只是你的難度會增加就變成說你先要</p>
+<p>0:02:04.160,0:02:05.184<br/>啟動這一個</p>
+<p>0:02:05.696,0:02:11.840<br/>那我們我們來幫他做好了那其他的人應該也是一樣喔這樣我設定不</p>
+<p>0:02:12.096,0:02:13.888<br/>我設定是直接拉template</p>
+<p>0:02:14.400,0:02:17.728<br/>結果那個template</p>
+<p>0:02:18.240,0:02:21.568<br/>可是現在這樣子template還能改嗎我看一下</p>
+<p>0:02:22.336,0:02:25.408<br/>我進來看一下因為我這邊還有我的權限</p>
+<p>0:02:25.664,0:02:27.712<br/>我看有沒有辦法</p>
+<p>0:02:27.968,0:02:30.784<br/>我進來看看</p>
+<p>0:02:31.296,0:02:34.112<br/>是我假如近這個2b呀</p>
+<p>0:02:34.624,0:02:36.160<br/>進這個2B</p>
+<p>0:02:37.696,0:02:40.256<br/>然後我來編輯看看</p>
+<p>0:02:42.048,0:02:45.376<br/>然後8個設定8個public</p>
+<p>0:02:46.912,0:02:49.472<br/>ㄟ有耶奇怪咧</p>
+<p>0:02:49.728,0:02:54.336<br/>()我有阿為什麼他沒有反應</p>
+<p>0:02:55.872,0:02:58.944<br/>好所以沒有關係這樣的話我們</p>
+<p>0:02:59.200,0:03:01.504<br/>我們必須要從這裡來</p>
+<p>0:03:02.016,0:03:04.832<br/>Ok我們必須要等於是你要從頭做起來</p>
+<p>0:03:05.088,0:03:07.904<br/>所以你必須要在近端才能處理這個</p>
+<p>0:03:08.416,0:03:11.744<br/>就變成你一定要有可攜的環境</p>
+<p>0:03:12.256,0:03:14.304<br/>好所以我們把它跑到</p>
+<p>0:03:14.816,0:03:18.144<br/>好啦那既然是這樣因為我有設耶</p>
+<p>0:03:18.400,0:03:20.448<br/>但他並沒有所以我現在先切換</p>
+<p>0:03:21.472,0:03:23.008<br/>切換到c槽</p>
+<p>0:03:23.520,0:03:29.152<br/>所以我打c冒號是切換到c槽那我想要有一個</p>
+<p>0:03:29.408,0:03:30.432<br/>目錄然後我用tmp來做</p>
+<p>0:03:33.504,0:03:36.832<br/>所以他基本上就是要我來echo</p>
+<p>0:03:37.600,0:03:39.648<br/>所以我們只能夠照這個來做</p>
+<p>0:03:40.416,0:03:43.744<br/>意思就說我現在變成是我的分組網站啊</p>
+<p>0:03:44.000,0:03:49.120<br/>他給我的是一個全空的那我曉得為什麼因為我在設的時候剛剛已經看到了</p>
+<p>0:03:49.376,0:03:51.936<br/>我其實是有有設template</p>
+<p>0:03:52.192,0:03:52.960<br/>有沒有</p>
+<p>0:03:53.728,0:03:55.520<br/>我有設template</p>
+<p>0:03:56.288,0:03:58.848<br/>為什麼他並沒有</p>
+<p>0:03:59.104,0:04:05.248<br/>沒有按照我設定的來取不過應該ok所以這裡面啊我就可以</p>
+<p>0:04:05.504,0:04:07.296<br/>在這個指令區啊</p>
+<p>0:04:07.552,0:04:11.392<br/>我先把他的這個倉儲先動起因為現在是完全空的</p>
+<p>0:04:11.904,0:04:14.720<br/>所以他是叫我說要echo這一</p>
+<p>0:04:15.232,0:04:17.280<br/>echo這個的意思就是我把</p>
+<p>0:04:17.536,0:04:19.327<br/>我把這一個字串</p>
+<p>0:04:20.351,0:04:26.495<br/>直接印出來之後他兩個大於啊就是塞進去放進去這個</p>
+<p>0:04:26.751,0:04:32.895<br/>readme.md換句話說就是打開空的readme.md然後把這一行放進去而</p>
+<p>0:04:33.663,0:04:35.711<br/>好所以我就把它ctrl+c下來</p>
+<p>0:04:35.967,0:04:38.783<br/>然後就用滑鼠右鍵貼我就可以建立</p>
+<p>0:04:39.295,0:04:43.647<br/>現在你假如打dir的話你就可以看到我已經有</p>
+<p>0:04:43.903,0:04:44.671<br/>這個檔案</p>
+<p>0:04:45.695,0:04:51.839<br/>所以我是切換到c比較快嗎因為我y的話是USB 3.0 c是()</p>
+<p>0:04:52.095,0:04:58.239<br/>當然是在c做會比較快那我建立一個tmp目錄我進到tmp目錄</p>
+<p>0:04:58.495,0:05:02.079<br/>我echo這個字串把它塞到到這個檔案所以我現在已經有了這個檔案就這樣</p>
+<p>0:05:02.335,0:05:03.871<br/>好然後我要</p>
+<p>0:05:04.639,0:05:05.919<br/>讓這一個</p>
+<p>0:05:06.175,0:05:10.783<br/>目前所在的tmp最其實我這樣做是錯了因為</p>
+<p>0:05:11.039,0:05:16.415<br/>我目前在template目前是在tmp其實我應該要在</p>
+<p>0:05:16.671,0:05:20.255<br/>mkdir哪一個我剛才應該是</p>
+<p>0:05:20.511,0:05:23.327<br/>我的倉儲名的其實這個是ok的啦</p>
+<p>0:05:23.583,0:05:25.119<br/>我應該是2B</p>
+<p>0:05:25.887,0:05:27.935<br/>然後Dash是MID</p>
+<p>0:05:29.471,0:05:32.799<br/>midterm的這個b班然後是group1</p>
+<p>0:05:34.847,0:05:39.711<br/>我應該要進來為什麼因為我希望tmp底下</p>
+<p>0:05:39.967,0:05:43.807<br/>有好幾個倉儲所以我就可以進到2B的midterm</p>
+<p>0:05:46.111,0:05:48.415<br/>然後是B的group1</p>
+<p>0:05:49.183,0:05:53.023<br/>這個時候我應該是init才對</p>
+<p>0:05:53.279,0:05:59.423<br/>為什麼你仔細看喔因為我目前腳進到西的tmp來看的話</p>
+<p>0:05:59.679,0:06:01.215<br/>我當然是可以在這裡做啦</p>
+<p>0:06:01.727,0:06:05.823<br/>可是我init之後啊他會建立一個點git</p>
+<p>0:06:06.335,0:06:08.639<br/>意思就說他會把這個目錄</p>
+<p>0:06:08.895,0:06:14.015<br/>會把假如不是進來這裡做我在這裡做的話他會把這個目錄變成倉儲</p>
+<p>0:06:14.783,0:06:17.599<br/>雖然外面目錄名稱不重要</p>
+<p>0:06:17.855,0:06:23.999<br/>重要的反而是.git的裡面的c o n f i g所以我應該把這個</p>
+<p>0:06:25.535,0:06:27.583<br/>然後應該目前是長這樣</p>
+<p>0:06:27.839,0:06:29.887<br/>可是因為我已經有吧</p>
+<p>0:06:30.399,0:06:31.935<br/>隱藏檔秀出來</p>
+<p>0:06:32.191,0:06:33.215<br/>所以你仔細看</p>
+<p>0:06:33.471,0:06:39.615<br/>我假如繼續執行initials這個git他就會建立所以我假如</p>
+<p>0:06:39.871,0:06:40.895<br/>init的話</p>
+<p>0:06:41.407,0:06:43.967<br/>就會建立一個.git</p>
+<p>0:06:44.735,0:06:47.551<br/>Ok可是這裡他要</p>
+<p>0:06:48.063,0:06:51.135<br/>他目前我所以現在這個還蠻複雜的</p>
+<p>0:06:51.647,0:06:57.279<br/>他說是use master as a name因為他這個Git表示他還是</p>
+<p>0:06:58.047,0:07:00.351<br/>還是這一個用master</p>
+<p>0:07:00.607,0:07:03.167<br/>那我們怎麼知道呢我用git()你看</p>
+<p>0:07:07.263,0:07:08.287<br/>用git ()</p>
+<p>0:07:10.591,0:07:11.615<br/>沒有耶</p>
+<p>0:07:13.151,0:07:13.919<br/>沒有</p>
+<p>0:07:14.943,0:07:19.295<br/>所以我的()應該要用main啦你看那()</p>
+<p>0:07:19.551,0:07:24.415<br/>好所以我就照他的這個指令好了我就要copy這一串</p>
+<p>0:07:24.671,0:07:26.463<br/>那我後面要把他叫main</p>
+<p>0:07:27.231,0:07:28.511<br/>所以我ctrl</p>
+<p>0:07:29.535,0:07:33.119<br/>你就知道說我們只要用template的話幫你省了多少次</p>
+<p>0:07:37.215,0:07:43.359<br/>所以我再繼續做好了ok所以我緊接著我要把他Add進來</p>
+<p>0:07:44.127,0:07:45.919<br/>好所以我要git add readme.md</p>
+<p>0:07:48.991,0:07:53.087<br/>好那就是要把他放到倉儲裡面</p>
+<p>0:07:53.599,0:07:59.231<br/>緊接著我要()這一個就繼續跟著他做表示我要add commit</p>
+<p>0:08:04.095,0:08:08.959<br/>我把我的main設成主分支在這裡我接著做</p>
+<p>0:08:09.727,0:08:13.823<br/>所以我說你建空的其實你假設會設的話</p>
+<p>0:08:14.079,0:08:17.407<br/>好所以我現在應該已經有()了</p>
+<p>0:08:20.479,0:08:21.759<br/>所以我這個時候啊</p>
+<p>0:08:22.271,0:08:26.623<br/>一開始是initial還是一個空的empty是空的</p>
+<p>0:08:27.647,0:08:30.975<br/>好是所以我這個時候我根本還沒有</p>
+<p>0:08:31.487,0:08:33.535<br/>還沒有指到任何的分支</p>
+<p>0:08:34.047,0:08:38.399<br/>可是我利用他這個我告訴他我不要用master我要做main</p>
+<p>0:08:38.911,0:08:40.447<br/>然後到這邊還是沒看到</p>
+<p>0:08:40.703,0:08:43.775<br/>可是我add commit之後啊我再執行這個</p>
+<p>0:08:44.031,0:08:50.175<br/>main的部分現在就切到等於是我目前的分支是切到這個主分之</p>
+<p>0:08:50.687,0:08:51.711<br/>現在已經到這裡啦</p>
+<p>0:08:51.967,0:08:54.783<br/>緊接著就是我遠端的部分</p>
+<p>0:08:55.295,0:08:59.391<br/>Remote add所以這個指令的意思我們先執行我再告訴你</p>
+<p>0:08:59.647,0:09:02.719<br/>所以我們git remote add的意思就是我們</p>
+<p>0:09:03.231,0:09:04.255<br/>基本上</p>
+<p>0:09:05.791,0:09:08.351<br/>git是指令remote是一個選項</p>
+<p>0:09:08.607,0:09:10.655<br/>所以我遠端設一個代號</p>
+<p>0:09:11.679,0:09:14.495<br/>我遠端是一個代號這個代號叫origin</p>
+<p>0:09:15.775,0:09:21.919<br/>這個這個origin會寫在近端.git的config裡面</p>
+<p>0:09:22.175,0:09:23.455<br/>相對</p>
+<p>0:09:23.967,0:09:25.759<br/>所以這裡很顯然</p>
+<p>0:09:26.015,0:09:28.319<br/>我們就要建立什麼</p>
+<p>0:09:30.367,0:09:31.391<br/>S.S.H</p>
+<p>0:09:31.903,0:09:37.535<br/>他指定用SSH所以即便我們設好之後啊我假如沒有</p>
+<p>0:09:38.559,0:09:41.631<br/>對應key的話其實我待會是推不回去的</p>
+<p>0:09:42.399,0:09:43.935<br/>那沒關係我反正有</p>
+<p>0:09:44.959,0:09:48.031<br/>有他的這個帳號我可以幫他設好所以我就</p>
+<p>0:09:48.287,0:09:50.079<br/>設好之後那問題來了</p>
+<p>0:09:50.591,0:09:52.383<br/>你現在是推不上去了</p>
+<p>0:09:55.711,0:09:57.247<br/>現在應該是配不上去了</p>
+<p>0:09:59.039,0:10:02.111<br/>應該是他現在問我什麼</p>
+<p>0:10:02.367,0:10:03.903<br/>問我的</p>
+<p>0:10:04.671,0:10:06.719<br/>這裡我要ctrl+c掉</p>
+<p>0:10:08.255,0:10:12.351<br/>它因為目前的話我必須帶出putty幫他弄好</p>
+<p>0:10:12.863,0:10:15.167<br/>然後我要把待會要把那個key給他</p>
+<p>0:10:15.935,0:10:20.031<br/>最很顯然我現在假設我想要用他的這個</p>
+<p>0:10:20.287,0:10:23.103<br/>因為我從這裡是沒辦法取到他的private key了</p>
+<p>0:10:24.383,0:10:27.199<br/>我從這裡是沒辦法取到他的private key</p>
+<p>0:10:28.991,0:10:33.599<br/>所以我必須要從最基礎的key開始做我看他有沒有key</p>
+<p>0:10:36.159,0:10:42.303<br/>喔它已經有key還把他打那麼長他自己幫他建好所以我就從putty這裡</p>
+<p>0:10:42.559,0:10:43.071<br/>這裡</p>
+<p>0:10:43.839,0:10:45.631<br/>反正我們後面再用</p>
+<p>0:10:46.143,0:10:52.287<br/>()還是會用到所以我必須要先把putty的這個section先建起</p>
+<p>0:10:53.055,0:10:55.615<br/>可是要建這個之前我必須要先有key</p>
+<p>0:10:56.127,0:10:57.919<br/>好所以我就putty gen</p>
+<p>0:10:58.175,0:10:59.199<br/>好那我來建</p>
+<p>0:11:00.223,0:11:01.759<br/>所以我在這邊我就建</p>
+<p>0:11:02.271,0:11:03.039<br/>1把key</p>
+<p>0:11:03.551,0:11:07.391<br/>可是我在這邊移動的時候他就會有key可是我這裡我必須要</p>
+<p>0:11:07.647,0:11:08.927<br/>存兩種格式</p>
+<p>0:11:09.951,0:11:14.559<br/>好那表示說我就要把這一串public key要送到他的帳號下</p>
+<p>0:11:15.071,0:11:16.607<br/>記下來</p>
+<p>0:11:16.863,0:11:23.007<br/>好我幫他設一個key所以我這裡就把public key送進來所以我特別寫說這是cd</p>
+<p>0:11:23.263,0:11:28.127<br/>2024的那麼我們現在是w2</p>
+<p>0:11:28.639,0:11:30.943<br/>他知道說這是第二週建的</p>
+<p>0:11:33.247,0:11:37.087<br/>問題是我需要private的好我必須要這個private</p>
+<p>0:11:37.599,0:11:40.159<br/>必需要是putty的因為我現在在Windows</p>
+<p>0:11:40.671,0:11:42.975<br/>好所以我必須用這個來</p>
+<p>0:12:15.231,0:12:16.255<br/>的key</p>
+<p>0:12:17.791,0:12:23.935<br/>好然後我就可以把它存進來所以這個我就要把他叫做</p>
+<p>0:12:24.191,0:12:24.959<br/>3211</p>
+<p>0:12:25.471,0:12:29.055<br/>Cd2024的w2</p>
+<p>0:12:29.567,0:12:33.663<br/>因為他的副檔名字ppk所以我一看我就知道</p>
+<p>0:12:33.919,0:12:34.687<br/>他是</p>
+<p>0:12:35.199,0:12:36.479<br/>putty的private key</p>
+<p>0:12:36.991,0:12:38.783<br/>好把它save起來</p>
+<p>0:12:39.295,0:12:41.343<br/>好那同樣的這個</p>
+<p>0:12:42.367,0:12:46.975<br/>因為我們有private key就可以產生public key啊這個到還好</p>
+<p>0:12:47.231,0:12:50.559<br/>只是我們還需要一把待會replit要用</p>
+<p>0:12:50.815,0:12:52.351<br/>所以我們要把它convert了</p>
+<p>0:12:53.119,0:12:54.399<br/>所以我們要把那個</p>
+<p>0:12:54.655,0:12:57.215<br/>把這個PPk有沒有Convert成</p>
+<p>0:12:58.495,0:13:00.543<br/>Open SSh格式</p>
+<p>0:13:01.311,0:13:04.383<br/>我說這個要想辦法弄對所以</p>
+<p>0:13:04.639,0:13:08.735<br/>等一下我這邊</p>
+<p>0:13:08.991,0:13:13.343<br/>應該是所以這一把Key我們就要叫ID</p>
+<p>0:13:14.367,0:13:19.231<br/>R s a的可是我們要上傳</p>
+<p>0:13:19.999,0:13:21.535<br/>存成txt</p>
+<p>0:13:23.327,0:13:26.143<br/>我們再來有一個config</p>
+<p>0:13:26.399,0:13:31.519<br/>所以這個我們就可以不用了那config其實我這邊也順便寫一下嗎</p>
+<p>0:13:32.031,0:13:34.591<br/>config我們需要一些資料這個是host</p>
+<p>0:13:40.991,0:13:43.551<br/>我們要有user對吧</p>
+<p>0:13:46.879,0:13:48.671<br/>好然後真正的host name</p>
+<p>0:13:53.023,0:13:54.047<br/>要存成什麼</p>
+<p>0:13:54.303,0:13:59.935<br/>因為我們是ipv4嗎所以不需要有那個proxy之前需要底下還有一行</p>
+<p>0:14:00.191,0:14:00.959<br/>現在不用</p>
+<p>0:14:01.215,0:14:03.263<br/>好像我們把它save成</p>
+<p>0:14:03.775,0:14:06.335<br/>一樣在c的他的key的位置</p>
+<p>0:14:06.847,0:14:08.895<br/>這裡好要叫什麼config</p>
+<p>0:14:09.663,0:14:12.223<br/>因為我們要上傳的</p>
+<p>0:14:12.479,0:14:17.343<br/>好所以裡面就會有三個檔案這個是待會要用到的section對應的</p>
+<p>0:14:17.599,0:14:19.135<br/>可是不要忘記囉</p>
+<p>0:14:19.647,0:14:22.463<br/>你這裡設好的他會存到()取代</p>
+<p>0:14:22.719,0:14:25.023<br/>我們待會還要把()帶出來</p>
+<p>0:14:25.535,0:14:28.351<br/>他最好的方式就是隨身碟y</p>
+<p>0:14:28.607,0:14:30.143<br/>也不管你插上去是什麼</p>
+<p>0:14:30.399,0:14:36.543<br/>你要這邊還待會還要再額外再講好啦就把它存起來我們先處理putty的</p>
+<p>0:14:36.799,0:14:39.871<br/>這個section好這個時候我們就可以進來</p>
+<p>0:14:40.639,0:14:45.247<br/>然後選擇我們要連線的是github.com</p>
+<p>0:14:46.271,0:14:50.879<br/>然後我們的section也較github.com因為他剛剛已經幫我們選了</p>
+<p>0:14:51.135,0:14:52.415<br/>這裡先存起來</p>
+<p>0:14:52.927,0:14:55.487<br/>存起來之後啊proxy不用設</p>
+<p>0:14:55.743,0:14:58.303<br/>但是我沒有()這裡要設吧</p>
+<p>0:14:58.815,0:15:00.351<br/>好所以我們就要選</p>
+<p>0:15:00.863,0:15:02.911<br/>對應的key給他</p>
+<p>0:15:03.167,0:15:08.031<br/>可是這把key並不是在Y然後我先我先用好了我先確定</p>
+<p>0:15:08.287,0:15:10.591<br/>我們可以完成把它推上去</p>
+<p>0:15:10.847,0:15:12.383<br/>讓第一組開始工作對吧</p>
+<p>0:15:12.639,0:15:15.455<br/>所以應該要放在</p>
+<p>0:15:15.967,0:15:22.111<br/>這裡用在C是比較不好因為因為你變成說待會重新開機就不見了</p>
+<p>0:15:22.367,0:15:27.231<br/>所以我們待會還會想辦法把它改回y放在我們的可攜程式上面</p>
+<p>0:15:27.487,0:15:30.559<br/>打開</p>
+<p>0:15:31.327,0:15:33.887<br/>然後我們要這裡還要重新存</p>
+<p>0:15:34.911,0:15:40.287<br/>因為我們已經修改成而且你自己要先按open因為他會送一個key過來，假如你沒有accept是不會成功</p>
+<p>0:15:40.799,0:15:43.615<br/>假如你沒有accept的話你是不會成功</p>
+<p>0:15:43.871,0:15:47.455<br/>因為你沒有辦法再連線的時候接這一個key</p>
+<p>0:15:47.967,0:15:54.111<br/>一旦到這裡表示說我們已經順利的用這section設定過來所以這</p>
+<p>0:15:54.367,0:15:54.879<br/>就不用了</p>
+<p>0:15:55.135,0:16:01.279<br/>好在這個時候啊我們剛才執行的那個部分應該就有機會成功了</p>
+<p>0:16:02.815,0:16:04.351<br/>想要連線是什麼</p>
+<p>0:16:04.607,0:16:05.631<br/>因為remote add</p>
+<p>0:16:06.911,0:16:10.495<br/>我們想要用git當帳號就是我們剛剛的user</p>
+<p>0:16:10.751,0:16:12.799<br/>然後這個是什麼這個是section</p>
+<p>0:16:13.567,0:16:16.383<br/>這個是拿到的分組的帳號</p>
+<p>0:16:16.639,0:16:19.199<br/>這個是第一組的分組倉儲</p>
+<p>0:16:19.455,0:16:24.575<br/>好啦所以我們就把這個再重新執行一遍假如能夠推上去的話</p>
+<p>0:16:26.623,0:16:29.951<br/>假如能夠推上去的這個已經設好應該是下一個</p>
+<p>0:16:30.463,0:16:31.999<br/>那這個意思是什麼</p>
+<p>0:16:32.767,0:16:38.399<br/>你想要去看他這個倉儲對應的意思就是我們要設</p>
+<p>0:16:38.655,0:16:39.679<br/>()</p>
+<p>0:16:42.239,0:16:45.823<br/>設()的意思這個u代表是上層</p>
+<p>0:16:46.335,0:16:48.127<br/>所以我現在push</p>
+<p>0:16:48.639,0:16:53.503<br/>我假如沒有這個-u意思就說我沒有設成origin</p>
+<p>0:16:54.015,0:16:56.063<br/>就是main而且上一層</p>
+<p>0:16:56.319,0:16:58.367<br/>你每一次都要Push origin main</p>
+<p>0:16:59.391,0:17:01.183<br/>可是你讓我這樣設之後啊</p>
+<p>0:17:01.439,0:17:06.559<br/>所謂的上層你不特別講他就是origin這個代表什麼</p>
+<p>0:17:06.815,0:17:08.351<br/>origin就是這個連結啊</p>
+<p>0:17:09.375,0:17:12.447<br/>那main是什麼main是主分支看可不可以成功</p>
+<p>0:17:18.079,0:17:19.103<br/>上去了嗎</p>
+<p>0:17:19.359,0:17:19.871<br/>上去</p>
+<p>0:17:20.383,0:17:26.527<br/>意思就是表示我們那個section是成功的因為我們通過他的權限為什麼我已經把Public key</p>
+<p>0:17:26.783,0:17:30.623<br/>丟到他那邊所以我們剛剛空的那一個倉儲應該</p>
+<p>0:17:30.879,0:17:32.159<br/>已經有資料了吧</p>
+<p>0:17:32.927,0:17:34.463<br/>可是空資料</p>
+<p>0:17:34.975,0:17:35.743<br/>空資料</p>
+<p>0:17:38.815,0:17:40.095<br/>所以接下來怎麼辦</p>
+<p>0:17:40.351,0:17:43.167<br/>接下來就跑到我們的template的位置啊</p>
+<p>0:17:43.935,0:17:46.495<br/>好那我們剛剛已經講了在這裡</p>
+<p>0:17:47.519,0:17:50.335<br/>我們理論上是要給你template嗎</p>
+<p>0:17:50.591,0:17:53.919<br/>好那我的template不就在這裡嗎</p>
+<p>0:17:54.175,0:17:55.967<br/>我的template不就是這一個嗎</p>
+<p>0:17:56.479,0:18:02.623<br/>Cmsi有沒有這個啊所以我要clone它下來ctrl+c</p>
+<p>0:18:02.623,0:18:04.623<br/>把它clone到tmp</p>
+<p>0:18:04.671,0:18:06.719<br/>這我這邊要</p>
+<p>0:18:07.487,0:18:11.327<br/>切換到c切換到tmp然後我要去git clone</p>
+<p>0:18:12.095,0:18:17.215<br/>因為你沒有要推你也沒有權限推</p>
+<p>0:18:17.471,0:18:21.055<br/>而且我知道他沒有子模組所以這裡不需要</p>
+<p>0:18:22.079,0:18:23.359<br/>recourse submodel</p>
+<p>0:18:23.871,0:18:30.015<br/>因為我要的就是他的資料然後待會要把它放到我空的分組倉儲上就這樣</p>
+<p>0:18:30.271,0:18:31.039<br/>然後再推回去</p>
+<p>0:18:31.295,0:18:32.831<br/>好所以我就先把他先抓下來</p>
+<p>0:18:33.087,0:18:36.927<br/>抓下來你不是要他的版本</p>
+<p>0:18:37.183,0:18:38.975<br/>他這裡為什麼會</p>
+<p>0:18:39.999,0:18:43.071<br/>為什麼會這樣子問我</p>
+<p>0:18:43.327,0:18:46.399<br/>我想一下</p>
+<p>0:18:48.447,0:18:54.591<br/>因為我沒有設不要用他的權限其實他本來就沒有權限啊我先試看</p>
+<p>0:18:54.847,0:18:57.407<br/>假如不行的話</p>
+<p>0:18:57.663,0:19:00.223<br/>我們就必須要逮出啊</p>
+<p>0:19:00.735,0:19:03.295<br/>還是一樣好我這邊先暫停一下</p>
+<p>0:19:03.551,0:19:08.671<br/>我們拍第二個因為我這邊要找找到上學期的那上學期的網站會在哪裡</p>
+<p>0:19:10.463,0:19:16.351<br/>應該在其實我還是還沒有把它關掉啦不過</p>
+<p>0:19:16.607,0:19:18.655<br/>哇我沒有ipv4</p>
+<p>0:19:20.191,0:19:25.311<br/>所以我這個時候變成要把這個命運多舛</p>
+<p>0:19:25.823,0:19:28.639<br/>所以我變成了因為這一台在ipv6</p>
+<p>0:19:29.663,0:19:32.991<br/>所以我必須要設代理主機才能連過去</p>
+<p>0:19:34.015,0:19:40.159<br/>那我想一下我可以連嗎應該還在喔</p>
+<p>0:19:40.671,0:19:46.815<br/>mdtw我連到上學期是</p>
+<p>0:19:48.351,0:19:49.887<br/>Note嗎</p>
+<p>0:19:52.959,0:19:56.287<br/>然後這邊應該有</p>
+<p>0:19:57.823,0:20:00.383<br/>那個叫config嗎</p>
+<p>0:20:06.015,0:20:09.343<br/>忘記存在哪裡</p>
+<p>0:20:11.647,0:20:16.255<br/>可能我先錄到這裡我找到我在錄第二個好了</p>
+<p>0:20:17.535,0:20:20.351<br/>那這邊可以省下一點時間</p>
+<br />cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容 << <a href='cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容.html'>Previous</a> <a href='cd2024_2a_w2_1(41023239楊祐銘).html'>Next</a> >> cd2024_2a_w2_1(41023239楊祐銘)</div>
+
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        
+<!-- 啟用 LaTeX equations 編輯 -->
+  <!-- <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>-->
+    </body></html>
+        
