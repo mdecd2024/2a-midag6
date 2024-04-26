@@ -2,7 +2,7 @@
         <head>
         <title>cmsimde_site</title>
         <meta charset="utf-8">
-<meta property="head" content="H3">
+<meta property="head" content="H1">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
         <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
@@ -142,14 +142,164 @@ img.add_border {
           </div>
 
         </header>
-    <div id="tipue_search_content">cd2024 2b 1 建立個人課程倉儲與網站 << <a href='cd2024 2b 1 建立個人課程倉儲與網站.html'>Previous</a> <a href='cd2024 2b 3 如何設定 Github 帳號的雙重認證.html'>Next</a> >> cd2024 2b 3 如何設定 Github 帳號的雙重認證<br /><h1>cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github</h1>
+    <div id="tipue_search_content">w9 << <a href='w9.html'>Previous</a> <br /><h1>w10</h1>
+<p>協同產品設計實習第十週實習操作, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.</p>
+<p>W10 實習任務一:</p>
+<p>將老師給的2a出席名單，將程式詢問AI後，在每行後方進行註記，方便了解與解析此Brython程式如何進行運作</p>
+<p><span>內容與重點，程式是如何運行與操作的</span></p>
+<p>這段程式碼主要的功能是從指定的 URL 下載一個 CSV 檔案，然後將檔案內容解析成學員資料，並將這些資料格式化後插入到 HTML 文件中的特定位置。這裡我們來看一下程式碼的運作方式和重點：</p>
+<p>1. **fetch_csv_data 函式**：這是程式的入口點。它會執行 AJAX 請求以獲取 CSV 檔案的內容。當請求完成時，它會呼叫 `on_complete` 函式處理回應。</p>
+<p>2. **on_complete 函式**：這個函式是 AJAX 請求完成後的回調函式。如果請求成功（狀態碼為 200 或 0），則會將 CSV 檔案的內容解析並格式化後插入到 HTML 文件中的指定位置（`brython_div`）；否則會輸出錯誤訊息。</p>
+<p>3. **解析 CSV 檔案內容**：在 `on_complete` 函式中，程式將 CSV 檔案的內容解析成行，然後每行再根據逗號進行拆分，以獲得每個資料項。在這之後，它會過濾空白行，並將有效的資料存入 `data` 列表中。</p>
+<p>4. **資料格式化與插入 HTML**：對於每個有效的資料項，程式會從中提取學號、GitHub 使用者名稱和組別資訊。然後，它會建立學號對應的網站連結、倉庫連結和組別連結，並將這些資訊格式化後插入到 HTML 文件中的 `brython_div` 元素中。</p>
+<p>5. **發送 AJAX 請求**：在 `fetch_csv_data` 函式中，程式會建立一個 AJAX 請求，設置相應的回調函式，然後發送 GET 請求以獲取 CSV 檔案的內容。</p>
+<p>總的來說，這段程式碼的核心是利用 AJAX 技術從指定的 URL 下載 CSV 檔案，然後解析該檔案並將其內容格式化後插入到 HTML 文件中的指定位置，以展示學員資料。</p>
+<p>下方程式已經對每行進行註解。<br/><br/></p>
+<!-- 導入 brython 程式庫 -->
+<p>
+<script src="./../cmsimde/static/brython.js"></script>
+<script src="./../cmsimde/static/brython_stdlib.js"></script>
+</p>
+<!-- 啟動 Brython -->
+<p>
+<script>
+window.onload=function(){
+brython({debug:1, pythonpath:['./../cmsimde/static/','./../downloads/py/']});
+}
+</script>
+</p>
+<p><!-- 導入 FileSaver 與 filereader --></p>
+<p>
+<script src="./../cmsimde/static/ace/FileSaver.min.js" type="text/javascript"></script>
+<script src="./../cmsimde/static/ace/filereader.js" type="text/javascript"></script>
+</p>
+<p><!-- 導入 ace --></p>
+<p>
+<script src="./../cmsimde/static/ace/ace.js" type="text/javascript"></script>
+<script src="./../cmsimde/static/ace/ext-language_tools.js" type="text/javascript"></script>
+<script src="./../cmsimde/static/ace/mode-python3.js" type="text/javascript"></script>
+<script src="./../cmsimde/static/ace/snippets/python.js" type="text/javascript"></script>
+</p>
+<p><!-- 導入 gearUtils-0.9.js Cango 齒輪繪圖程式庫 -->
+<script src="./../cmsimde/static/Cango-24v03-min.js"></script>
+<script src="./../cmsimde/static/gearUtils-09.js"></script>
+<script src="./../cmsimde/static/SVGpathUtils-6v03-min.js"></script>
+<script src="./../cmsimde/static/sylvester.js"></script>
+<script src="./../cmsimde/static/PrairieDraw.js"></script>
+</p>
+<p><!-- 請注意, 這裡使用 Javascript 將 localStorage["kw_py_src1"] 中存在近端瀏覽器的程式碼, 由使用者決定存檔名稱--></p>
+<p>
+<script type="text/javascript">
+function doSave(storage_id, filename){
+    var blob = new Blob([localStorage[storage_id]], {type: "text/plain;charset=utf-8"});
+    filename = document.getElementById(filename).value
+    saveAs(blob, filename+".py");
+}
+</script>
+</p>
+<p>
+<script type="text/python3">
+from browser import document as doc
+import ace
+# 清除畫布
+def clear_bd1(ev):
+    bd = doc["brython_div1"]
+    bd.clear()
+Ace1 = ace.Editor(editor_id="kw_editor1", console_id="kw_console1", container_id="kw__container1", storage_id="kw_py_src1" )
+# 從 gist 取出程式碼後, 放入 editor 作為 default 程式
+def run1():
+    # 利用 get 取下 src 變數值
+    try:
+        url = doc.query["src"]
+    except:
+        url = "https://gist.githubusercontent.com/41023124/7cc0e3eba635ee3b1de543abe144832e/raw/aa86c7cbdac5e61ec1d504408c81f2530775dab6/2a"
+    prog = open(url).read()
+
+    # 將程式載入編輯區
+    Ace1.editor.setValue(prog)
+    Ace1.editor.scrollToRow(0)
+    Ace1.editor.gotoLine(0)
+    # 直接執行程式
+    #ns = {'__name__':'__main__'}
+    #exec(prog, ns)
+    # 按下 run 按鈕
+    Ace1.run()
+
+# 執行程式, 顯示輸出結果與清除輸出結果及對應按鈕綁定
+doc['kw_run1'].bind('click', Ace1.run)
+doc['kw_show_console1'].bind('click', Ace1.show_console)
+doc['kw_clear_console1'].bind('click', Ace1.clear_console)
+doc['clear_bd1'].bind('click', clear_bd1)
+# 呼叫函式執行
+run1()
+</script>
+</p>
+<p><!-- add 1 to 100 開始 -->
+<script type="text/python3">
+from browser import document as doc
+import ace
+
+# 清除畫布
+def clear_bd1(ev):
+    bd = doc["brython_div1"]
+    bd.clear()
+
+# 利用 ace 中的 Editor 建立 Ace2 物件, 其中的輸入變數分別對應到頁面中的編輯區物件
+Ace2 = ace.Editor(editor_id="kw_editor1", console_id="kw_console1", container_id="kw__container1", storage_id="kw_py_src1" )
+
+add1to100_url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c48e37714f055c3a0027cbfef59e442a6ef659b9/from_1_add_to_100_1.py"
+
+# 從 gist 取得程式碼
+add_src = open(add1to100_url).read()
+def add(ev):
+    Ace2.editor.setValue(add_src)
+    Ace2.editor.scrollToRow(0)
+    Ace2.editor.gotoLine(0)
+    Ace2.run()
+
+# id 為 "add1to100" 的按鈕點按時, 執行 add 方法
+doc["add1to100"].bind('click', add)
+</script>
+</p>
+<p><!-- add 1 to 100 結束--></p>
+<!-- editor1 開始 -->
+<p><!-- 用來顯示程式碼的 editor 區域 --></p>
+<div id="kw_editor1" style="width: 600px; height: 300px;"></div>
+<p><!-- 以下的表單與按鈕與前面的 Javascript doSave 函式以及 FileSaver.min.js 互相配合 --></p>
+<p><!-- 存擋表單開始 --></p>
+<form><label>Filename: <input id="kw_filename" placeholder="input file name" type="text"/>.py</label> <input onclick="doSave('kw_py_src1', 'kw_filename1');" type="submit" value="Save"/></form>
+<p><!-- 存擋表單結束 --></p>
 <p></p>
-<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/3VdJEzJY-oE?si=ISL1atN75CkkaQgT" title="YouTube video player" width="560"></iframe></p>
-<p>影片敘述 :</p>
-<p>本次上課內容與github和replit息息相關，如果需要使用replit協同、同步更改github上的內容，就需要利用本影片的步驟，進行github account 上的設定與 replit 去做連結，使其可以相互信任。</p>
-<p>cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github.txt 逐字稿 txt 丟至downloads</p>
-<p>開始啊<br/>我們就連到我登入這裡你必須要登入到<br/>你必須登入到github<br/>然後同時啊<br/>登入到replit<br/>所以你必須要啊先把兩邊把它連起來<br/>意思就是說你要跑到你的<br/>replit的這個帳號下<br/>這是你replit的帳號<br/>你要點選他的account<br/>這是你帳號下面的這個帳號<br/>設定<br/>所以我點選這個的話我目前啊<br/>在底下這裡其實我已經有連結了<br/>兩邊能不能信任<br/>靠的就是這個連線的服務<br/>就是這個<br/>假如你已經出現disconnect<br/>表示這一個你已經做過<br/>假如你是出現connect表示還沒有連結<br/>最假如你本身的github是對應到connect<br/>你就給他點下去<br/>他會在你的電腦安裝一個應用程式<br/>Ok表示你授權<br/>可以兩邊可以互通<br/>互通之後的帳號就會長這樣<br/>你想要連結到帳號下的設定<br/>OK<br/>那他底下這邊就有一個應用程式<br/>這個是帳號<br/>在整合區<br/>Integration是整合的意思<br/>他底下他就有一個Applications<br/>去找你兩邊的這個信任是成功的<br/>你點選這個Applications他就會出現這個<br/>所以你假如有Application下面有replit<br/>表示你的github跟replit兩邊是信任<br/>意思就說你待會假如吧<br/>倉儲啊輸入到你的replit<br/>改版完是可以推回來<br/>這個就是我們要的<br/>我說這個是第一部所以我們確定有這個之後啊<br/>我們待會再來做inport的動作所以我們這個小影片我們先把它<br/>拍下來ok所以我們小影片這一小段喔<br/>我們先拿</p>
-<br />cd2024 2b 1 建立個人課程倉儲與網站 << <a href='cd2024 2b 1 建立個人課程倉儲與網站.html'>Previous</a> <a href='cd2024 2b 3 如何設定 Github 帳號的雙重認證.html'>Next</a> >> cd2024 2b 3 如何設定 Github 帳號的雙重認證</div>
+<p><!-- 執行與清除按鈕開始 --></p>
+<p><button id="kw_run1">Run</button> <button id="kw_show_console1">Output</button> <button id="kw_clear_console1">清除輸出區</button><button id="clear_bd1">清除繪圖區</button><button onclick="window.location.reload()">Reload</button></p>
+<p><!-- 執行與清除按鈕結束 --></p>
+<p></p>
+<p><!-- 程式執行 ouput 區 --></p>
+<div style="width: 100%; height: 100%;"><textarea autocomplete="off" id="kw_console1"></textarea></div>
+<p><!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --></p>
+<div id="brython_div1"></div>
+<!-- editor1 結束 --><hr/><!-- ########################################## -->
+<p></p>
+<p>
+<script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"></script>
+</p>
+<p></p>
+<p></p>
+<p><strong>鋼球平衡台 PID 控制與模擬</strong></p>
+<p>W10 實習任務二:</p>
+<p>請下載<span> </span><a href="http://229.cycu.org/cd2024_ball_balancing_platform_control_ref.7z">cd2024_ball_balancing_platform_control_ref.7z</a>, 閱讀後請將摘要內容放入個人與分組網誌中.</p>
+<p>閱讀結果:</p>
+<p>各篇論文要點摘要：</p>
+<p>結論：</p>
+<p></p>
+<p><a href="http://229.cycu.org/ball_beam_balancing_PID_control_coppeliasim_1d_and_2d_cd2024_w9.7z">ball_beam_balancing_PID_control_coppeliasim_1d_and_2d_cd2024_w9.7z</a><span> </span>(password required to download)</p>
+<p><a href="https://mde.tw/cd2024/downloads/Solvespace_model%20_2d_for_cd2024_w6.7z">Solvespace_model _2d_for_cd2024_w6.7z</a></p>
+<p>實習步驟:</p>
+<p>開啟可攜程式系統中的 CoppeliaSim 開啟鋼球平衡台模擬場景 啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib 在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬 matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖</p>
+<p></p>
+<p><strong>鋼球平衡台零組件繪圖</strong></p>
+<p>W10 實習任務三:</p>
+<p>請根據<span> </span><a href="https://mde.tw/cd2024/downloads/Solvespace_model%20_2d_for_cd2024_w6.7z">Solvespace_model _2d_for_cd2024_w6.7z</a><span> </span>零組件尺寸, 利用<span> </span><a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/yen_nfu_edu_tw/EehhlaMDzTxAlOBppbPSoPwBCzsOQxvshtNL8xJel-zbJQ?e=YwKvdH">Siemens NX1872.7z</a><span> </span>(需要登入 @nfu.edu.tw, cd2024 採用電腦安裝的 NX1872 或隨身碟中的 NX1872) 執行零組件繪圖, 完成後請將過程影片放入個人與分組網站中.</p><br />w9 << <a href='w9.html'>Previous</a> </div>
 
     <!-- footer -->
       <div class="container">
