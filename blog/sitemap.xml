@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-04-26T14:00:16-00:00</lastmod>
+<lastmod>2024-04-26T14:09:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-04-26T14:00:16-00:00</lastmod>
+<lastmod>2024-04-26T14:09:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-04-26T14:00:16-00:00</lastmod>
+<lastmod>2024-04-26T14:09:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-04-26T14:00:16-00:00</lastmod>
+<lastmod>2024-04-26T14:09:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -40,7 +40,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./41023124_2024-Spring-w10-blog-tutorial.html</loc>
-<lastmod>2024-04-26T13:50:35+08:00</lastmod>
+<lastmod>2024-04-26T14:05:44+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -48,6 +48,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./41023124_2024-Spring-如何解決群組倉儲衝突-blog-tutorial.html</loc>
 <lastmod>2024-04-26T13:48:23+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2a-midag6_2024-Spring-w3-blog-tutorial.html</loc>
+<lastmod>2024-04-26T14:08:38+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2a-midag6_2024-Spring-w2-blog-tutorial.html</loc>
+<lastmod>2024-04-26T14:07:46+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -96,27 +110,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./2a-midag6_2024-Spring-w1-1blog-tutorial.html</loc>
-<lastmod>2024-04-26T09:23:31+08:00</lastmod>
+<lastmod>2024-04-26T14:07:06+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w1-blog-tutorial.html</loc>
-<lastmod>2024-04-26T09:23:31+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./2a-midag6_2024-Spring-w2-blog-tutorial.html</loc>
-<lastmod>2024-04-26T09:23:31+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./2a-midag6_2024-Spring-w3-blog-tutorial.html</loc>
 <lastmod>2024-04-26T09:23:31+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -152,28 +152,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/w1-1.html</loc>
-<lastmod>2024-04-26T09:23:31+08:06</lastmod>
+<lastmod>2024-04-26T14:07:06+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w10.html</loc>
-<lastmod>2024-04-26T21:49:00+08:06</lastmod>
+<lastmod>2024-04-26T22:04:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w2.html</loc>
-<lastmod>2024-04-26T09:23:31+08:06</lastmod>
+<lastmod>2024-04-26T14:07:46+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w3.html</loc>
-<lastmod>2024-04-26T09:23:31+08:06</lastmod>
+<lastmod>2024-04-26T14:08:38+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -222,14 +222,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./tag/wang-zhi-bian-xie.html</loc>
-<lastmod>2024-04-26T21:49:00+08:06</lastmod>
+<lastmod>2024-04-26T22:04:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/41023124.html</loc>
-<lastmod>2024-04-26T21:49:00+08:06</lastmod>
+<lastmod>2024-04-26T22:04:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

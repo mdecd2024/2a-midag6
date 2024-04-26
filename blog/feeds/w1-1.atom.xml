@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w1-1</title><link href="./" rel="alternate"></link><link href="./feeds/w1-1.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T09:23:31+08:00</updated><entry><title>2024 Spring 課程w1-1</title><link href="./2a-midag6_2024-Spring-w1-1blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-04-26T09:23:31+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-18:./2a-midag6_2024-Spring-w1-1blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w1-1</title><link href="./" rel="alternate"></link><link href="./feeds/w1-1.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T14:07:06+08:00</updated><entry><title>2024 Spring 課程w1-1</title><link href="./2a-midag6_2024-Spring-w1-1blog-tutorial.html" rel="alternate"></link><published>2024-02-23T15:07:00+08:00</published><updated>2024-04-26T14:07:06+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w1-1blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
-
-&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-&lt;p&gt;每周進度報告w1
-依照mde.tw/cd2024中的 Topics / Video中的影片&lt;/p&gt;
-&lt;p&gt;建立個人課程 cd2024 倉儲與網站的操作影片 (7:17)&lt;/p&gt;
-&lt;p&gt;設定 Replit 與 Github 應用授權的說明影片 (2:44)&lt;/p&gt;
-&lt;p&gt;說明如何設定 Github 雙重認證 (6:28)&lt;/p&gt;
-&lt;p&gt;說明如何利用 Replit 對 cd2024 改版 (20:16)&lt;/p&gt;
+&lt;h1&gt;每周進度報告w1&lt;/h1&gt;
+&lt;p&gt;第一周進度&lt;/p&gt;
+&lt;p&gt;依照mde.tw/cd2024中的 Topics / Video中的影片，觀看與進行創建倉儲與帳號&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/ETTxsR2xBJ1Mg1Ikuz0lscEB5heQCnNRxTnzD1OPTkDPEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=bPQk4F"&gt;建立個人課程 cd2024 倉儲與網站的操作影片&lt;/a&gt;&amp;nbsp;(7:17)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EdBPsKV-ktZOtvo4InwdSoEBAM4B239cijCPMAb1qAUAxg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=AUcZgW"&gt;設定 Replit 與 Github 應用授權的說明影片&lt;/a&gt;&amp;nbsp;(2:44)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EQkTC4PryY5KrohZdneAygIB1d2FCzwpl2tn8cdyG-Q8Vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=L28Ued"&gt;說明如何設定 Github 雙重認證&lt;/a&gt;&amp;nbsp;(6:28)&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EQIDGG3E8ElOjzeZrCESQzABRJ2tKiSw1T59WDa3x8FU-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=E6LSw5"&gt;說明如何利用 Replit 對 cd2024 改版&lt;/a&gt;&amp;nbsp;(20:16)&lt;/p&gt;
 &lt;p&gt;照著影片中的步驟創建個人的cd2024倉儲與網站與如何與Replit連結Github，並更新上推至倉儲去做更新&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;設定網誌&lt;/p&gt;
-&lt;p&gt;利用 [OBS] 加上廣播系統錄製的: 如何設定個人倉儲中的 Pelican 網誌&lt;/p&gt;</content><category term="w1-1"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;利用 [OBS] 加上廣播系統錄製的:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EZMAhRju-rdNrUxk9plOglIBMK2WcO3iL1iK11xipW48Mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=jogiPc"&gt;如何設定個人倉儲中的 Pelican 網誌&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w1-1"></category><category term="網誌編寫"></category></entry></feed>
