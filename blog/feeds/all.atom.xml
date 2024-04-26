@@ -39,7 +39,73 @@
 &lt;p&gt;如果你的codespace有cd2024的子模組&lt;br&gt;就打&lt;br&gt;git submodule deinit cd2024&lt;br&gt;git rm --cached cd2024&lt;br&gt;rm -rf cd2024&lt;br&gt;刪除完在git push就好&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;反之有4102324 就把cd2024改為4102324&lt;/p&gt;
 &lt;p&gt;這張照片我刪完cd2024的submodule了，所以看不到cd2024的子模組，請組員自己檢查有沒有 ( Codespace)&lt;/p&gt;
-&lt;p&gt;&lt;img src="downloads/messageImage_1714132138476.jpg"&gt;&lt;/p&gt;</content><category term="如何解決群組倉儲衝突"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w4</title><link href="./2a-midag6_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T17:24:00+08:00</published><updated>2024-04-26T14:33:10+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./2a-midag6_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;img src="downloads/messageImage_1714132138476.jpg"&gt;&lt;/p&gt;</content><category term="如何解決群組倉儲衝突"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w8</title><link href="./2a-midag6_2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T17:11:00+08:00</published><updated>2024-04-26T14:39:44+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-12:./2a-midag6_2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w8&lt;/h1&gt;
+&lt;p&gt;內容管理系統&lt;/p&gt;
+&lt;p&gt;cd2024 2a w8 產品協同架構說明&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=CqhZm_9ugdc"&gt;https://www.youtube.com/watch?v=CqhZm_9ugdc&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CqhZm_9ugdc?si=s95dvXVvf3pzWvSD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;協同產品設計實習課程使用網際內容管理系統, 採 Github Classroom 建立分組倉儲, 並由學員自行利用 cmsimde_site 作為 Github 倉儲的引擎目錄, 利用 Python 執行網頁編輯. 之後再轉檔為靜態網頁, 以便利用 Github Pages 所提供的 WWW 伺服器呈現協同產品設計過程的相關多媒體內容.&lt;/p&gt;
+&lt;p&gt;除了章節式的網站外, cmsimde_site 還額外利用 Pelican 管理使用者所建立的網誌, 以及利用 Reveal 管理使用者所建立的網際簡報.&lt;/p&gt;
+&lt;p&gt;在使用者每週的內容管理過程, 由於必須採用 Python 執行網頁編輯, cd2024 課程採用了四種不同的方法進行, 其中包括 Replit、Codespaces、Gitpod 以及 localhost. 由於前三者屬於雲端作業, 各有不同的使用規定與免費使用權限, 對於多人協同的產品設計團隊而言, 可以根據各自的喜好與環境選擇合用的網頁編輯工具, 且在多方了解下也可透過實際使用發展中的雲端 IDE 環境, 一窺未來可能的 AI 導引前景.&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w7</title><link href="./2a-midag6_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T15:57:00+08:00</published><updated>2024-04-26T14:39:15+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-05:./2a-midag6_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w7&lt;/h1&gt;
+&lt;p&gt;&lt;span&gt;協同產品設計實習的第七週, 本週為清明連假期間，觀看老師blog網站更新之內容，調整個人與組別markdown下.md與slug之名稱，防止群組組員submodules中的資料衝突無法更新latex&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;其中首先要求各組員必須每週在 cd2024 倉儲中的 markdown 目錄編寫 markdown 網誌文章, 再經由&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;轉檔至 blog 目錄中的超文件網誌. 由於&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;採用 Python 檔案進行設定, 因此可以在轉檔的過程中, 將各子目錄中的組員倉儲網誌集合到分組倉儲中的 combined_markdown 目錄之後, 再指定將網誌超文件轉至各分組倉儲的 blog 目錄.&lt;/p&gt;
+&lt;p&gt;由於分組網誌內容協同時, 所有組員所編寫的 markdown 文章必須存入 combined_markdown 目錄, 因此 markdown 網誌文章檔案的命名不可重複, 且各網誌文章的 Slug 字串將會被當作用來命名轉檔後的超文件檔案名稱, 因此也不能重複.&lt;/p&gt;
+&lt;p&gt;至於當各組員採用 Replit 維護個人倉儲內容時, 可以直接從&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Connect 至&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/"&gt;Github&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;取得維護倉儲的權限, 旦卻無法直接用管理分組倉儲, 因為各組員雖然擁有管理分組倉儲的權限, 但是無法在&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中以免費的組員帳號管理&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://classroom.github.com/"&gt;Github Classroom&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;所取得的分組倉儲. 而必須動態納入針對分組倉儲的 OpenSSH 管理權限.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w5</title><link href="./2a-midag6_2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T15:21:00+08:00</published><updated>2024-04-26T14:35:47+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-22:./2a-midag6_2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;h1&gt;每周進度報告w5&lt;/h1&gt;
+&lt;p&gt;協同產品設計實習的第五週, 教學內容為先前影片整理&lt;/p&gt;
+&lt;p&gt;教學影片分組整理並自評&lt;/p&gt;
+&lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別為&lt;/p&gt;
+&lt;p&gt;在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
+從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
+並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;
+&lt;p&gt;cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github&lt;/p&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/F1_YDWsGvwo?si=ETYzlygghWgq5wen" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024 2a 1 blog setup&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/arG0XNdHuYA?si=4gdnM3cydnl0Vq3C" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024 2b 1 建立個人課程倉儲與網站&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6BMiOcVb8v0?si=X5-MnxK7_Gq9tJgJ" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3VdJEzJY-oE?si=ISL1atN75CkkaQgT" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024 2b 3 如何設定 Github 帳號的雙重認證&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/pPD1wOjpyfQ?si=U9TR2NMuhe_u9Ys1" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024_2b_7_w2 利用 codespaces 維護分組網站&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/3OGCk_aDP9U?si=yMsGIIgbKW5y-D_u" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/-kkxZlGnUuU?si=AK-i0udz4_1B5C5E" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/vwYnRnk8K_4?si=6Clg0_VxbWCGILLA" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024_2a_w2_1(41023239楊祐銘)&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/i5Nd69gyqGg?si=oxddneY7WmtC4J9N" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;cd2024 2a w2 4 利用 Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘)&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/N_Tx_ZJjoJ0?si=ElBKbH9R9bQXXMVD" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/p&gt;
+&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/w5JspsZ91Dc?si=WdhATyhj6z_h4rxs" title="YouTube video player"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;各組員必須將個別的網誌 .md 檔案名稱加上前綴字串, 例如: "學號_" 加上獨一無二的網誌 Slug 字串名稱, 且 Category 使用該組員的學號作為標示. 之後各組統整轉檔時, 才不至於發生相同網誌文章檔案名稱衝突的錯誤, 且從各分組網誌的 Categories 中即可找到各組員所編寫的所有網誌內容.&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w4</title><link href="./2a-midag6_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T17:24:00+08:00</published><updated>2024-04-26T14:33:10+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./2a-midag6_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -2779,63 +2845,7 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N_Tx_ZJjoJ0" title="cd2024 2a w2 4 利用  Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;41023225&lt;/p&gt;
-&lt;p&gt;w4自評成績65&lt;/p&gt;</content><category term="教學影片任務回報與自評"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w5</title><link href="./2a-midag6_2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-04-26T09:23:31+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;每周進度報告w5&lt;/h1&gt;
-&lt;p&gt;協同產品設計實習的第五週, 教學內容為先前影片整理、分組網誌的統整與 NX 零組件繪圖.&lt;/p&gt;
-&lt;p&gt;ODOO PLM 論文中英並列任務&lt;/p&gt;
-&lt;p&gt;由各組員在其個人的 cd2024 倉儲中, 以 LaTeX 格式分工完成下列文章的英文與中文翻譯並列資料, 最後在分組網站的 Release 或 downloads 區完成 2b-midbgx_report.pdf 的製作.&lt;/p&gt;
-&lt;p&gt;若要在近端使用可攜程式環境編譯分組 LaTeX 報告, 請下載 miktex-portable.7z (需要密碼, 下載 167MB, 解開壓縮檔案後約 1GB) 以及參考資料: latex_images_github.7z (需要密碼)&lt;/p&gt;
-&lt;p&gt;2021 ANALYSIS OF THE ODOO SOFTWARE CAPABILITIES REGARDING PRODUCT LIFECYCLE MANAGEMENT, MANUFACTURING EXECUTION SYSTEMS AND THEIR INTEGRATION.pdf or local download (password required) (Odoo 軟體在產品生命週期管理、製造執行系統及其整合上的功能分析)&lt;/p&gt;
-&lt;p&gt;英文單字查詢: 2021_odoo_reading.html&lt;/p&gt;
-&lt;p&gt;教學影片分組整理並自評&lt;/p&gt;
-&lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別為&lt;/p&gt;
-&lt;p&gt;在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
-從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
-並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;
-&lt;p&gt;cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github&lt;/p&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/F1_YDWsGvwo?si=ETYzlygghWgq5wen" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024 2a 1 blog setup&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/arG0XNdHuYA?si=4gdnM3cydnl0Vq3C" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024 2b 1 建立個人課程倉儲與網站&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6BMiOcVb8v0?si=X5-MnxK7_Gq9tJgJ" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3VdJEzJY-oE?si=ISL1atN75CkkaQgT" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024 2b 3 如何設定 Github 帳號的雙重認證&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/pPD1wOjpyfQ?si=U9TR2NMuhe_u9Ys1" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024_2b_7_w2 利用 codespaces 維護分組網站&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/3OGCk_aDP9U?si=yMsGIIgbKW5y-D_u" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/-kkxZlGnUuU?si=AK-i0udz4_1B5C5E" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/vwYnRnk8K_4?si=6Clg0_VxbWCGILLA" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024_2a_w2_1(41023239楊祐銘)&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/i5Nd69gyqGg?si=oxddneY7WmtC4J9N" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024 2a w2 4 利用 Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘)&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/N_Tx_ZJjoJ0?si=ElBKbH9R9bQXXMVD" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/p&gt;
-&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/w5JspsZ91Dc?si=WdhATyhj6z_h4rxs" title="YouTube video player"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;如何統整組員子模組中的協同設計網誌&lt;/p&gt;
-&lt;p&gt;當各組員每週的協同設計網誌文章放在個別的 cd2024 倉儲的 markdown 目錄中, 只要修改分組倉儲中的 pelicalconf.py, 使用 Pelican 設定中的 PATH 與 OUTPUT_PATH 變數, 指定網誌統整目錄, 就可以在分組倉儲中納入所有組員在子模組中所編寫的協同網誌.&lt;/p&gt;
-&lt;p&gt;實際的設定操作 pelicanconf_py.txt, 是利用 pelicanconf.py 中的程式設定段, 將子模組中 markdown 目錄的 .md 動態複製到分組倉儲中的 combined_directory, 並避開分組倉儲與學員子模組倉儲中的 pages 目錄下的 .md 檔案後, 再進行網誌轉檔, 並且所產生的網誌超文件將存入所設定的 blog 目錄.&lt;/p&gt;
-&lt;p&gt;完成設定後的網誌轉檔指令為: pelican -s local_publishconf.py 表示要利用 local_publishconf.py 的設定進行轉檔, 且先前有關 pelicanconf.py 的設定也將導入執行.&lt;/p&gt;
-&lt;p&gt;過程中, 各組員必須將個別的網誌 .md 檔案名稱加上前綴字串, 例如: "學號_" 加上獨一無二的網誌 Slug 字串名稱, 且 Category 使用該組員的學號作為標示. 之後各組統整轉檔時, 才不至於發生相同網誌文章檔案名稱衝突的錯誤, 且從各分組網誌的 Categories 中即可找到各組員所編寫的所有網誌內容.&lt;/p&gt;
-&lt;p&gt;利用 NX1872 協同繪製零組件&lt;/p&gt;
-&lt;p&gt;從電腦輔助設計室中的電腦 C:\Program Files\Siemens\NX1872 取得所需的 NX 套件目錄檔案, 之後將 NX1872 目錄存入隨身碟後, 可利用下列 start_USB_nx1872.bat 啟動.&lt;/p&gt;
-&lt;p&gt;電腦輔助設計室中 C: 安裝 NX1872, D: 則配置 NX2206 與 NX12, 若在電腦教室則可利用下列批次檔案啟動 NX, 若在各自的電腦或隨身碟帶有各版次的 NX 資料, 只需要透過網路取得授權, 就可直接從 USB 中執行各版次的 NX.&lt;/p&gt;
-&lt;p&gt;下載NX2027_lite (需要密碼, 解開後約 8G)&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./2a-midag6_2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-04-26T09:23:31+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;w4自評成績65&lt;/p&gt;</content><category term="教學影片任務回報與自評"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./2a-midag6_2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-04-26T09:23:31+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -2855,279 +2865,22 @@
 &lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別
 在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
 從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
-並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w7</title><link href="./2a-midag6_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-04-26T09:23:31+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./2a-midag6_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-04-26T14:40:44+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;w7&lt;/h1&gt;
-&lt;p&gt;更改個人與群組 .md 與 slug名稱 , 加上自己的學號或者加上群組分組名稱&lt;/p&gt;
-&lt;p&gt;協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點.&lt;/p&gt;
-&lt;p&gt;從協同設計的架構上, 個人與分組的倉儲中, 總共設計了以下幾種內容的協同模式:&lt;/p&gt;
-&lt;p&gt;分組網站內容的協同 - 其中包括章節式的網站內容與網誌內容, 可以透過 Python 程式方法整合各學員子模組中的 config/content.htm 以及 markdown/*.md 檔案至分組網站中
-分組報告內容的協同 - 採用的是 Github Actions 與近端 MikTeX 中的 xelatex 將 .tex 轉為 pdf 的整合過程
-分組產品設計的 PLM 協同 - 採用的是 Odoo PLM 模組, 讓各分組可以將網站內容、報告內容視為產品, 從協同架構的訂定作為起點, 完成資料展示作為終點, 逐一將過程的協調、派任與執行方法納入 PLM 系統管理
-分組零組件設計的協同 - 分別採用 Solvespace 作為鋼球平衡台範例, 讓學員使用 Siemens NX 1872 進行協同零組件繪圖設計, 並將各零件的 .prt 檔案納入各學員的倉儲進行組立, 以便找出最佳的設計分工以及零組件轉檔流程
-分組模擬場景設計的協同 - 當各分組順利完成鋼球平衡台的零組件轉檔後, 一旦進入 CoppeliaSim 場景後, 必須逐一配置感測器 (Sensors)、致動器 (Actuators) 以及 ZMQ RemoteAPI Python程式, 主要探討如何將此一場景模擬過程在 CoppeliaSim XML 檔案格式與 Siemens NXOpen Python 零件程式檔案間, 找到合用或最佳的協同產品設計模式.
-分組專案簡報設計的協同 - 在上述各產品設計階段所累積的各種資料, 該如何有效整合到專案完成後必須進行的網際簡報中.&lt;/p&gt;
-&lt;h1&gt;分組網站內容的協同&lt;/h1&gt;
-&lt;p&gt;各分組網站內容的協同包含:&lt;/p&gt;
-&lt;p&gt;章節式網站內容
-週記式網誌內容
-網際簡報內容
-其中首先要求各組員必須每週在 cd2024 倉儲中的 markdown 目錄編寫 markdown 網誌文章, 再經由 Pelican 轉檔至 blog 目錄中的超文件網誌. 由於 Pelican 採用 Python 檔案進行設定, 因此可以在轉檔的過程中, 將各子目錄中的組員倉儲網誌集合到分組倉儲中的 combined_markdown 目錄之後, 再指定將網誌超文件轉至各分組倉儲的 blog 目錄.&lt;/p&gt;
-&lt;p&gt;由於分組網誌內容協同時, 所有組員所編寫的 markdown 文章必須存入 combined_markdown 目錄, 因此 markdown 網誌文章檔案的命名不可重複, 且各網誌文章的 Slug 字串將會被當作用來命名轉檔後的超文件檔案名稱, 因此也不能重複.&lt;/p&gt;
-&lt;p&gt;至於當各組員採用 Replit 維護個人倉儲內容時, 可以直接從 Replit Connect 至 Github 取得維護倉儲的權限, 旦卻無法直接用管理分組倉儲, 因為各組員雖然擁有管理分組倉儲的權限, 但是無法在 Replit 中以免費的組員帳號管理 Github Classroom 所取得的分組倉儲. 而必須動態納入針對分組倉儲的 OpenSSH 管理權限.&lt;/p&gt;
-&lt;h1&gt;分組報告內容的協同&lt;/h1&gt;
-&lt;p&gt;add_to_content_html.py&lt;/p&gt;
-&lt;p&gt;generate_pages.py&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w8</title><link href="./2a-midag6_2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-04-26T09:23:31+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w8&lt;/h1&gt;
-&lt;p&gt;內容管理系統&lt;/p&gt;
-&lt;p&gt;cd2024 2a w8 產品協同架構說明&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=CqhZm_9ugdc"&gt;https://www.youtube.com/watch?v=CqhZm_9ugdc&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CqhZm_9ugdc?si=s95dvXVvf3pzWvSD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;協同產品設計實習課程使用網際內容管理系統, 採 Github Classroom 建立分組倉儲, 並由學員自行利用 cmsimde_site 作為 Github 倉儲的引擎目錄, 利用 Python 執行網頁編輯. 之後再轉檔為靜態網頁, 以便利用 Github Pages 所提供的 WWW 伺服器呈現協同產品設計過程的相關多媒體內容.&lt;/p&gt;
-&lt;p&gt;除了章節式的網站外, cmsimde_site 還額外利用 Pelican 管理使用者所建立的網誌, 以及利用 Reveal 管理使用者所建立的網際簡報.&lt;/p&gt;
-&lt;p&gt;在使用者每週的內容管理過程, 由於必須採用 Python 執行網頁編輯, cd2024 課程採用了四種不同的方法進行, 其中包括 Replit、Codespaces、Gitpod 以及 localhost. 由於前三者屬於雲端作業, 各有不同的使用規定與免費使用權限, 對於多人協同的產品設計團隊而言, 可以根據各自的喜好與環境選擇合用的網頁編輯工具, 且在多方了解下也可透過實際使用發展中的雲端 IDE 環境, 一窺未來可能的 AI 導引前景.&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./2a-midag6_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-04-26T09:23:31+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;p&gt;自評2a-midag6期中考成績&lt;/p&gt;
 &lt;h1&gt;w9&lt;/h1&gt;
-&lt;p&gt;自評2a-midag6期中考成績&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;協同資料處理&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;請各班各組根據&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/30b7be16b4870ef54c0677a380a029c9202df356/2a_cd2024_midterm.csv"&gt;2a_cd2024_midterm.csv&lt;/a&gt;, 以及&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/30b7be16b4870ef54c0677a380a029c9202df356/2b_cd2024_midterm.csv"&gt;2b_cd2024_midterm.csv&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中的學號、Github 帳號與組別, 設法在各組員與分組網站中, 列出各學員的 cd2024 倉儲、網站, 以及各班各組的期中報告倉儲與網站連結.&lt;/p&gt;
-&lt;p&gt;過程中, 請詳細說明各組及學員的倉儲與網站中的連結資料如何建立? 手動輸入? 利用程式進行處理? 或者採分工合作方式建立?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;鋼球平衡台 PID 控制與模擬&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;對 Gemini 1.5 Pro 提問:&lt;/p&gt;
-&lt;p&gt;以下為利用 PID 控制 CoppeliaSim&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://229.cycu.org/ball_beam_balancing_PID_control_coppeliasim_1d_and_2d.7z"&gt;鋼球平衡台場景&lt;/a&gt;的 ZMQ RemoteAPI Python 程式, 請利用 Python 模組將系統控制過程, 鋼球在平衡台上的 x 方向座標與 y 方向, 利用 matplotlib 畫出來. "這裡附上原本的 PID 控制程式碼"&lt;/p&gt;
-&lt;p&gt;回答:&lt;/p&gt;
-&lt;div&gt;
-&lt;div class="syntaxhighlighter python" id="highlighter_288267"&gt;
-&lt;table border="0" cellpadding="0" cellspacing="0"&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td class="gutter"&gt;
-&lt;div class="line number1 index0 alt2"&gt;1&lt;/div&gt;
-&lt;div class="line number2 index1 alt1"&gt;2&lt;/div&gt;
-&lt;div class="line number3 index2 alt2"&gt;3&lt;/div&gt;
-&lt;div class="line number4 index3 alt1"&gt;4&lt;/div&gt;
-&lt;div class="line number5 index4 alt2"&gt;5&lt;/div&gt;
-&lt;div class="line number6 index5 alt1"&gt;6&lt;/div&gt;
-&lt;div class="line number7 index6 alt2"&gt;7&lt;/div&gt;
-&lt;div class="line number8 index7 alt1"&gt;8&lt;/div&gt;
-&lt;div class="line number9 index8 alt2"&gt;9&lt;/div&gt;
-&lt;div class="line number10 index9 alt1"&gt;10&lt;/div&gt;
-&lt;div class="line number11 index10 alt2"&gt;11&lt;/div&gt;
-&lt;div class="line number12 index11 alt1"&gt;12&lt;/div&gt;
-&lt;div class="line number13 index12 alt2"&gt;13&lt;/div&gt;
-&lt;div class="line number14 index13 alt1"&gt;14&lt;/div&gt;
-&lt;div class="line number15 index14 alt2"&gt;15&lt;/div&gt;
-&lt;div class="line number16 index15 alt1"&gt;16&lt;/div&gt;
-&lt;div class="line number17 index16 alt2"&gt;17&lt;/div&gt;
-&lt;div class="line number18 index17 alt1"&gt;18&lt;/div&gt;
-&lt;div class="line number19 index18 alt2"&gt;19&lt;/div&gt;
-&lt;div class="line number20 index19 alt1"&gt;20&lt;/div&gt;
-&lt;div class="line number21 index20 alt2"&gt;21&lt;/div&gt;
-&lt;div class="line number22 index21 alt1"&gt;22&lt;/div&gt;
-&lt;div class="line number23 index22 alt2"&gt;23&lt;/div&gt;
-&lt;div class="line number24 index23 alt1"&gt;24&lt;/div&gt;
-&lt;div class="line number25 index24 alt2"&gt;25&lt;/div&gt;
-&lt;div class="line number26 index25 alt1"&gt;26&lt;/div&gt;
-&lt;div class="line number27 index26 alt2"&gt;27&lt;/div&gt;
-&lt;div class="line number28 index27 alt1"&gt;28&lt;/div&gt;
-&lt;div class="line number29 index28 alt2"&gt;29&lt;/div&gt;
-&lt;div class="line number30 index29 alt1"&gt;30&lt;/div&gt;
-&lt;div class="line number31 index30 alt2"&gt;31&lt;/div&gt;
-&lt;div class="line number32 index31 alt1"&gt;32&lt;/div&gt;
-&lt;div class="line number33 index32 alt2"&gt;33&lt;/div&gt;
-&lt;div class="line number34 index33 alt1"&gt;34&lt;/div&gt;
-&lt;div class="line number35 index34 alt2"&gt;35&lt;/div&gt;
-&lt;div class="line number36 index35 alt1"&gt;36&lt;/div&gt;
-&lt;div class="line number37 index36 alt2"&gt;37&lt;/div&gt;
-&lt;div class="line number38 index37 alt1"&gt;38&lt;/div&gt;
-&lt;div class="line number39 index38 alt2"&gt;39&lt;/div&gt;
-&lt;div class="line number40 index39 alt1"&gt;40&lt;/div&gt;
-&lt;div class="line number41 index40 alt2"&gt;41&lt;/div&gt;
-&lt;div class="line number42 index41 alt1"&gt;42&lt;/div&gt;
-&lt;div class="line number43 index42 alt2"&gt;43&lt;/div&gt;
-&lt;div class="line number44 index43 alt1"&gt;44&lt;/div&gt;
-&lt;div class="line number45 index44 alt2"&gt;45&lt;/div&gt;
-&lt;div class="line number46 index45 alt1"&gt;46&lt;/div&gt;
-&lt;div class="line number47 index46 alt2"&gt;47&lt;/div&gt;
-&lt;div class="line number48 index47 alt1"&gt;48&lt;/div&gt;
-&lt;div class="line number49 index48 alt2"&gt;49&lt;/div&gt;
-&lt;div class="line number50 index49 alt1"&gt;50&lt;/div&gt;
-&lt;div class="line number51 index50 alt2"&gt;51&lt;/div&gt;
-&lt;div class="line number52 index51 alt1"&gt;52&lt;/div&gt;
-&lt;div class="line number53 index52 alt2"&gt;53&lt;/div&gt;
-&lt;div class="line number54 index53 alt1"&gt;54&lt;/div&gt;
-&lt;div class="line number55 index54 alt2"&gt;55&lt;/div&gt;
-&lt;div class="line number56 index55 alt1"&gt;56&lt;/div&gt;
-&lt;div class="line number57 index56 alt2"&gt;57&lt;/div&gt;
-&lt;div class="line number58 index57 alt1"&gt;58&lt;/div&gt;
-&lt;div class="line number59 index58 alt2"&gt;59&lt;/div&gt;
-&lt;div class="line number60 index59 alt1"&gt;60&lt;/div&gt;
-&lt;div class="line number61 index60 alt2"&gt;61&lt;/div&gt;
-&lt;div class="line number62 index61 alt1"&gt;62&lt;/div&gt;
-&lt;div class="line number63 index62 alt2"&gt;63&lt;/div&gt;
-&lt;div class="line number64 index63 alt1"&gt;64&lt;/div&gt;
-&lt;div class="line number65 index64 alt2"&gt;65&lt;/div&gt;
-&lt;div class="line number66 index65 alt1"&gt;66&lt;/div&gt;
-&lt;div class="line number67 index66 alt2"&gt;67&lt;/div&gt;
-&lt;div class="line number68 index67 alt1"&gt;68&lt;/div&gt;
-&lt;div class="line number69 index68 alt2"&gt;69&lt;/div&gt;
-&lt;div class="line number70 index69 alt1"&gt;70&lt;/div&gt;
-&lt;div class="line number71 index70 alt2"&gt;71&lt;/div&gt;
-&lt;div class="line number72 index71 alt1"&gt;72&lt;/div&gt;
-&lt;div class="line number73 index72 alt2"&gt;73&lt;/div&gt;
-&lt;div class="line number74 index73 alt1"&gt;74&lt;/div&gt;
-&lt;div class="line number75 index74 alt2"&gt;75&lt;/div&gt;
-&lt;div class="line number76 index75 alt1"&gt;76&lt;/div&gt;
-&lt;div class="line number77 index76 alt2"&gt;77&lt;/div&gt;
-&lt;div class="line number78 index77 alt1"&gt;78&lt;/div&gt;
-&lt;div class="line number79 index78 alt2"&gt;79&lt;/div&gt;
-&lt;div class="line number80 index79 alt1"&gt;80&lt;/div&gt;
-&lt;div class="line number81 index80 alt2"&gt;81&lt;/div&gt;
-&lt;div class="line number82 index81 alt1"&gt;82&lt;/div&gt;
-&lt;div class="line number83 index82 alt2"&gt;83&lt;/div&gt;
-&lt;div class="line number84 index83 alt1"&gt;84&lt;/div&gt;
-&lt;div class="line number85 index84 alt2"&gt;85&lt;/div&gt;
-&lt;div class="line number86 index85 alt1"&gt;86&lt;/div&gt;
-&lt;div class="line number87 index86 alt2"&gt;87&lt;/div&gt;
-&lt;div class="line number88 index87 alt1"&gt;88&lt;/div&gt;
-&lt;div class="line number89 index88 alt2"&gt;89&lt;/div&gt;
-&lt;div class="line number90 index89 alt1"&gt;90&lt;/div&gt;
-&lt;div class="line number91 index90 alt2"&gt;91&lt;/div&gt;
-&lt;div class="line number92 index91 alt1"&gt;92&lt;/div&gt;
-&lt;div class="line number93 index92 alt2"&gt;93&lt;/div&gt;
-&lt;div class="line number94 index93 alt1"&gt;94&lt;/div&gt;
-&lt;div class="line number95 index94 alt2"&gt;95&lt;/div&gt;
-&lt;div class="line number96 index95 alt1"&gt;96&lt;/div&gt;
-&lt;div class="line number97 index96 alt2"&gt;97&lt;/div&gt;
-&lt;div class="line number98 index97 alt1"&gt;98&lt;/div&gt;
-&lt;div class="line number99 index98 alt2"&gt;99&lt;/div&gt;
-&lt;/td&gt;
-&lt;td class="code"&gt;
-&lt;div class="container"&gt;
-&lt;div class="line number1 index0 alt2"&gt;&lt;code class="python comments"&gt;# 導入必要的模組&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number2 index1 alt1"&gt;&lt;code class="python comments"&gt;# pip install pyzmq cbor keyboard matplotlib&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number3 index2 alt2"&gt;&lt;code class="python keyword"&gt;import&lt;/code&gt; &lt;code class="python plain"&gt;matplotlib.pyplot as plt&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number4 index3 alt1"&gt;&lt;code class="python keyword"&gt;from&lt;/code&gt; &lt;code class="python plain"&gt;zmqRemoteApi_IPv6 &lt;/code&gt;&lt;code class="python keyword"&gt;import&lt;/code&gt; &lt;code class="python plain"&gt;RemoteAPIClient&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number5 index4 alt2"&gt;&lt;code class="python keyword"&gt;import&lt;/code&gt; &lt;code class="python plain"&gt;keyboard&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number6 index5 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number7 index6 alt2"&gt;&lt;code class="python comments"&gt;# 利用 zmqRemoteAPI 以 23000 對場景伺服器進行連線&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number8 index7 alt1"&gt;&lt;code class="python plain"&gt;client &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;RemoteAPIClient(&lt;/code&gt;&lt;code class="python string"&gt;'localhost'&lt;/code&gt;&lt;code class="python plain"&gt;, &lt;/code&gt;&lt;code class="python value"&gt;23000&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number9 index8 alt2"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number10 index9 alt1"&gt;&lt;code class="python functions"&gt;print&lt;/code&gt;&lt;code class="python plain"&gt;(&lt;/code&gt;&lt;code class="python string"&gt;'Program started'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number11 index10 alt2"&gt;&lt;code class="python plain"&gt;sim &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;client.getObject(&lt;/code&gt;&lt;code class="python string"&gt;'sim'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number12 index11 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number13 index12 alt2"&gt;&lt;code class="python comments"&gt;# Get the handles of the ball, motorx, and motory objects&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number14 index13 alt1"&gt;&lt;code class="python plain"&gt;ball_handle &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;sim.getObject(&lt;/code&gt;&lt;code class="python string"&gt;'/ball'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number15 index14 alt2"&gt;&lt;code class="python plain"&gt;motorx_handle &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;sim.getObject(&lt;/code&gt;&lt;code class="python string"&gt;'/motorx'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number16 index15 alt1"&gt;&lt;code class="python plain"&gt;motory_handle &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;sim.getObject(&lt;/code&gt;&lt;code class="python string"&gt;'/motory'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number17 index16 alt2"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number18 index17 alt1"&gt;&lt;code class="python comments"&gt;# PID control constants for x and y coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number19 index18 alt2"&gt;&lt;code class="python plain"&gt;kp_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;1.0&lt;/code&gt;&amp;nbsp; &lt;code class="python comments"&gt;# Proportional gain for x&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number20 index19 alt1"&gt;&lt;code class="python plain"&gt;ki_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;0.1&lt;/code&gt;&amp;nbsp; &lt;code class="python comments"&gt;# Integral gain for x&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number21 index20 alt2"&gt;&lt;code class="python plain"&gt;kd_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;0.5&lt;/code&gt;&amp;nbsp; &lt;code class="python comments"&gt;# Derivative gain for x&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number22 index21 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number23 index22 alt2"&gt;&lt;code class="python plain"&gt;kp_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;1.0&lt;/code&gt;&amp;nbsp; &lt;code class="python comments"&gt;# Proportional gain for y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number24 index23 alt1"&gt;&lt;code class="python plain"&gt;ki_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;0.1&lt;/code&gt;&amp;nbsp; &lt;code class="python comments"&gt;# Integral gain for y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number25 index24 alt2"&gt;&lt;code class="python plain"&gt;kd_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;0.5&lt;/code&gt;&amp;nbsp; &lt;code class="python comments"&gt;# Derivative gain for y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number26 index25 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number27 index26 alt2"&gt;&lt;code class="python comments"&gt;# Initialize error and integral terms for x and y coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number28 index27 alt1"&gt;&lt;code class="python plain"&gt;error_sum_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;0.0&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number29 index28 alt2"&gt;&lt;code class="python plain"&gt;last_error_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;0.0&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number30 index29 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number31 index30 alt2"&gt;&lt;code class="python plain"&gt;error_sum_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;0.0&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number32 index31 alt1"&gt;&lt;code class="python plain"&gt;last_error_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python value"&gt;0.0&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number33 index32 alt2"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number34 index33 alt1"&gt;&lt;code class="python comments"&gt;# 建立用於儲存 x 和 y 座標的列表&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number35 index34 alt2"&gt;&lt;code class="python plain"&gt;x_coordinates &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;[]&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number36 index35 alt1"&gt;&lt;code class="python plain"&gt;y_coordinates &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;[]&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number37 index36 alt2"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number38 index37 alt1"&gt;&lt;code class="python plain"&gt;sim.startSimulation()&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number39 index38 alt2"&gt;&lt;code class="python functions"&gt;print&lt;/code&gt;&lt;code class="python plain"&gt;(&lt;/code&gt;&lt;code class="python string"&gt;'Simulation started'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number40 index39 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number41 index40 alt2"&gt;&lt;code class="python comments"&gt;# Function to get the ball's x and y coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number42 index41 alt1"&gt;&lt;code class="python keyword"&gt;def&lt;/code&gt; &lt;code class="python plain"&gt;getBallCoordinates():&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number43 index42 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;pos &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;sim.getObjectPosition(ball_handle, &lt;/code&gt;&lt;code class="python keyword"&gt;-&lt;/code&gt;&lt;code class="python value"&gt;1&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number44 index43 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;pos[&lt;/code&gt;&lt;code class="python value"&gt;0&lt;/code&gt;&lt;code class="python plain"&gt;]&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number45 index44 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;pos[&lt;/code&gt;&lt;code class="python value"&gt;1&lt;/code&gt;&lt;code class="python plain"&gt;]&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number46 index45 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python keyword"&gt;return&lt;/code&gt; &lt;code class="python plain"&gt;x, y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number47 index46 alt2"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number48 index47 alt1"&gt;&lt;code class="python keyword"&gt;def&lt;/code&gt; &lt;code class="python plain"&gt;controlMotor(target_x, target_y, dt):&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number49 index48 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python keyword"&gt;global&lt;/code&gt; &lt;code class="python plain"&gt;error_sum_x, last_error_x, error_sum_y, last_error_y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number50 index49 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number51 index50 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Get the current ball coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number52 index51 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;current_x, current_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;getBallCoordinates()&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number53 index52 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python functions"&gt;print&lt;/code&gt;&lt;code class="python plain"&gt;(&lt;/code&gt;&lt;code class="python string"&gt;"Target: ("&lt;/code&gt;&lt;code class="python plain"&gt;, target_x, &lt;/code&gt;&lt;code class="python string"&gt;","&lt;/code&gt;&lt;code class="python plain"&gt;, target_y, &lt;/code&gt;&lt;code class="python string"&gt;"), Current: ("&lt;/code&gt;&lt;code class="python plain"&gt;, current_x, &lt;/code&gt;&lt;code class="python string"&gt;","&lt;/code&gt;&lt;code class="python plain"&gt;, current_y, &lt;/code&gt;&lt;code class="python string"&gt;")"&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number54 index53 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number55 index54 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Calculate errors for x and y coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number56 index55 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;error_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;target_x &lt;/code&gt;&lt;code class="python keyword"&gt;-&lt;/code&gt; &lt;code class="python plain"&gt;current_x&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number57 index56 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;error_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;target_y &lt;/code&gt;&lt;code class="python keyword"&gt;-&lt;/code&gt; &lt;code class="python plain"&gt;current_y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number58 index57 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number59 index58 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Update error sums for x and y coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number60 index59 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;error_sum_x &lt;/code&gt;&lt;code class="python keyword"&gt;+&lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;error_x&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number61 index60 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;error_sum_y &lt;/code&gt;&lt;code class="python keyword"&gt;+&lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;error_y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number62 index61 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number63 index62 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Calculate derivatives for x and y coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number64 index63 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;derivative_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;(error_x &lt;/code&gt;&lt;code class="python keyword"&gt;-&lt;/code&gt; &lt;code class="python plain"&gt;last_error_x) &lt;/code&gt;&lt;code class="python keyword"&gt;/&lt;/code&gt; &lt;code class="python plain"&gt;dt&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number65 index64 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;derivative_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;(error_y &lt;/code&gt;&lt;code class="python keyword"&gt;-&lt;/code&gt; &lt;code class="python plain"&gt;last_error_y) &lt;/code&gt;&lt;code class="python keyword"&gt;/&lt;/code&gt; &lt;code class="python plain"&gt;dt&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number66 index65 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number67 index66 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Calculate control signals for x and y coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number68 index67 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;control_signal_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;kp_x &lt;/code&gt;&lt;code class="python keyword"&gt;*&lt;/code&gt; &lt;code class="python plain"&gt;error_x &lt;/code&gt;&lt;code class="python keyword"&gt;+&lt;/code&gt; &lt;code class="python plain"&gt;ki_x &lt;/code&gt;&lt;code class="python keyword"&gt;*&lt;/code&gt; &lt;code class="python plain"&gt;error_sum_x &lt;/code&gt;&lt;code class="python keyword"&gt;+&lt;/code&gt; &lt;code class="python plain"&gt;kd_x &lt;/code&gt;&lt;code class="python keyword"&gt;*&lt;/code&gt; &lt;code class="python plain"&gt;derivative_x&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number69 index68 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;control_signal_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;kp_y &lt;/code&gt;&lt;code class="python keyword"&gt;*&lt;/code&gt; &lt;code class="python plain"&gt;error_y &lt;/code&gt;&lt;code class="python keyword"&gt;+&lt;/code&gt; &lt;code class="python plain"&gt;ki_y &lt;/code&gt;&lt;code class="python keyword"&gt;*&lt;/code&gt; &lt;code class="python plain"&gt;error_sum_y &lt;/code&gt;&lt;code class="python keyword"&gt;+&lt;/code&gt; &lt;code class="python plain"&gt;kd_y &lt;/code&gt;&lt;code class="python keyword"&gt;*&lt;/code&gt; &lt;code class="python plain"&gt;derivative_y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number70 index69 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number71 index70 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Set the rotational angles of motorx and motory&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number72 index71 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;sim.setJointTargetPosition(motorx_handle, control_signal_x)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number73 index72 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;sim.setJointTargetPosition(motory_handle, control_signal_y)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number74 index73 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number75 index74 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Update the last errors for x and y coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number76 index75 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;last_error_x &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;error_x&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number77 index76 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;last_error_y &lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt; &lt;code class="python plain"&gt;error_y&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number78 index77 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number79 index78 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# 儲存目前的 x 和 y 座標&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number80 index79 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;x_coordinates.append(current_x)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number81 index80 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;y_coordinates.append(current_y)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number82 index81 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number83 index82 alt2"&gt;&lt;code class="python keyword"&gt;while&lt;/code&gt; &lt;code class="python color1"&gt;True&lt;/code&gt;&lt;code class="python plain"&gt;:&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number84 index83 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python keyword"&gt;if&lt;/code&gt; &lt;code class="python plain"&gt;keyboard.is_pressed(&lt;/code&gt;&lt;code class="python string"&gt;'q'&lt;/code&gt;&lt;code class="python plain"&gt;):&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number85 index84 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Stop simulation&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number86 index85 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;sim.stopSimulation()&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number87 index86 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python keyword"&gt;break&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number88 index87 alt1"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number89 index88 alt2"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python comments"&gt;# Control the motors to set the ball to the desired coordinates&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number90 index89 alt1"&gt;&lt;code class="python spaces"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/code&gt;&lt;code class="python plain"&gt;controlMotor(&lt;/code&gt;&lt;code class="python value"&gt;0.3&lt;/code&gt;&lt;code class="python plain"&gt;, &lt;/code&gt;&lt;code class="python value"&gt;0.3&lt;/code&gt;&lt;code class="python plain"&gt;, &lt;/code&gt;&lt;code class="python value"&gt;0.05&lt;/code&gt;&lt;code class="python plain"&gt;)&amp;nbsp; &lt;/code&gt;&lt;code class="python comments"&gt;# Adjust the time step (dt) and target coordinates as needed&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number91 index90 alt2"&gt;&amp;nbsp;&lt;/div&gt;
-&lt;div class="line number92 index91 alt1"&gt;&lt;code class="python comments"&gt;# 在模擬結束後繪製圖形&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number93 index92 alt2"&gt;&lt;code class="python plain"&gt;plt.plot(x_coordinates, label&lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt;&lt;code class="python string"&gt;'X Coordinate'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number94 index93 alt1"&gt;&lt;code class="python plain"&gt;plt.plot(y_coordinates, label&lt;/code&gt;&lt;code class="python keyword"&gt;=&lt;/code&gt;&lt;code class="python string"&gt;'Y Coordinate'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number95 index94 alt2"&gt;&lt;code class="python plain"&gt;plt.xlabel(&lt;/code&gt;&lt;code class="python string"&gt;'Time'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number96 index95 alt1"&gt;&lt;code class="python plain"&gt;plt.ylabel(&lt;/code&gt;&lt;code class="python string"&gt;'Coordinate'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number97 index96 alt2"&gt;&lt;code class="python plain"&gt;plt.title(&lt;/code&gt;&lt;code class="python string"&gt;'Ball Position on Balancing Platform'&lt;/code&gt;&lt;code class="python plain"&gt;)&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number98 index97 alt1"&gt;&lt;code class="python plain"&gt;plt.legend()&lt;/code&gt;&lt;/div&gt;
-&lt;div class="line number99 index98 alt2"&gt;&lt;code class="python plain"&gt;plt.show()&lt;/code&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;實習步驟:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;開啟可攜程式系統中的 CoppeliaSim&lt;/li&gt;
-&lt;li&gt;開啟鋼球平衡台模擬場景&lt;/li&gt;
-&lt;li&gt;啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib&lt;/li&gt;
-&lt;li&gt;在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬&lt;/li&gt;
-&lt;li&gt;matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img height="240" src="https://mde.tw/cd2024/images/ball_balancing_control_result.png" width="320"&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w1-1</title><link href="./2a-midag6_2024-Spring-w1-1blog-tutorial.html" rel="alternate"></link><published>2024-02-23T15:07:00+08:00</published><updated>2024-04-26T14:07:06+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w1-1blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;第九週 填個人期中自評，了解需要分工之進度與工作，進行個人與團隊倉儲之資料整理並解決群組倉儲衝突。&lt;/p&gt;
+&lt;p&gt;協同產品設計實習的專案實習, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;課程評分:&lt;/p&gt;
+&lt;p&gt;學員每週編寫網誌內容佔 40%&lt;/p&gt;
+&lt;p&gt;每週上課內容摘要與分組報告執行分工及進度整理&lt;/p&gt;
+&lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
+&lt;p&gt;分組期中報告 (&lt;a href="https://www.google.com/search?q=latex+%E6%95%99%E5%AD%B8"&gt;LaTeX&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; pdf) 與簡報影片 (&lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; mp4) 佔 20%&lt;/p&gt;
+&lt;p&gt;分組期末報告 (&lt;a href="https://www.google.com/search?q=latex+%E6%95%99%E5%AD%B8"&gt;LaTeX&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; pdf) 與簡報影片 (&lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; mp4) 佔 40%&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w1-1</title><link href="./2a-midag6_2024-Spring-w1-1blog-tutorial.html" rel="alternate"></link><published>2024-02-23T15:07:00+08:00</published><updated>2024-04-26T14:07:06+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w1-1blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;每周進度報告w1&lt;/h1&gt;
