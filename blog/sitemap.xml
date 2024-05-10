@@ -5,168 +5,182 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-05-10T10:59:50-00:00</lastmod>
+<lastmod>2024-05-10T11:12:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-05-10T10:59:50-00:00</lastmod>
+<lastmod>2024-05-10T11:12:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-05-10T10:59:50-00:00</lastmod>
+<lastmod>2024-05-10T11:12:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-05-10T10:59:50-00:00</lastmod>
+<lastmod>2024-05-10T11:12:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./41023124_2024-Spring-w12-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:52:28+08:00</lastmod>
+<loc>./2a-midag6_2024-Spring-w12-blog-tutorial.html</loc>
+<lastmod>2024-05-10T11:12:27+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./41023124_2024-Spring-w10-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<loc>./2a-midag6_2024-Spring-w11-blog-tutorial.html</loc>
+<lastmod>2024-05-10T11:12:16+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./2a-midag6_2024-Spring-w10-blog-tutorial.html</loc>
+<lastmod>2024-05-10T11:12:07+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./41023124_2024-Spring-如何解決群組倉儲衝突-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w8-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w7-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w5-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w4-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w3-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w2-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w4教學影片任務回報與自評-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w6-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w9-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w1-1blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./2a-midag6_2024-Spring-w1-blog-tutorial.html</loc>
-<lastmod>2024-05-10T10:49:33+08:00</lastmod>
+<lastmod>2024-05-10T10:24:28+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/jiao-xue-ying-pian-ren-wu-hui-bao-yu-zi-ping.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/ru-he-jie-jue-qun-zu-cang-chu-chong-tu.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w1.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w1-1.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w10.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T11:12:07+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./category/w11.html</loc>
+<lastmod>2024-05-10T11:12:16+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -180,56 +194,56 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/w2.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w3.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w4.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w5.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w6.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w7.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w8.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/w9.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T10:24:28+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -250,7 +264,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./author/41023233.html</loc>
-<lastmod>2024-05-10T10:49:33+08:06</lastmod>
+<lastmod>2024-05-10T11:12:16+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

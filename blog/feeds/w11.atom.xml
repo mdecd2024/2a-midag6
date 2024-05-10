@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w11</title><link href="./" rel="alternate"></link><link href="./feeds/w11.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T11:12:16+08:00</updated><entry><title>2024 Spring 課程w11</title><link href="./2a-midag6_2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T18:51:00+08:00</published><updated>2024-05-10T11:12:16+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-05-03:./2a-midag6_2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;span&gt;協同產品設計實習第十一週實習操作, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;進行在倉儲&amp;nbsp;&lt;a href="https://github.com/mdecd2024/2astud-2asite"&gt;https://github.com/mdecd2024/2astud-2asite&lt;/a&gt;&amp;nbsp;中編輯各分組 (例 本組為 g6) 中的專案，打個人上課與誰協同、上課地點、設備等等....心得。&lt;/p&gt;
+&lt;p&gt;觀看老師的兩個影片，第一個影片說明心得內容與第十週後要進行的事情，第二個影片為如何在&lt;a class="color-fg-default" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="https://github.com/mdecd2024/2astud-2asite"&gt;2astud-2asite&lt;/a&gt;中避免衝突，使用個人分支，使用指令 git branch (查看分支)、git branch 41023124(名稱)(新增分支)、git checkout 41023124&lt;span&gt;(名稱)&lt;/span&gt;(切換分支)，git push origin 41023124&lt;span&gt;(名稱)&lt;/span&gt;(在遠端建立41023124)、git merge 41023124&lt;span&gt;(名稱)&lt;/span&gt;(進行分支合併)等等指令。&lt;/p&gt;
+&lt;p&gt;以下為兩個教學影片與每位組員心得&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;第一個教學影片:&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/A4wgWLZShco?si=0qiGk_3xf7cWdzlt" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;第二個教學影片:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/N4QPHMznMGc?si=VJjt6dzVeb7VK9lg" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;41023124 :&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;本堂課為協同產品設計與實習，前三週為設定個人倉儲，了解&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;Github、&lt;/span&gt;Replit與Codespace如何使用與其上傳協同原理和創建PuTTy，第四週與第五週將前三週的每一個教學錄影影片進行字幕的編輯與逐字稿，相較於前三週，第四週進度與任務速度有點快，因為剛開始並不是每個組員都有參加，所以少數組員需要完成所有影片字幕與逐字稿。&lt;/p&gt;
+&lt;p&gt;協同產品設計與實習這門課相較於較為傳統的上課方式有很大的不同，課堂並不是只有死板的知識與課本，需要利用網絡、AI去幫助自己與群組完成共同的編輯與協同，在這門課中使用 Github、Codespace、Replit、Odoo、NX、Coppeliasim去完成協同與繪製任務，也強調了組員之間的分工與合作，才能迅速的完成老師在每一周交代的任務。&lt;/p&gt;
+&lt;p&gt;目前到了w11，上課時段都是前往0810電腦教室使用USB下載的近端、Replit與Codespace相互協同編輯，有時候下課後在教室沒有做完，就回宿舍使用自己的筆電，相較於自己的筆電，學校的電腦每次重啟都需要加入鑰匙和自己習慣的設定，而且滑鼠不好用。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;41023233 :&lt;/p&gt;
+&lt;p&gt;w1:建立了個人倉儲及撙倉儲、將個人倉儲import至Repilt、設定github帳號雙重認證、利用import倉儲至Replit進行改版&lt;br&gt;w2:利用github進行協同分組，以及學習利用codespace維護個人及撙網站，亦可用近端執行動態網站&lt;br&gt;w3:將個人倉儲加入撙倉儲的子模組，統整LeTeX報告翻譯及轉檔最後再新增到分組資料，還有編寫個人blog、創建OnShape帳號&lt;br&gt;w4:確實執行各組任務配狀況，把之前的教學影片進行剪輯、上字幕，並將影片嵌入各分組的網站。最後說明影片大意&lt;br&gt;使用replit及Codespaces維護個人及分組倉儲&lt;br&gt;w5:將之前的教學影片整理及新增自評&lt;br&gt;w6:取下子模組還有更新學員倉儲內容，使用pelicanconf py 整合各組員的blog&lt;br&gt;w7 w8:協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點，產品協同架構說明&lt;br&gt;w9:新增期中考自評成績&lt;br&gt;w10:任務1建立各班學員的倉儲、網站與分組連結、任務2閱讀老師給的論文，及做出對論文的結論還有心得、任務3鋼球平衡台零件繪製&lt;br&gt;每周上完課後回去會利用多餘的時間處理每周進度，跟組員分配任務及指派&lt;/p&gt;
+&lt;p&gt;根據上述的要求來學習本課程(目前到w11)利用多種方式來維護個人及分組倉儲，我自己擅長使用的環境是replit、codespace，第二個的&lt;br&gt;好處是若有問題或是發生衝突的話可以直接將此環境刪除並重新安裝模組，就可以拿到最新的版本，這種方法非常快速及方便，個人的話&lt;br&gt;我是利用replit來維護更新每周網誌內容及進度，還有跟組員進行任務的分配及安排，到目前這周也是嘔到很多的衝突，有的問老師，也有&lt;br&gt;chatgpt，到目前是正常的狀態。&lt;/p&gt;
+&lt;p&gt;使用手機可以結合github、replit、onedrive進行遠操作，使用個人筆電可以儲存舊有的紀錄就可以快速登入，本課程的教學內容一併&lt;br&gt;都是放在線上系統，可以隨時查看以及做需要的更新，有問題也可以在討論版做出提問或是來學校親自詢問老師。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry></feed>
