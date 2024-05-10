@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T09:23:31+08:00</updated><entry><title>2024 Spring 課程w6</title><link href="./2a-midag6_2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-04-26T09:23:31+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T18:28:50+08:00</updated><entry><title>2024 Spring 課程w6</title><link href="./41023124_2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T13:59:00+08:00</published><updated>2024-05-10T18:28:50+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-29:./41023124_2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
-&lt;h1&gt;更新分組倉儲中的分組倉儲&lt;/h1&gt;
-&lt;p&gt;更改個人與群組 .md 與 slug名稱 , 加上自己的學號或者加上群組分組名稱&lt;/p&gt;
+&lt;h1&gt;w6&lt;/h1&gt;
+&lt;p&gt;更改個人.md與slug名稱加上個人或群組分組&lt;/p&gt;
+&lt;p&gt;更新分組倉儲中的分組倉儲&lt;/p&gt;
 &lt;p&gt;cd2024 2a w6 取下子模組, 以及更新學員倉儲內容&lt;/p&gt;
-&lt;p&gt;教學影片如下:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/BtYUHe8Actk?si=zpEdRXOtQluT22Fk"&gt;https://youtu.be/BtYUHe8Actk?si=zpEdRXOtQluT22Fk&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BtYUHe8Actk?si=zpEdRXOtQluT22Fk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
+&lt;p&gt;1. 教學影片如下:&lt;/p&gt;
 &lt;p&gt;cd2024 2a w6 利用 pelicanconf py 整合各組員的網誌&lt;/p&gt;
-&lt;p&gt;教學影片如下:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/XkImjlZSGGk"&gt;https://youtu.be/XkImjlZSGGk&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="704" height="327" src="https://www.youtube.com/embed/XkImjlZSGGk" title="cd2024 2a w6 利用 pelicanconf py 整合各組員的網誌" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;h1&gt;教學影片分組整理並自評&lt;/h1&gt;
-&lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別
-在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
-從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
-並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;2. 教學影片如下:&lt;/p&gt;
+&lt;section class="post-info"&gt;
+&lt;div class="clear"&gt;
+&lt;div class="fluid-width-video-wrapper"&gt;&lt;iframe width="300" height="150" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" id="fitvid494765" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BtYUHe8Actk?si=x2nLtoDQ40NwUxwp" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class="fluid-width-video-wrapper"&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="clear"&gt;
+&lt;div class="fluid-width-video-wrapper"&gt;
+&lt;div class="fluid-width-video-wrapper"&gt;&lt;iframe width="300" height="150" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" id="fitvid488494" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/XkImjlZSGGk?si=x6JLe9MPVC2mO-FH" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/section&gt;
+&lt;p&gt;教學影片分組整理並自評&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry></feed>
