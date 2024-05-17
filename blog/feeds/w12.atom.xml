@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T19:59:02+08:00</updated><entry><title>2024 Spring 課程w12</title><link href="./2a-midag6_2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T18:51:00+08:00</published><updated>2024-05-10T19:59:02+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-10:./2a-midag6_2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w12</title><link href="./" rel="alternate"></link><link href="./feeds/w12.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T18:51:00+08:00</updated><entry><title>2024 Spring 課程w12</title><link href="./2a-midag6_2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T18:51:00+08:00</published><updated>2024-05-10T11:12:27+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-10:./2a-midag6_2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -17,31 +17,6 @@
 &lt;p&gt;任務三 : cd2023 足球機器人網際場景模擬&lt;/p&gt;
 &lt;p&gt;練習跨網路操控足球機器人進行競技，依照下方教學影片練習，步驟為&lt;br&gt;1.下載Python 模組: pip install pyzmq cbor keyboard 。&lt;/p&gt;
 &lt;p&gt;2. 下載 &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt; 網站中的 zip檔案，解壓縮後的download下 zmq_football/site.ttt 檔案或者git clone &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;3.將下載包中的judge.py與player.py開啟，並將 ip中的 localhost 修改為 自己的ip(如影片中框選的)(120.113.99.41) 。&lt;/p&gt;
-&lt;p&gt;4.確認檔案與程式沒有任何問題後，Tools and Go 兩個程式，judge為裁判與時間，player為控制球員(wasd 前後左右)。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此影片為操作練習任務三影片&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/89qNoblFr3k?si=LH-wgXI-XstvJrWA" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;任務二與任務三教學說明影片&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rOaWBEFZOLY?si=84noVMYNHEMFiHnX" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w12</title><link href="./41023124_2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T13:27:00+08:00</published><updated>2024-05-10T19:59:02+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-10:./41023124_2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w12&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;協同產品設計實習第十二週實習操作, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件, 將各分組倉儲設為評分倉儲的子模組, 跨網路操控模擬場景裝置.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;w12一共有三個群組任務&lt;/p&gt;
-&lt;p&gt;照著下方教學影片執行，使用NXOpen分別執行畫好的.py程式，&lt;span&gt;透過錄製 Journal 程式產生，兩個程式合併為一個程式( nxopen_combine_block_and_drill_hole 與&amp;nbsp;nxopen_platform_part )&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;任務一 : 分配每個組員至少繳交一份零件繪製的 NXOpen Python 程式以及至少一份零件組立的 NXOpen Python 程式, 完成後, 請在個人的課程網誌紀錄 w12 實習任務一的執行心得.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2DbqX2Hin6M?si=5BTv0SIVJghpKHlR" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;-----------------------------------------------------------------------------------&lt;/p&gt;
-&lt;p&gt;任務二 : 將各分組倉儲設為評分倉儲的子模組&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;2a 評分倉儲:&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecd2024/2astud-2asite"&gt;https://github.com/mdecd2024/2astud-2asite&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;將群組(g6)倉儲設定在評分倉儲(上方網址)之子模組下，以便後續分數的評分&lt;/p&gt;
-&lt;p&gt;-----------------------------------------------------------------------------------&lt;/p&gt;
-&lt;p&gt;任務三 :&amp;nbsp;cd2023 足球機器人網際場景模擬&lt;/p&gt;
-&lt;p&gt;練習跨網路操控足球機器人進行競技，依照下方教學影片練習，步驟為&lt;br&gt;1.下載Python 模組: pip install pyzmq cbor keyboard 。&lt;/p&gt;
-&lt;p&gt;2. 下載 &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt;&amp;nbsp;網站中的 zip檔案，解壓縮後的download下 zmq_football/site.ttt 檔案或者git clone &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt;&amp;nbsp;。&lt;/p&gt;
 &lt;p&gt;3.將下載包中的judge.py與player.py開啟，並將 ip中的 localhost 修改為 自己的ip(如影片中框選的)(120.113.99.41) 。&lt;/p&gt;
 &lt;p&gt;4.確認檔案與程式沒有任何問題後，Tools and Go 兩個程式，judge為裁判與時間，player為控制球員(wasd 前後左右)。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
