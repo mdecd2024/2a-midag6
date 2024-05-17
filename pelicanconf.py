@@ -14,7 +14,11 @@ import os
 import shutil
 
 # Directories you want to include, 包含分組倉儲中的 markdown 與學員子模組對應目錄下的 markdown 等目錄中的 .md 網誌原始檔案
+<<<<<<< HEAD
 input_directories = ['41023124\markdown']
+=======
+input_directories = ['markdown', '41023124/markdown']
+>>>>>>> b1b27c84fb46994fde23a6bff902310359c03d10
 
 # Temporary directory to store combined Markdown files
 combined_directory = 'combined_markdown'
