@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w7</title><link href="./" rel="alternate"></link><link href="./feeds/w7.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T16:39:02+08:00</updated><entry><title>2024 Spring 課程w7</title><link href="./2a-midag6_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T15:57:00+08:00</published><updated>2024-05-24T16:39:00+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-05:./2a-midag6_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w7</title><link href="./" rel="alternate"></link><link href="./feeds/w7.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T11:29:00+08:00</updated><entry><title>2024 Spring 課程w7</title><link href="./2a-midag6_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T15:57:00+08:00</published><updated>2024-05-10T11:29:00+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-05:./2a-midag6_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -10,21 +10,4 @@
 &lt;p&gt;由於分組網誌內容協同時, 所有組員所編寫的 markdown 文章必須存入 combined_markdown 目錄, 因此 markdown 網誌文章檔案的命名不可重複, 且各網誌文章的 Slug 字串將會被當作用來命名轉檔後的超文件檔案名稱, 因此也不能重複.&lt;/p&gt;
 &lt;p&gt;至於當各組員採用 Replit 維護個人倉儲內容時, 可以直接從&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Connect 至&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/"&gt;Github&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;取得維護倉儲的權限, 旦卻無法直接用管理分組倉儲, 因為各組員雖然擁有管理分組倉儲的權限, 但是無法在&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中以免費的組員帳號管理&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://classroom.github.com/"&gt;Github Classroom&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;所取得的分組倉儲. 而必須動態納入針對分組倉儲的 OpenSSH 管理權限.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w7</title><link href="./41023124_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T12:08:00+08:00</published><updated>2024-05-24T16:39:00+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-05:./41023124_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w7&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;協同產品設計實習的第七週, 本週為清明連假期間，觀看老師blog網站更新之內容，調整個人與組別markdown下.md與slug之名稱，防止群組組員submodules中的資料衝突無法更新latex&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;其中首先要求各組員必須每週在 cd2024 倉儲中的 markdown 目錄編寫 markdown 網誌文章, 再經由&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;轉檔至 blog 目錄中的超文件網誌. 由於&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;採用 Python 檔案進行設定, 因此可以在轉檔的過程中, 將各子目錄中的組員倉儲網誌集合到分組倉儲中的 combined_markdown 目錄之後, 再指定將網誌超文件轉至各分組倉儲的 blog 目錄.&lt;/p&gt;
-&lt;p&gt;由於分組網誌內容協同時, 所有組員所編寫的 markdown 文章必須存入 combined_markdown 目錄, 因此 markdown 網誌文章檔案的命名不可重複, 且各網誌文章的 Slug 字串將會被當作用來命名轉檔後的超文件檔案名稱, 因此也不能重複.&lt;/p&gt;
-&lt;p&gt;至於當各組員採用 Replit 維護個人倉儲內容時, 可以直接從&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Connect 至&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/"&gt;Github&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;取得維護倉儲的權限, 旦卻無法直接用管理分組倉儲, 因為各組員雖然擁有管理分組倉儲的權限, 但是無法在&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中以免費的組員帳號管理&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://classroom.github.com/"&gt;Github Classroom&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;所取得的分組倉儲. 而必須動態納入針對分組倉儲的 OpenSSH 管理權限.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T11:00:00+08:00</published><updated>2024-05-24T16:39:02+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-04-05:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;w7&lt;/h1&gt;
-&lt;p&gt;更改個人與群組 .md 與 slug名稱 , 加上自己的學號或者加上群組分組名稱&lt;/p&gt;
-&lt;p&gt;協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點.&lt;/p&gt;
-&lt;p&gt;從協同設計的架構上, 個人與分組的倉儲中, 總共設計了以下幾種內容的協同模式:&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry></feed>
+&lt;p&gt;&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry></feed>
