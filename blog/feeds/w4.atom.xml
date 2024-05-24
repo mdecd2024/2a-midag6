@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-05-17T19:32:42+08:00</updated><entry><title>2024 Spring 課程w4</title><link href="./2a-midag6_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T17:24:00+08:00</published><updated>2024-05-17T19:32:40+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./2a-midag6_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w4</title><link href="./" rel="alternate"></link><link href="./feeds/w4.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T14:45:08+08:00</updated><entry><title>2024 Spring 課程w4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-19T11:00:00+08:00</published><updated>2024-05-24T14:45:08+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-03-19:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+&lt;h1&gt;w4&lt;/h1&gt;
+&lt;p&gt;協同產品設計實習的第四週, 各分組需要明確界定任務需求與分工時序, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時可導入 SourceTree 協助各組員更清楚看到倉儲改版歷程, 另外 Git Branch 的應用, 也可減少各學員階段性改版內容完成之前, 推向 Github 分組倉儲過程的合併次數.&lt;/p&gt;
+&lt;h1&gt;教學影片分組整理並自評&lt;/h1&gt;
+&lt;p&gt;整理之前影片及新增自評&lt;/p&gt;
+&lt;h1&gt;w4 2a 分組任務&lt;/h1&gt;
+&lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別&lt;/p&gt;
+&lt;p&gt;在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
+從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
+並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;
+&lt;h1&gt;Github 個人與分組倉儲的維護方式&lt;/h1&gt;
+&lt;p&gt;個人的倉儲名稱為 cd2024, 而期中的分組倉儲位於 mdecd2024 帳號下, 以2a 開頭, 加上 "-" 之後再補上 midag + 組別, 且各組員的 cd2024 個人倉儲必須設為各分組倉儲的子模組, 目的在各組員可以自行管理並維護自己的課程倉儲, 並決定要引入分組倉儲的內容版次.&lt;/p&gt;
+&lt;p&gt;各組員與分組倉儲的資料, 包括文字資料 (含 LaTeX 報告章節資料)、零組件檔案、零件工程圖或組立圖檔 (含 BOM 與爆炸圖), 以及目前正在整理的教學影片, 或者是各學員將操作流程錄製成的影片或 Wink 資料.&lt;/p&gt;
+&lt;h1&gt;第一種倉儲維護方式 - Replit&lt;/h1&gt;
+&lt;p&gt;利用replit維護倉儲&lt;/p&gt;
+&lt;h1&gt;第二種倉儲維護方式 - Codespaces&lt;/h1&gt;
+&lt;p&gt;也可用codespace來維護&lt;/p&gt;
+&lt;p&gt;使用上述兩種方式維護倉儲&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w4</title><link href="./2a-midag6_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T17:24:00+08:00</published><updated>2024-05-24T14:44:55+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./2a-midag6_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -2625,7 +2644,7 @@
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/8YSZDEVwlb8?si=OKN-N4UtwBiwedvQ" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;影片敘述:&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;介紹如何使用Gitpod設定網誌以及相關步驟。首先，透過gitpod.io進入Gitpod並使用GitHub帳號登入。接著，安裝必要的模組，然後執行程式。在Gitpod中可以打開多個終端機進行多個操作，速度也比較快。此外，Gitpod提供了類似codespaces和replit的功能，可以編輯和維護網誌，管理子模組。最後，介紹了如何在GitHub設置token和SSH以便更安全地管理倉儲。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="/downloads/cd2024 2b w3 使用 gitpod 與 localhost 維護個人倉儲.txt"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w4</title><link href="./41023124_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T13:52:00+08:00</published><updated>2024-05-17T19:32:42+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./41023124_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/downloads/cd2024 2b w3 使用 gitpod 與 localhost 維護個人倉儲.txt"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w4</title><link href="./41023124_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T13:52:00+08:00</published><updated>2024-05-24T14:45:03+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./41023124_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;每周進度報告w4&lt;/h1&gt;
