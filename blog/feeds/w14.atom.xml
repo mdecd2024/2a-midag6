@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w14</title><link href="./" rel="alternate"></link><link href="./feeds/w14.atom.xml" rel="self"></link><id>./</id><updated>2024-05-31T18:00:12+08:00</updated><entry><title>2024 Spring 課程w14</title><link href="./2a-midag6_2024-Spring-w14-blog-tutorial.html" rel="alternate"></link><published>2024-05-24T17:08:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-24:./2a-midag6_2024-Spring-w14-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w14&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;本週為協同產品設計與實習第十四&lt;/span&gt;&lt;span&gt;週&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;至以下連結回報區回報 2a w13 鋼球平衡台零組件與 NXOpen Python 程式&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecd2024/2astud-2asite/discussions/33"&gt;https://github.com/mdecd2024/2astud-2asite/discussions/33&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;第六組 鋼球平衡台Onedrive下載連結&amp;nbsp;&lt;/span&gt;&lt;a href="https://drive.google.com/drive/folders/1bYRx5cun-KOXZZZAd22t3SKQe90JsO46?usp=drive_link" rel="nofollow"&gt;https://drive.google.com/drive/folders/1bYRx5cun-KOXZZZAd22t3SKQe90JsO46?usp=drive_link&lt;/a&gt;&lt;br&gt;&lt;span&gt;鋼球平衡台倉儲網站&amp;nbsp;&lt;/span&gt;&lt;a href="https://mdecd2024.github.io/2a-midag6/content/w12.html" rel="nofollow"&gt;https://mdecd2024.github.io/2a-midag6/content/w12.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;w14教學影片一內容&lt;br&gt;利用&amp;nbsp;&lt;a href="https://mde.tw/cd2024/downloads/cd2024_2b_g6_steel_ball_platform_nxopen.7z"&gt;2bg6 所完成的 NXOpen 鋼球平衡台零件組立與轉檔程式&lt;/a&gt;&amp;nbsp;解壓縮後，cd2024_2b_g6_steel_ball_platform_nxopen 中的 do_platform_assembly_and_save_STL.py 進行轉主力檔產生stl與prt，最後將stl Import Mesh 至 CoppeliaSim 中(如下圖)(以下為圖片與w14教學影片)&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;w14教學影片二內容&lt;br&gt;將&amp;nbsp;&lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt;&amp;nbsp;download下來，執行程式為2a3-pj3ag4/downloads/zmq_football/，程式庫為 zmqRemoteApi_IPv6 以及裁判程式 judge.py 與球員程式 player.py 、運動場景為site.ttt組成的足球計時器場景。&lt;/p&gt;
-&lt;p&gt;實際操作步驟與操作影片至 w12&lt;span&gt;任務三 :&amp;nbsp;cd2023 足球機器人網際場景模擬中查看&lt;br&gt;最後再發想如何加入本學期的籃球框，踢足球進球門為1分，拖球至籃框為5分。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;w14教學影片一&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PKmqI_FaliI?si=LApz4SADRQXsS-FA" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;w14教學影片二&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Hyx9cW2LJVM?si=wCDwY5jTjMJEoMok" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w14</title><link href="./41023124_2024-Spring-w14-blog-tutorial.html" rel="alternate"></link><published>2024-05-24T16:17:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-24:./41023124_2024-Spring-w14-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w14</title><link href="./" rel="alternate"></link><link href="./feeds/w14.atom.xml" rel="self"></link><id>./</id><updated>2024-05-24T17:13:30+08:00</updated><entry><title>2024 Spring 課程w14</title><link href="./2a-midag6_2024-Spring-w14-blog-tutorial.html" rel="alternate"></link><published>2024-05-24T17:08:00+08:00</published><updated>2024-05-24T17:13:30+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-24:./2a-midag6_2024-Spring-w14-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 

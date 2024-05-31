@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-31T18:00:14+08:00</updated><entry><title>2024 Spring 課程w15</title><link href="./2a-midag6_2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-31T17:43:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-31:./2a-midag6_2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-31T17:46:40+08:00</updated><entry><title>2024 Spring 課程w15</title><link href="./2a-midag6_2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-31T17:43:00+08:00</published><updated>2024-05-31T17:46:40+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-31:./2a-midag6_2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -8,16 +8,7 @@
 &lt;p&gt;1.組員將上禮拜還未繪製完成之零件檔與py檔繪製完成&lt;br&gt;2.看老師將彈珠平衡台加入joint與其他設定，完成彈珠平衡台的平衡&lt;br&gt;3.其餘組員將個人與群組倉儲之資料進行彙整和整理與利用CoppeliaSim將之前的足球遊戲合併籃球之專題進行發想 使用何種機構能夠將球托起來並進入籃球框中，並繪製與改善程式，嘗試實現此專題設計。&lt;/p&gt;
 &lt;p&gt;嘗試改善機構&lt;/p&gt;
 &lt;p&gt;改善程式加入翻轉托盤、頂球&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6SajLQpoYpo?si=RR5NWAoTPdZ9Csph" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w15</title><link href="./41023124_2024-Spring-w15-blog-tutorial.html" rel="alternate"></link><published>2024-05-31T17:22:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-31:./41023124_2024-Spring-w15-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w15&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;本週為協同產品設計與實習第十五&lt;/span&gt;&lt;span&gt;週&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;1.組員將上禮拜還未繪製完成之零件檔與py檔繪製完成&lt;br&gt;2.看老師將彈珠平衡台加入joint與其他設定，完成彈珠平衡台的平衡&lt;br&gt;3.其餘組員將個人與群組倉儲之資料進行彙整和整理與利用CoppeliaSim將之前的足球遊戲合併籃球之專題進行發想 使用何種機構能夠將球托起來並進入籃球框中，並繪製與改善程式，嘗試實現此專題設計。&lt;/p&gt;
-&lt;p&gt;嘗試改善機構&lt;/p&gt;
-&lt;p&gt;改善程式加入翻轉托盤、頂球&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6SajLQpoYpo?si=RR5NWAoTPdZ9Csph" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w14</title><link href="./2a-midag6_2024-Spring-w14-blog-tutorial.html" rel="alternate"></link><published>2024-05-24T17:08:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-24:./2a-midag6_2024-Spring-w14-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6SajLQpoYpo?si=RR5NWAoTPdZ9Csph" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w15"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w14</title><link href="./2a-midag6_2024-Spring-w14-blog-tutorial.html" rel="alternate"></link><published>2024-05-24T17:08:00+08:00</published><updated>2024-05-24T17:13:30+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-24:./2a-midag6_2024-Spring-w14-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -34,24 +25,7 @@
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PKmqI_FaliI?si=LApz4SADRQXsS-FA" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;w14教學影片二&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Hyx9cW2LJVM?si=wCDwY5jTjMJEoMok" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w14</title><link href="./41023124_2024-Spring-w14-blog-tutorial.html" rel="alternate"></link><published>2024-05-24T16:17:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-24:./41023124_2024-Spring-w14-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w14&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;本週為協同產品設計與實習第十四&lt;/span&gt;&lt;span&gt;週&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;至以下連結回報區回報 2a w13 鋼球平衡台零組件與 NXOpen Python 程式&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecd2024/2astud-2asite/discussions/33"&gt;https://github.com/mdecd2024/2astud-2asite/discussions/33&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;第六組 鋼球平衡台Onedrive下載連結&amp;nbsp;&lt;/span&gt;&lt;a href="https://drive.google.com/drive/folders/1bYRx5cun-KOXZZZAd22t3SKQe90JsO46?usp=drive_link" rel="nofollow"&gt;https://drive.google.com/drive/folders/1bYRx5cun-KOXZZZAd22t3SKQe90JsO46?usp=drive_link&lt;/a&gt;&lt;br&gt;&lt;span&gt;鋼球平衡台倉儲網站&amp;nbsp;&lt;/span&gt;&lt;a href="https://mdecd2024.github.io/2a-midag6/content/w12.html" rel="nofollow"&gt;https://mdecd2024.github.io/2a-midag6/content/w12.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;w14教學影片一內容&lt;br&gt;利用&amp;nbsp;&lt;a href="https://mde.tw/cd2024/downloads/cd2024_2b_g6_steel_ball_platform_nxopen.7z"&gt;2bg6 所完成的 NXOpen 鋼球平衡台零件組立與轉檔程式&lt;/a&gt;&amp;nbsp;解壓縮後，cd2024_2b_g6_steel_ball_platform_nxopen 中的 do_platform_assembly_and_save_STL.py 進行轉主力檔產生stl與prt，最後將stl Import Mesh 至 CoppeliaSim 中(如下圖)(以下為圖片與w14教學影片)&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;w14教學影片二內容&lt;br&gt;將&amp;nbsp;&lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt;&amp;nbsp;download下來，執行程式為2a3-pj3ag4/downloads/zmq_football/，程式庫為 zmqRemoteApi_IPv6 以及裁判程式 judge.py 與球員程式 player.py 、運動場景為site.ttt組成的足球計時器場景。&lt;/p&gt;
-&lt;p&gt;實際操作步驟與操作影片至 w12&lt;span&gt;任務三 :&amp;nbsp;cd2023 足球機器人網際場景模擬中查看&lt;br&gt;最後再發想如何加入本學期的籃球框，踢足球進球門為1分，拖球至籃框為5分。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;w14教學影片一&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PKmqI_FaliI?si=LApz4SADRQXsS-FA" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;w14教學影片二&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Hyx9cW2LJVM?si=wCDwY5jTjMJEoMok" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w13</title><link href="./2a-midag6_2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T18:51:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023233 41023124</name></author><id>tag:None,2024-05-17:./2a-midag6_2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Hyx9cW2LJVM?si=wCDwY5jTjMJEoMok" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w14"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w13</title><link href="./2a-midag6_2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T18:51:00+08:00</published><updated>2024-05-17T19:29:40+08:00</updated><author><name>41023233 41023124</name></author><id>tag:None,2024-05-17:./2a-midag6_2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -67,23 +41,7 @@
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Cy3j6n0a9wQ?si=kZhKFngcSPxqnalY" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;cd2024 w13 2a 說明如何將零組件以 STL 轉入 CoppeliaSim&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-0mbtk1AuoY?si=GudlON0u65rM4ch0" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w13</title><link href="./41023124_2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T18:29:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-17:./41023124_2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w13&lt;/h1&gt;
-&lt;p&gt;本週為協同產品設計與實習第十三週，說明最後一個月的自我評分項目與說明如何將零組件以 STL 轉入 CoppeliaSim，並且將前兩週使用Solvespace與NX繪製之零件完成與組裝&lt;/p&gt;
-&lt;p&gt;cd2024 w13 2a 說明各程式模組之所以作為可攜以及最後一個月的自我評分項目&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/w12%20prt%E6%AA%94.zip"&gt;零件prt檔&lt;/a&gt;
-&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/w12%20py%E6%AA%94.zip"&gt;零件py檔&lt;/a&gt;
-&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/assembly%20prt%E6%AA%94.zip"&gt;組合件prt檔&lt;/a&gt;
-&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/assembly%20py%E6%AA%94.zip"&gt;組合件py檔&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;0:13 為 base_w&amp;nbsp; &amp;nbsp; &amp;nbsp; 0:49 為 platform&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1:30 為 s_link&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1:50 為 shaft&amp;nbsp; &amp;nbsp; &amp;nbsp; 2:05 為 y_link&amp;nbsp; &amp;nbsp; 2:34 為 assembly&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2kD7b0qfWIg?si=JWtm96hrAYTiIESM" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Cy3j6n0a9wQ?si=kZhKFngcSPxqnalY" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024 w13 2a 說明如何將零組件以 STL 轉入 CoppeliaSim&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-0mbtk1AuoY?si=GudlON0u65rM4ch0" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w12</title><link href="./2a-midag6_2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T18:51:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-10:./2a-midag6_2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-0mbtk1AuoY?si=GudlON0u65rM4ch0" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w12</title><link href="./2a-midag6_2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T18:51:00+08:00</published><updated>2024-05-17T19:29:40+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-10:./2a-midag6_2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -116,65 +74,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;任務二與任務三教學說明影片&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rOaWBEFZOLY?si=84noVMYNHEMFiHnX" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w12</title><link href="./41023124_2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T13:27:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-10:./41023124_2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w12&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;協同產品設計實習第十二週實習操作, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件, 將各分組倉儲設為評分倉儲的子模組, 跨網路操控模擬場景裝置.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;w12一共有三個群組任務&lt;/p&gt;
-&lt;p&gt;照著下方教學影片執行，使用NXOpen分別執行畫好的.py程式，&lt;span&gt;透過錄製 Journal 程式產生，兩個程式合併為一個程式( nxopen_combine_block_and_drill_hole 與&amp;nbsp;nxopen_platform_part )&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;任務一 : 分配每個組員至少繳交一份零件繪製的 NXOpen Python 程式以及至少一份零件組立的 NXOpen Python 程式, 完成後, 請在個人的課程網誌紀錄 w12 實習任務一的執行心得.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;41023124 : 在使用nx畫圖時，剛開始不太熟悉，需要練習練習，並且第一次使用.py的方式去錄影畫零件，開啟就可以跑出過程與最後畫好的零件，但是在存檔時要注意，不能存零件檔，不然.py檔會打不開。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/w12%20prt%E6%AA%94.zip"&gt;零件prt檔&lt;/a&gt;
-&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/w12%20py%E6%AA%94.zip"&gt;零件py檔&lt;/a&gt;
-&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/assembly%20prt%E6%AA%94.zip"&gt;組合件prt檔&lt;/a&gt;
-&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/assembly%20py%E6%AA%94.zip"&gt;組合件py檔&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;0:13 為 base_w&amp;nbsp; &amp;nbsp; &amp;nbsp; 0:49 為 platform&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1:30 為 s_link&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1:50 為 shaft&amp;nbsp; &amp;nbsp; &amp;nbsp; 2:05 為 y_link&amp;nbsp; &amp;nbsp; 2:34 為 assembly&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2kD7b0qfWIg?si=JWtm96hrAYTiIESM" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2DbqX2Hin6M?si=5BTv0SIVJghpKHlR" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;-----------------------------------------------------------------------------------&lt;/p&gt;
-&lt;p&gt;任務二 : 將各分組倉儲設為評分倉儲的子模組&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;2a 評分倉儲:&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecd2024/2astud-2asite"&gt;https://github.com/mdecd2024/2astud-2asite&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;將群組(g6)倉儲設定在評分倉儲(上方網址)之子模組下，以便後續分數的評分&lt;/p&gt;
-&lt;p&gt;-----------------------------------------------------------------------------------&lt;/p&gt;
-&lt;p&gt;任務三 :&amp;nbsp;cd2023 足球機器人網際場景模擬&lt;/p&gt;
-&lt;p&gt;練習跨網路操控足球機器人進行競技，依照下方教學影片練習，步驟為&lt;br&gt;1.下載Python 模組: pip install pyzmq cbor keyboard 。&lt;/p&gt;
-&lt;p&gt;2. 下載 &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt;&amp;nbsp;網站中的 zip檔案，解壓縮後的download下 zmq_football/site.ttt 檔案或者git clone &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt;&amp;nbsp;。&lt;/p&gt;
-&lt;p&gt;3.將下載包中的judge.py與player.py開啟，並將 ip中的 localhost 修改為 自己的ip(如影片中框選的)(120.113.99.41) 。&lt;/p&gt;
-&lt;p&gt;4.確認檔案與程式沒有任何問題後，Tools and Go 兩個程式，judge為裁判與時間，player為控制球員(wasd 前後左右)。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此影片為操作練習任務三影片&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/89qNoblFr3k?si=LH-wgXI-XstvJrWA" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;任務二與任務三教學說明影片&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rOaWBEFZOLY?si=84noVMYNHEMFiHnX" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w12</title><link href="./2024-Spring-w12-blog-tutorial.html" rel="alternate"></link><published>2024-05-10T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-05-10:./2024-Spring-w12-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w12&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;協同產品設計實習第十二週實習操作, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件, 將各分組倉儲設為評分倉儲的子模組, 跨網路操控模擬場景裝置.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;w12一共有三個群組任務&lt;/p&gt;
-&lt;p&gt;照著下方教學影片執行，使用NXOpen分別執行畫好的.py程式，&lt;span&gt;透過錄製 Journal 程式產生，兩個程式合併為一個程式( nxopen_combine_block_and_drill_hole 與 nxopen_platform_part )&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;任務一 : 分配每個組員至少繳交一份零件繪製的 NXOpen Python 程式以及至少一份零件組立的 NXOpen Python 程式, 完成後, 請在個人的課程網誌紀錄 w12 實習任務一的執行心得.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2DbqX2Hin6M?si=5BTv0SIVJghpKHlR" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;-----------------------------------------------------------------------------------&lt;/p&gt;
-&lt;p&gt;任務二 : 將各分組倉儲設為評分倉儲的子模組&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;2a 評分倉儲: &lt;/span&gt;&lt;a href="https://github.com/mdecd2024/2astud-2asite"&gt;https://github.com/mdecd2024/2astud-2asite&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;將群組(g6)倉儲設定在評分倉儲(上方網址)之子模組下，以便後續分數的評分&lt;/p&gt;
-&lt;p&gt;-----------------------------------------------------------------------------------&lt;/p&gt;
-&lt;p&gt;任務三 : cd2023 足球機器人網際場景模擬&lt;/p&gt;
-&lt;p&gt;練習跨網路操控足球機器人進行競技，依照下方教學影片練習，步驟為&lt;br&gt;1.下載Python 模組: pip install pyzmq cbor keyboard 。&lt;/p&gt;
-&lt;p&gt;2. 下載 &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt; 網站中的 zip檔案，解壓縮後的download下 zmq_football/site.ttt 檔案或者git clone &lt;a href="https://github.com/mdecd2023/2a3-pj3ag4"&gt;https://github.com/mdecd2023/2a3-pj3ag4&lt;/a&gt; 。&lt;/p&gt;
-&lt;p&gt;3.將下載包中的judge.py與player.py開啟，並將 ip中的 localhost 修改為 自己的ip(如影片中框選的)(120.113.99.41) 。&lt;/p&gt;
-&lt;p&gt;4.確認檔案與程式沒有任何問題後，Tools and Go 兩個程式，judge為裁判與時間，player為控制球員(wasd 前後左右)。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;此影片為操作練習任務三影片&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/89qNoblFr3k?si=LH-wgXI-XstvJrWA" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;任務二與任務三教學說明影片&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rOaWBEFZOLY?si=84noVMYNHEMFiHnX" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w11</title><link href="./2a-midag6_2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T22:04:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-05-03:./2a-midag6_2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w12"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w11</title><link href="./2a-midag6_2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T22:04:00+08:00</published><updated>2024-05-17T19:29:40+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-05-03:./2a-midag6_2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -203,55 +103,7 @@
 &lt;p&gt;41023233 :&lt;/p&gt;
 &lt;p&gt;w1:建立了個人倉儲及撙倉儲、將個人倉儲import至Repilt、設定github帳號雙重認證、利用import倉儲至Replit進行改版&lt;br&gt;w2:利用github進行協同分組，以及學習利用codespace維護個人及撙網站，亦可用近端執行動態網站&lt;br&gt;w3:將個人倉儲加入撙倉儲的子模組，統整LeTeX報告翻譯及轉檔最後再新增到分組資料，還有編寫個人blog、創建OnShape帳號&lt;br&gt;w4:確實執行各組任務配狀況，把之前的教學影片進行剪輯、上字幕，並將影片嵌入各分組的網站。最後說明影片大意&lt;br&gt;使用replit及Codespaces維護個人及分組倉儲&lt;br&gt;w5:將之前的教學影片整理及新增自評&lt;br&gt;w6:取下子模組還有更新學員倉儲內容，使用pelicanconf py 整合各組員的blog&lt;br&gt;w7 w8:協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點，產品協同架構說明&lt;br&gt;w9:新增期中考自評成績&lt;br&gt;w10:任務1建立各班學員的倉儲、網站與分組連結、任務2閱讀老師給的論文，及做出對論文的結論還有心得、任務3鋼球平衡台零件繪製&lt;br&gt;每周上完課後回去會利用多餘的時間處理每周進度，跟組員分配任務及指派&lt;/p&gt;
 &lt;p&gt;根據上述的要求來學習本課程(目前到w11)利用多種方式來維護個人及分組倉儲，我自己擅長使用的環境是replit、codespace，第二個的&lt;br&gt;好處是若有問題或是發生衝突的話可以直接將此環境刪除並重新安裝模組，就可以拿到最新的版本，這種方法非常快速及方便，個人的話&lt;br&gt;我是利用replit來維護更新每周網誌內容及進度，還有跟組員進行任務的分配及安排，到目前這周也是嘔到很多的衝突，有的問老師，也有&lt;br&gt;chatgpt，到目前是正常的狀態。&lt;/p&gt;
-&lt;p&gt;使用手機可以結合github、replit、onedrive進行遠操作，使用個人筆電可以儲存舊有的紀錄就可以快速登入，本課程的教學內容一併&lt;br&gt;都是放在線上系統，可以隨時查看以及做需要的更新，有問題也可以在討論版做出提問或是來學校親自詢問老師。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w11</title><link href="./41023124_2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T13:52:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-05-03:./41023124_2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w11&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;協同產品設計實習第十一週實習操作, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;進行在倉儲&amp;nbsp;&lt;a href="https://github.com/mdecd2024/2astud-2asite"&gt;https://github.com/mdecd2024/2astud-2asite&lt;/a&gt;&amp;nbsp;中編輯各分組 (例 本組為 g6) 中的專案，打個人上課與誰協同、上課地點、設備等等....心得。&lt;/p&gt;
-&lt;p&gt;觀看老師的兩個影片，第一個影片說明心得內容與第十週後要進行的事情，第二個影片為如何在&lt;a class="color-fg-default" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="https://github.com/mdecd2024/2astud-2asite"&gt;2astud-2asite&lt;/a&gt;中避免衝突，使用個人分支，使用指令 git branch (查看分支)、git branch 41023124(名稱)(新增分支)、git checkout 41023124(切換分支)，git push origin 41023124 (在遠端建立41023124)、git merge 41023124(進行分支合併)等等指令，&lt;/p&gt;
-&lt;p&gt;41023124 :&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;本堂課為協同產品設計與實習，前三週為設定個人倉儲，了解&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;Github、&lt;/span&gt;Replit與Codespace如何使用與其上傳協同原理和創建PuTTy，第四週與第五週將前三週的每一個教學錄影影片進行字幕的編輯與逐字稿，相較於前三週，第四週進度與任務速度有點快，因為剛開始並不是每個組員都有參加，所以少數組員需要完成所有影片字幕與逐字稿。&lt;/p&gt;
-&lt;p&gt;協同產品設計與實習這門課相較於較為傳統的上課方式有很大的不同，課堂並不是只有死板的知識與課本，需要利用網絡、AI去幫助自己與群組完成共同的編輯與協同，在這門課中使用 Github、Codespace、Replit、Odoo、NX、Coppeliasim去完成協同與繪製任務，也強調了組員之間的分工與合作，才能迅速的完成老師在每一周交代的任務。&lt;/p&gt;
-&lt;p&gt;目前到了w11，上課時段都是前往0810電腦教室使用USB下載的近端、Replit與Codespace相互協同編輯，有時候下課後在教室沒有做完，就回宿舍使用自己的筆電，相較於自己的筆電，學校的電腦每次重啟都需要加入鑰匙和自己習慣的設定，而且滑鼠不好用。&lt;/p&gt;
-&lt;p&gt;第一個教學影片:&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/A4wgWLZShco?si=0qiGk_3xf7cWdzlt" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;第二個教學影片:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/N4QPHMznMGc?si=VJjt6dzVeb7VK9lg" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w11</title><link href="./2024-Spring-w11-blog-tutorial.html" rel="alternate"></link><published>2024-05-03T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-05-03:./2024-Spring-w11-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;p&gt;新增目前的心得及上課進度的說明&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;協同產品設計實習第十一週實習操作, 各學員利用 NX 1872 繪製鋼球平衡台所需的零組件.&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;進行在倉儲&amp;nbsp;&lt;a href="https://github.com/mdecd2024/2astud-2asite"&gt;https://github.com/mdecd2024/2astud-2asite&lt;/a&gt;&amp;nbsp;中編輯各分組 (例 本組為 g6) 中的專案，打個人上課與誰協同、上課地點、設備等等....心得。&lt;/p&gt;
-&lt;p&gt;觀看老師的兩個影片，第一個影片說明心得內容與第十週後要進行的事情，第二個影片為如何在&lt;a class="color-fg-default" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="https://github.com/mdecd2024/2astud-2asite"&gt;2astud-2asite&lt;/a&gt;中避免衝突，使用個人分支，使用指令 git branch (查看分支)、git branch 41023124(名稱)(新增分支)、git checkout 41023124&lt;span&gt;(名稱)&lt;/span&gt;(切換分支)，git push origin 41023124&lt;span&gt;(名稱)&lt;/span&gt;(在遠端建立41023124)、git merge 41023124&lt;span&gt;(名稱)&lt;/span&gt;(進行分支合併)等等指令。&lt;/p&gt;
-&lt;p&gt;以下為兩個教學影片與每位組員心得&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;第一個教學影片:&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/A4wgWLZShco?si=0qiGk_3xf7cWdzlt" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;第二個教學影片:&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/N4QPHMznMGc?si=VJjt6dzVeb7VK9lg" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;w1:建立了個人倉儲及撙倉儲、將個人倉儲import至Repilt、設定github帳號雙重認證、利用import倉儲至Replit進行改版
-w2:利用github進行協同分組，以及學習利用codespace維護個人及撙網站，亦可用近端執行動態網站
-w3:將個人倉儲加入撙倉儲的子模組，統整LeTeX報告翻譯及轉檔最後再新增到分組資料，還有編寫個人blog、創建OnShape帳號
-w4:確實執行各組任務配狀況，把之前的教學影片進行剪輯、上字幕，並將影片嵌入各分組的網站。最後說明影片大意
-   使用replit及Codespaces維護個人及分組倉儲
-w5:將之前的教學影片整理及新增自評
-w6:取下子模組還有更新學員倉儲內容，使用pelicanconf py 整合各組員的blog
-w7 w8:協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點，產品協同架構說明
-w9:新增期中考自評成績
-w10:任務1建立各班學員的倉儲、網站與分組連結、任務2閱讀老師給的論文，及做出對論文的結論還有心得、任務3鋼球平衡台零件繪製
-   每周上完課後回去會利用多餘的時間處理每周進度，跟組員分配任務及指派&lt;/p&gt;
-&lt;p&gt;根據上述的要求來學習本課程(目前到w11)利用多種方式來維護個人及分組倉儲，我自己擅長使用的環境是replit、codespace，第二個的
-好處是若有問題或是發生衝突的話可以直接將此環境刪除並重新安裝模組，就可以拿到最新的版本，這種方法非常快速及方便，個人的話
-我是利用replit來維護更新每周網誌內容及進度，還有跟組員進行任務的分配及安排，到目前這周也是嘔到很多的衝突，有的問老師，也有
-chatgpt，到目前是正常的狀態。&lt;/p&gt;
-&lt;p&gt;使用手機可以結合github、replit、onedrive進行遠操作，使用個人筆電可以儲存舊有的紀錄就可以快速登入，本課程的教學內容一併
-都是放在線上系統，可以隨時查看以及做需要的更新，有問題也可以在討論版做出提問或是來學校親自詢問老師。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./2a-midag6_2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T22:04:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./2a-midag6_2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;使用手機可以結合github、replit、onedrive進行遠操作，使用個人筆電可以儲存舊有的紀錄就可以快速登入，本課程的教學內容一併&lt;br&gt;都是放在線上系統，可以隨時查看以及做需要的更新，有問題也可以在討論版做出提問或是來學校親自詢問老師。&lt;/p&gt;</content><category term="w11"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./2a-midag6_2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T22:04:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./2a-midag6_2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -281,7 +133,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;鋼球平衡台零組件繪圖&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;W10 實習任務三:&lt;/p&gt;
-&lt;p&gt;請根據&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mde.tw/cd2024/downloads/Solvespace_model%20_2d_for_cd2024_w6.7z"&gt;Solvespace_model _2d_for_cd2024_w6.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;零組件尺寸, 利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/yen_nfu_edu_tw/EehhlaMDzTxAlOBppbPSoPwBCzsOQxvshtNL8xJel-zbJQ?e=YwKvdH"&gt;Siemens NX1872.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(需要登入 @nfu.edu.tw, cd2024 採用電腦安裝的 NX1872 或隨身碟中的 NX1872) 執行零組件繪圖, 完成後請將過程影片放入個人與分組網站中.&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>如何解決群組倉儲衝突</title><link href="./2a-midag6_2024-Spring-%E5%A6%82%E4%BD%95%E8%A7%A3%E6%B1%BA%E7%BE%A4%E7%B5%84%E5%80%89%E5%84%B2%E8%A1%9D%E7%AA%81-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T21:46:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./2a-midag6_2024-Spring-如何解決群組倉儲衝突-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;請根據&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mde.tw/cd2024/downloads/Solvespace_model%20_2d_for_cd2024_w6.7z"&gt;Solvespace_model _2d_for_cd2024_w6.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;零組件尺寸, 利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/yen_nfu_edu_tw/EehhlaMDzTxAlOBppbPSoPwBCzsOQxvshtNL8xJel-zbJQ?e=YwKvdH"&gt;Siemens NX1872.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(需要登入 @nfu.edu.tw, cd2024 採用電腦安裝的 NX1872 或隨身碟中的 NX1872) 執行零組件繪圖, 完成後請將過程影片放入個人與分組網站中.&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>如何解決群組倉儲衝突</title><link href="./2a-midag6_2024-Spring-%E5%A6%82%E4%BD%95%E8%A7%A3%E6%B1%BA%E7%BE%A4%E7%B5%84%E5%80%89%E5%84%B2%E8%A1%9D%E7%AA%81-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T21:46:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./2a-midag6_2024-Spring-如何解決群組倉儲衝突-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -290,100 +142,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;如果你的codespace有cd2024的子模組&lt;br&gt;就打&lt;br&gt;git submodule deinit cd2024&lt;br&gt;git rm --cached cd2024&lt;br&gt;rm -rf cd2024&lt;br&gt;刪除完在git push就好&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;反之有4102324 就把cd2024改為4102324&lt;/p&gt;
 &lt;p&gt;這張照片我刪完cd2024的submodule了，所以看不到cd2024的子模組，請組員自己檢查有沒有 ( Codespace)&lt;/p&gt;
-&lt;p&gt;&lt;img src="downloads/messageImage_1714132138476.jpg"&gt;&lt;/p&gt;</content><category term="如何解決群組倉儲衝突"></category><category term="網誌編寫"></category></entry><entry><title>如何解決群組倉儲衝突</title><link href="./41023124_2024-Spring-%E5%A6%82%E4%BD%95%E8%A7%A3%E6%B1%BA%E7%BE%A4%E7%B5%84%E5%80%89%E5%84%B2%E8%A1%9D%E7%AA%81-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T21:02:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./41023124_2024-Spring-如何解決群組倉儲衝突-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;解決群組倉儲衝突方法&lt;/h1&gt;
-&lt;p&gt;請"每位"組員檢查自己的上傳、編輯方式中 ( Codespace 、近端、Replit )有沒有之前弄錯的子模組 ( cd2024 與 4102324 ) ，如果有的話請刪除，不然之後上船都會有問題，以下是刪除方法。&lt;/p&gt;
-&lt;p&gt;如果你的codespace有cd2024的子模組&lt;br&gt;就打&lt;br&gt;git submodule deinit cd2024&lt;br&gt;git rm --cached cd2024&lt;br&gt;rm -rf cd2024&lt;br&gt;刪除完在git push就好&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;反之有4102324 就把cd2024改為4102324&lt;/p&gt;
-&lt;p&gt;這張照片我刪完cd2024的submodule了，所以看不到cd2024的子模組，請組員自己檢查有沒有 ( Codespace)&lt;/p&gt;
-&lt;p&gt;&lt;img src="messageImage_1714132138476.jpg"&gt;&lt;/p&gt;</content><category term="如何解決群組倉儲衝突"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./41023124_2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T13:40:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./41023124_2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w10&lt;/h1&gt;
-&lt;h2&gt;W10 實習任務一&lt;/h2&gt;
-&lt;p&gt;將老師給的2a出席名單，將程式詢問AI後，將程式改寫並在每一行後方進行註記，方便了解與解析此Brython程式如何進行運作&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;內容與重點，程式是如何運行與操作的&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/41023124/500875a36052f90472928c0fd722707e/raw/42ccb4354ff3beaf2b5771b40cd2133d1d8c944d/2a2"&gt;程式gists url&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;程式內容與重點，程式是如何運行與操作的&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;這個程式是一個Python腳本，它使用了Brython庫（Python的瀏覽器端實現），用於在網頁上動態加載和處理CSV文件數據，並將處理後的數據以HTML的形式插入到網頁中。&lt;/p&gt;
-&lt;p&gt;讓我們來看一下它的主要功能和運行流程：&lt;/p&gt;
-&lt;p&gt;1. **導入模塊**：程式一開始導入了需要使用的模塊，包括`window`（瀏覽器窗口對象）、`ajax`（用於發送Ajax請求）、`document`（HTML文檔對象）、`html`（HTML元素生成器）。&lt;/p&gt;
-&lt;p&gt;2. **fetch_csv_data函數**：這個函數是整個程式的主要部分，它用於獲取CSV數據並將其轉換為HTML格式插入到網頁中。&lt;/p&gt;
-&lt;p&gt;- **CSV文件地址定義**：將CSV文件的URL地址存儲在變量`url`中。&lt;br&gt; &lt;br&gt; - **請求完成回調函數**：定義了`on_complete`函數作為Ajax請求完成後的回調函數。如果請求成功（狀態碼為200或0），則執行以下操作：&lt;br&gt; &lt;br&gt; - 讀取CSV文件內容並按行拆分。&lt;br&gt; &lt;br&gt; - 遍歷每一行數據，忽略空行，將非空行按逗號拆分，並將拆分後的數據存儲到列表中。&lt;br&gt; &lt;br&gt; - 去除第一行（標題行），保留數據行。&lt;br&gt; &lt;br&gt; - 針對每個學生的數據，生成其個人網站鏈接、GitHub倉庫鏈接，以及小組網站鏈接和GitHub倉庫鏈接。&lt;br&gt; &lt;br&gt; - 將生成的鏈接和相關信息插入到HTML頁面中的指定位置。&lt;br&gt; &lt;br&gt; - **發送Ajax請求**：使用Ajax對象發送GET請求到指定的URL，綁定了完成事件，設置請求頭部，並發送請求。&lt;br&gt; &lt;br&gt;3. **調用fetch_csv_data函數**：在程式末尾調用了`fetch_csv_data`函數，觸發CSV數據的獲取和處理過程。&lt;/p&gt;
-&lt;p&gt;總的來說，這個腳本通過Ajax請求獲取CSV數據，然後解析該數據並生成HTML元素，最後將生成的HTML插入到網頁中，完成了將CSV數據動態展示在網頁上的功能。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;鋼球平衡台 PID 控制與模擬&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;W10 實習任務二:&lt;/p&gt;
-&lt;p&gt;請下載&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://229.cycu.org/cd2024_ball_balancing_platform_control_ref.7z"&gt;cd2024_ball_balancing_platform_control_ref.7z&lt;/a&gt;, 閱讀後請將摘要內容放入個人與分組網誌中.&lt;/p&gt;
-&lt;p&gt;閱讀結果:&lt;/p&gt;
-&lt;p&gt;各篇論文要點摘要：&lt;/p&gt;
-&lt;p&gt;結論：&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;實習步驟:&lt;/p&gt;
-&lt;p&gt;開啟可攜程式系統中的 CoppeliaSim 開啟鋼球平衡台模擬場景 啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib 在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬 matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;鋼球平衡台零組件繪圖&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;W10 實習任務三:&lt;/p&gt;
-&lt;p&gt;請根據&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mde.tw/cd2024/downloads/Solvespace_model%20_2d_for_cd2024_w6.7z"&gt;Solvespace_model _2d_for_cd2024_w6.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;零組件尺寸, 利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/yen_nfu_edu_tw/EehhlaMDzTxAlOBppbPSoPwBCzsOQxvshtNL8xJel-zbJQ?e=YwKvdH"&gt;Siemens NX1872.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(需要登入 @nfu.edu.tw, cd2024 採用電腦安裝的 NX1872 或隨身碟中的 NX1872) 執行零組件繪圖, 完成後請將過程影片放入個人與分組網站中.&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;W10 實習任務一&lt;/h1&gt;
-&lt;p&gt;將老師給的2a出席名單，將程式詢問AI後，將程式改寫並在每一行後方進行註記，方便了解與解析此Brython程式如何進行運作&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;內容與重點，程式是如何運行與操作的&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/41023124/500875a36052f90472928c0fd722707e/raw/42ccb4354ff3beaf2b5771b40cd2133d1d8c944d/2a2"&gt;程式gists url&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span&gt;程式內容與重點，程式是如何運行與操作的&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;這個程式是一個Python腳本，它使用了Brython庫（Python的瀏覽器端實現），用於在網頁上動態加載和處理CSV文件數據，並將處理後的數據以HTML的形式插入到網頁中。&lt;/p&gt;
-&lt;p&gt;讓我們來看一下它的主要功能和運行流程：&lt;/p&gt;
-&lt;p&gt;1. **導入模塊**：程式一開始導入了需要使用的模塊，包括`window`（瀏覽器窗口對象）、`ajax`（用於發送Ajax請求）、`document`（HTML文檔對象）、`html`（HTML元素生成器）。&lt;/p&gt;
-&lt;p&gt;2. **fetch_csv_data函數**：這個函數是整個程式的主要部分，它用於獲取CSV數據並將其轉換為HTML格式插入到網頁中。&lt;/p&gt;
-&lt;p&gt;- **CSV文件地址定義**：將CSV文件的URL地址存儲在變量`url`中。&lt;br&gt; &lt;br&gt; - **請求完成回調函數**：定義了`on_complete`函數作為Ajax請求完成後的回調函數。如果請求成功（狀態碼為200或0），則執行以下操作：&lt;br&gt; &lt;br&gt; - 讀取CSV文件內容並按行拆分。&lt;br&gt; &lt;br&gt; - 遍歷每一行數據，忽略空行，將非空行按逗號拆分，並將拆分後的數據存儲到列表中。&lt;br&gt; &lt;br&gt; - 去除第一行（標題行），保留數據行。&lt;br&gt; &lt;br&gt; - 針對每個學生的數據，生成其個人網站鏈接、GitHub倉庫鏈接，以及小組網站鏈接和GitHub倉庫鏈接。&lt;br&gt; &lt;br&gt; - 將生成的鏈接和相關信息插入到HTML頁面中的指定位置。&lt;br&gt; &lt;br&gt; - **發送Ajax請求**：使用Ajax對象發送GET請求到指定的URL，綁定了完成事件，設置請求頭部，並發送請求。&lt;br&gt; &lt;br&gt;3. **調用fetch_csv_data函數**：在程式末尾調用了`fetch_csv_data`函數，觸發CSV數據的獲取和處理過程。&lt;/p&gt;
-&lt;p&gt;總的來說，這個腳本通過Ajax請求獲取CSV數據，然後解析該數據並生成HTML元素，最後將生成的HTML插入到網頁中，完成了將CSV數據動態展示在網頁上的功能。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;鋼球平衡台 PID 控制與模擬&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;W10 實習任務二:&lt;/p&gt;
-&lt;p&gt;請下載&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://229.cycu.org/cd2024_ball_balancing_platform_control_ref.7z"&gt;cd2024_ball_balancing_platform_control_ref.7z&lt;/a&gt;, 閱讀後請將摘要內容放入個人與分組網誌中.&lt;/p&gt;
-&lt;p&gt;閱讀結果:&lt;/p&gt;
-&lt;p&gt;各篇論文要點摘要：&lt;/p&gt;
-&lt;p&gt;結論：&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;實習步驟:&lt;/p&gt;
-&lt;p&gt;開啟可攜程式系統中的 CoppeliaSim 開啟鋼球平衡台模擬場景 啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib 在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬 matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;鋼球平衡台零組件繪圖&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;W10 實習任務三:&lt;/p&gt;
-&lt;p&gt;請根據&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mde.tw/cd2024/downloads/Solvespace_model%20_2d_for_cd2024_w6.7z"&gt;Solvespace_model _2d_for_cd2024_w6.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;零組件尺寸, 利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/yen_nfu_edu_tw/EehhlaMDzTxAlOBppbPSoPwBCzsOQxvshtNL8xJel-zbJQ?e=YwKvdH"&gt;Siemens NX1872.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(需要登入 @nfu.edu.tw, cd2024 採用電腦安裝的 NX1872 或隨身碟中的 NX1872) 執行零組件繪圖, 完成後請將過程影片放入個人與分組網站中.&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./41023124_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T15:39:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-19:./41023124_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w9&lt;/h1&gt;
-&lt;h2&gt;w9&lt;/h2&gt;
-&lt;p&gt;第九週 填個人期中自評，了解需要分工之進度與工作，進行個人與團隊倉儲之資料整理並解決群組倉儲衝突。&lt;/p&gt;
-&lt;p&gt;協同產品設計實習的專案實習, 透過 ChatGPT、Gemini 1.5 Pro 與 Claude 3 的協助下進行.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;課程評分:&lt;/p&gt;
-&lt;p&gt;學員每週編寫網誌內容佔 40%&lt;/p&gt;
-&lt;p&gt;每週上課內容摘要與分組報告執行分工及進度整理&lt;/p&gt;
-&lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
-&lt;p&gt;分組期中報告 (&lt;a href="https://www.google.com/search?q=latex+%E6%95%99%E5%AD%B8"&gt;LaTeX&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; pdf) 與簡報影片 (&lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; mp4) 佔 20%&lt;/p&gt;
-&lt;p&gt;分組期末報告 (&lt;a href="https://www.google.com/search?q=latex+%E6%95%99%E5%AD%B8"&gt;LaTeX&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; pdf) 與簡報影片 (&lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; mp4) 佔 40%&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-04-19T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-04-19:./2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;p&gt;自評2a-midag6期中考成績&lt;/p&gt;
-&lt;h1&gt;w9&lt;/h1&gt;
-&lt;p&gt;自評2a-midag6期中考成績&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;協同資料處理&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;請各班各組根據&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/30b7be16b4870ef54c0677a380a029c9202df356/2a_cd2024_midterm.csv"&gt;2a_cd2024_midterm.csv&lt;/a&gt;, 以及&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/30b7be16b4870ef54c0677a380a029c9202df356/2b_cd2024_midterm.csv"&gt;2b_cd2024_midterm.csv&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中的學號、Github 帳號與組別, 設法在各組員與分組網站中, 列出各學員的 cd2024 倉儲、網站, 以及各班各組的期中報告倉儲與網站連結.&lt;/p&gt;
-&lt;p&gt;過程中, 請詳細說明各組及學員的倉儲與網站中的連結資料如何建立? 手動輸入? 利用程式進行處理? 或者採分工合作方式建立?&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w8</title><link href="./2a-midag6_2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T17:11:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-12:./2a-midag6_2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;img src="downloads/messageImage_1714132138476.jpg"&gt;&lt;/p&gt;</content><category term="如何解決群組倉儲衝突"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w8</title><link href="./2a-midag6_2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T17:11:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-12:./2a-midag6_2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -395,23 +154,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 
 &lt;p&gt;協同產品設計實習課程使用網際內容管理系統, 採 Github Classroom 建立分組倉儲, 並由學員自行利用 cmsimde_site 作為 Github 倉儲的引擎目錄, 利用 Python 執行網頁編輯. 之後再轉檔為靜態網頁, 以便利用 Github Pages 所提供的 WWW 伺服器呈現協同產品設計過程的相關多媒體內容.&lt;/p&gt;
 &lt;p&gt;除了章節式的網站外, cmsimde_site 還額外利用 Pelican 管理使用者所建立的網誌, 以及利用 Reveal 管理使用者所建立的網際簡報.&lt;/p&gt;
-&lt;p&gt;在使用者每週的內容管理過程, 由於必須採用 Python 執行網頁編輯, cd2024 課程採用了四種不同的方法進行, 其中包括 Replit、Codespaces、Gitpod 以及 localhost. 由於前三者屬於雲端作業, 各有不同的使用規定與免費使用權限, 對於多人協同的產品設計團隊而言, 可以根據各自的喜好與環境選擇合用的網頁編輯工具, 且在多方了解下也可透過實際使用發展中的雲端 IDE 環境, 一窺未來可能的 AI 導引前景.&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w8</title><link href="./41023124_2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T15:20:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-12:./41023124_2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w8&lt;/h1&gt;
-&lt;p&gt;本週為第八周，觀看下方影片了解自己的任務與需要做的事情，並進行每周進度統整&lt;/p&gt;
-&lt;p&gt;cd2024 2a w8 產品協同架構說明&lt;/p&gt;
-&lt;div class="fluid-width-video-wrapper"&gt;&lt;iframe width="300" height="150" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" id="fitvid472201" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/CqhZm_9ugdc?si=O9ggtDyapJdaVsOs" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;協同產品設計實習課程使用網際內容管理系統, 採&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://classroom.github.com/"&gt;Github Classroom&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;建立分組倉儲, 並由學員自行利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;作為&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/"&gt;Github&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;倉儲的引擎目錄, 利用 Python 執行網頁編輯. 之後再轉檔為靜態網頁, 以便利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://pages.github.com/"&gt;Github Pages&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;所提供的&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/World_Wide_Web"&gt;WWW&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;伺服器呈現協同產品設計過程的相關多媒體內容.&lt;/p&gt;
-&lt;p&gt;除了章節式的網站外,&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;還額外利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;管理使用者所建立的網誌, 以及利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://revealjs.com/"&gt;Reveal&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;管理使用者所建立的網際簡報.&lt;/p&gt;
-&lt;p&gt;在使用者每週的內容管理過程, 由於必須採用 Python 執行網頁編輯,&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mde.tw/cd2024"&gt;cd2024&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;課程採用了四種不同的方法進行, 其中包括&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;、&lt;a href="https://github.com/codespace"&gt;Codespaces&lt;/a&gt;、&lt;a href="https://gitpod.io/"&gt;Gitpod&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;以及 localhost. 由於前三者屬於雲端作業, 各有不同的使用規定與免費使用權限, 對於多人協同的產品設計團隊而言, 可以根據各自的喜好與環境選擇合用的網頁編輯工具, 且在多方了解下也可透過實際使用發展中的雲端 IDE 環境, 一窺未來可能的 AI 導引前景.&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w8</title><link href="./2024-Spring-w8-blog-tutorial.html" rel="alternate"></link><published>2024-04-12T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-04-12:./2024-Spring-w8-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;內容管理系統&lt;/h1&gt;
-&lt;p&gt;cd2024 2a w8 產品協同架構說明&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/CqhZm_9ugdc"&gt;https://youtu.be/CqhZm_9ugdc&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="704" height="360" src="https://www.youtube.com/embed/CqhZm_9ugdc" title="cd2024 2a w8 產品協同架構說明" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w7</title><link href="./2a-midag6_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T15:57:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-05:./2a-midag6_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;在使用者每週的內容管理過程, 由於必須採用 Python 執行網頁編輯, cd2024 課程採用了四種不同的方法進行, 其中包括 Replit、Codespaces、Gitpod 以及 localhost. 由於前三者屬於雲端作業, 各有不同的使用規定與免費使用權限, 對於多人協同的產品設計團隊而言, 可以根據各自的喜好與環境選擇合用的網頁編輯工具, 且在多方了解下也可透過實際使用發展中的雲端 IDE 環境, 一窺未來可能的 AI 導引前景.&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w7</title><link href="./2a-midag6_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T15:57:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-05:./2a-midag6_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -422,113 +165,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;由於分組網誌內容協同時, 所有組員所編寫的 markdown 文章必須存入 combined_markdown 目錄, 因此 markdown 網誌文章檔案的命名不可重複, 且各網誌文章的 Slug 字串將會被當作用來命名轉檔後的超文件檔案名稱, 因此也不能重複.&lt;/p&gt;
 &lt;p&gt;至於當各組員採用 Replit 維護個人倉儲內容時, 可以直接從&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Connect 至&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/"&gt;Github&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;取得維護倉儲的權限, 旦卻無法直接用管理分組倉儲, 因為各組員雖然擁有管理分組倉儲的權限, 但是無法在&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中以免費的組員帳號管理&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://classroom.github.com/"&gt;Github Classroom&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;所取得的分組倉儲. 而必須動態納入針對分組倉儲的 OpenSSH 管理權限.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w7</title><link href="./41023124_2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T12:08:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-05:./41023124_2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w7&lt;/h1&gt;
-&lt;p&gt;&lt;span&gt;協同產品設計實習的第七週, 本週為清明連假期間，觀看老師blog網站更新之內容，調整個人與組別markdown下.md與slug之名稱，防止群組組員submodules中的資料衝突無法更新latex&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;其中首先要求各組員必須每週在 cd2024 倉儲中的 markdown 目錄編寫 markdown 網誌文章, 再經由&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;轉檔至 blog 目錄中的超文件網誌. 由於&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://getpelican.com/"&gt;Pelican&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;採用 Python 檔案進行設定, 因此可以在轉檔的過程中, 將各子目錄中的組員倉儲網誌集合到分組倉儲中的 combined_markdown 目錄之後, 再指定將網誌超文件轉至各分組倉儲的 blog 目錄.&lt;/p&gt;
-&lt;p&gt;由於分組網誌內容協同時, 所有組員所編寫的 markdown 文章必須存入 combined_markdown 目錄, 因此 markdown 網誌文章檔案的命名不可重複, 且各網誌文章的 Slug 字串將會被當作用來命名轉檔後的超文件檔案名稱, 因此也不能重複.&lt;/p&gt;
-&lt;p&gt;至於當各組員採用 Replit 維護個人倉儲內容時, 可以直接從&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;Connect 至&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/"&gt;Github&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;取得維護倉儲的權限, 旦卻無法直接用管理分組倉儲, 因為各組員雖然擁有管理分組倉儲的權限, 但是無法在&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://replit.com/"&gt;Replit&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中以免費的組員帳號管理&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://classroom.github.com/"&gt;Github Classroom&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;所取得的分組倉儲. 而必須動態納入針對分組倉儲的 OpenSSH 管理權限.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w7</title><link href="./2024-Spring-w7-blog-tutorial.html" rel="alternate"></link><published>2024-04-05T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-04-05:./2024-Spring-w7-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;w7&lt;/h1&gt;
-&lt;p&gt;更改個人與群組 .md 與 slug名稱 , 加上自己的學號或者加上群組分組名稱&lt;/p&gt;
-&lt;p&gt;協同產品設計實習的第七週, 正值春假期間, 用來回顧課程內容重點.&lt;/p&gt;
-&lt;p&gt;從協同設計的架構上, 個人與分組的倉儲中, 總共設計了以下幾種內容的協同模式:&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./41023124_2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T13:59:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-29:./41023124_2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;w6&lt;/h1&gt;
-&lt;p&gt;更改個人.md與slug名稱加上個人或群組分組&lt;/p&gt;
-&lt;p&gt;更新分組倉儲中的分組倉儲&lt;/p&gt;
-&lt;p&gt;cd2024 2a w6 取下子模組, 以及更新學員倉儲內容&lt;/p&gt;
-&lt;p&gt;1. 教學影片如下:&lt;/p&gt;
-&lt;p&gt;cd2024 2a w6 利用 pelicanconf py 整合各組員的網誌&lt;/p&gt;
-&lt;p&gt;2. 教學影片如下:&lt;/p&gt;
-&lt;section class="post-info"&gt;
-&lt;div class="clear"&gt;
-&lt;div class="fluid-width-video-wrapper"&gt;&lt;iframe width="300" height="150" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" id="fitvid494765" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BtYUHe8Actk?si=x2nLtoDQ40NwUxwp" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;div class="fluid-width-video-wrapper"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="clear"&gt;
-&lt;div class="fluid-width-video-wrapper"&gt;
-&lt;div class="fluid-width-video-wrapper"&gt;&lt;iframe width="300" height="150" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" id="fitvid488494" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/XkImjlZSGGk?si=x6JLe9MPVC2mO-FH" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/section&gt;
-&lt;p&gt;教學影片分組整理並自評&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-03-29T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-03-29:./2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;更新分組倉儲中的分組倉儲&lt;/h1&gt;
-&lt;p&gt;cd2024 2a w6 取下子模組, 以及更新學員倉儲內容&lt;/p&gt;
-&lt;p&gt;影片如下:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/BtYUHe8Actk"&gt;https://youtu.be/BtYUHe8Actk&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="704" height="360" src="https://www.youtube.com/embed/BtYUHe8Actk" title="cd2024 2a w6 取下子模組, 以及更新學員倉儲內容" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;cd2024 2a w6 利用 pelicanconf py 整合各組員的網誌&lt;/p&gt;
-&lt;p&gt;影片如下:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/XkImjlZSGGk"&gt;https://youtu.be/XkImjlZSGGk&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="704" height="360" src="https://www.youtube.com/embed/XkImjlZSGGk" title="cd2024 2a w6 利用 pelicanconf py 整合各組員的網誌" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w5</title><link href="./41023124_2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T17:15:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-22:./41023124_2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;每周進度報告w5&lt;/h1&gt;
-&lt;p&gt;協同產品設計實習的第五週, 教學內容為先前影片整理、分組網誌的統整，並將第四周第六組所有影片統整至下方&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;教學影片分組整理並自評&lt;/p&gt;
-&lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別為&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上&lt;/li&gt;
-&lt;li&gt;從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排&lt;/li&gt;
-&lt;li&gt;並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/F1_YDWsGvwo?si=ETYzlygghWgq5wen" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024 2a 1 blog setup&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/arG0XNdHuYA?si=4gdnM3cydnl0Vq3C" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024 2b 1 建立個人課程倉儲與網站&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/6BMiOcVb8v0?si=X5-MnxK7_Gq9tJgJ" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3VdJEzJY-oE?si=ISL1atN75CkkaQgT" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024 2b 3 如何設定 Github 帳號的雙重認證&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/pPD1wOjpyfQ?si=U9TR2NMuhe_u9Ys1" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024_2b_7_w2 利用 codespaces 維護分組網站&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/3OGCk_aDP9U?si=yMsGIIgbKW5y-D_u" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/-kkxZlGnUuU?si=AK-i0udz4_1B5C5E" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/vwYnRnk8K_4?si=6Clg0_VxbWCGILLA" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024_2a_w2_1(41023239楊祐銘)&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/i5Nd69gyqGg?si=oxddneY7WmtC4J9N" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024 2a w2 4 利用 Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘)&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/N_Tx_ZJjoJ0?si=ElBKbH9R9bQXXMVD" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/w5JspsZ91Dc?si=WdhATyhj6z_h4rxs" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div&gt;
-&lt;div class="syntaxhighlighter jscript" id="highlighter_594803"&gt;&lt;/div&gt;
-&lt;/div&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w5</title><link href="./2a-midag6_2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T15:21:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-22:./2a-midag6_2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w7"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w5</title><link href="./2a-midag6_2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T15:21:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-22:./2a-midag6_2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;每周進度報告w5&lt;/h1&gt;
@@ -571,62 +208,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/p&gt;
 &lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/w5JspsZ91Dc?si=WdhATyhj6z_h4rxs" title="YouTube video player"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;各組員必須將個別的網誌 .md 檔案名稱加上前綴字串, 例如: "學號_" 加上獨一無二的網誌 Slug 字串名稱, 且 Category 使用該組員的學號作為標示. 之後各組統整轉檔時, 才不至於發生相同網誌文章檔案名稱衝突的錯誤, 且從各分組網誌的 Categories 中即可找到各組員所編寫的所有網誌內容.&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w5</title><link href="./2024-Spring-w5-blog-tutorial.html" rel="alternate"></link><published>2024-03-22T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-03-22:./2024-Spring-w5-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;w5&lt;/h1&gt;
-&lt;p&gt;將教學影片整理及自評&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://youtu.be/F1_YDWsGvwo"&gt;cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/F1_YDWsGvwo?si=K0udizmHt2uBTLyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/arG0XNdHuYA"&gt;cd2024 2a 1 blog setup&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/arG0XNdHuYA" title="cd2024 2a 1 blog setup 加字幕" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/6BMiOcVb8v0"&gt;cd2024 2b 1 建立個人課程倉儲與網站&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/6BMiOcVb8v0" title="cd2024 2b 1 建立個人課程倉儲與網站加字" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/3VdJEzJY-oE"&gt;cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3VdJEzJY-oE" title="cd2024 2b 2 如何從 Replit Account 設定 Connect 連結到 Github" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/pPD1wOjpyfQ"&gt;cd2024 2b 3 如何設定 Github 帳號的雙重認證&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pPD1wOjpyfQ" title="cd2024 2b 3 如何設定 Github 帳號的雙重認證" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/3OGCk_aDP9U"&gt;cd2024_2b_7_w2 利用 codespaces 維護分組網站&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/3OGCk_aDP9U" title="cd2024 2b 7 w2 利用 codespaces 維護分組網站" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/-kkxZlGnUuU"&gt;cd2024_2b_6_w2 從第一組空倉儲建立 cmsimde_site 內容&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/-kkxZlGnUuU" title="cd2024 2b 6 w2 從第一組空倉儲建立 cmsimde site 內容" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/vwYnRnk8K_4"&gt;cd2024_2b_5_w2 第一組組長建立 Team 並設定分組倉儲&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vwYnRnk8K_4" title="cd2024 2b 5 w2 第一組組長建立 Team 並設定分組倉儲" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/i5Nd69gyqGg"&gt;cd2024_2a_w2_1&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/i5Nd69gyqGg" title="cd2024_2a_w2_1(41023239楊祐銘)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/N_Tx_ZJjoJ0"&gt;cd2024 2a w2 4 利用 Replit 管理 Github Classroom 分組倉儲&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N_Tx_ZJjoJ0" title="cd2024 2a w2 4 利用  Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://youtu.be/w5JspsZ91Dc"&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w5JspsZ91Dc" title="如何將組員的個人倉儲納入分組倉儲成為子模組" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w4</title><link href="./2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-19T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-03-19:./2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;w4&lt;/h1&gt;
-&lt;p&gt;協同產品設計實習的第四週, 各分組需要明確界定任務需求與分工時序, 隨著各組協同設計流程的進行, 分組倉儲與網站的改版越發複雜, 此時可導入 SourceTree 協助各組員更清楚看到倉儲改版歷程, 另外 Git Branch 的應用, 也可減少各學員階段性改版內容完成之前, 推向 Github 分組倉儲過程的合併次數.&lt;/p&gt;
-&lt;h1&gt;教學影片分組整理並自評&lt;/h1&gt;
-&lt;p&gt;整理之前影片及新增自評&lt;/p&gt;
-&lt;h1&gt;w4 2a 分組任務&lt;/h1&gt;
-&lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別&lt;/p&gt;
-&lt;p&gt;在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
-從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
-並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;
-&lt;h1&gt;Github 個人與分組倉儲的維護方式&lt;/h1&gt;
-&lt;p&gt;個人的倉儲名稱為 cd2024, 而期中的分組倉儲位於 mdecd2024 帳號下, 以2a 開頭, 加上 "-" 之後再補上 midag + 組別, 且各組員的 cd2024 個人倉儲必須設為各分組倉儲的子模組, 目的在各組員可以自行管理並維護自己的課程倉儲, 並決定要引入分組倉儲的內容版次.&lt;/p&gt;
-&lt;p&gt;各組員與分組倉儲的資料, 包括文字資料 (含 LaTeX 報告章節資料)、零組件檔案、零件工程圖或組立圖檔 (含 BOM 與爆炸圖), 以及目前正在整理的教學影片, 或者是各學員將操作流程錄製成的影片或 Wink 資料.&lt;/p&gt;
-&lt;h1&gt;第一種倉儲維護方式 - Replit&lt;/h1&gt;
-&lt;p&gt;利用replit維護倉儲&lt;/p&gt;
-&lt;h1&gt;第二種倉儲維護方式 - Codespaces&lt;/h1&gt;
-&lt;p&gt;也可用codespace來維護&lt;/p&gt;
-&lt;p&gt;使用上述兩種方式維護倉儲&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w4</title><link href="./2a-midag6_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T17:24:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./2a-midag6_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;各組員必須將個別的網誌 .md 檔案名稱加上前綴字串, 例如: "學號_" 加上獨一無二的網誌 Slug 字串名稱, 且 Category 使用該組員的學號作為標示. 之後各組統整轉檔時, 才不至於發生相同網誌文章檔案名稱衝突的錯誤, 且從各分組網誌的 Categories 中即可找到各組員所編寫的所有網誌內容.&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w4</title><link href="./2a-midag6_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T17:24:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./2a-midag6_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -3252,88 +2834,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" data-mce-fragment="1" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/8YSZDEVwlb8?si=OKN-N4UtwBiwedvQ" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;影片敘述:&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;介紹如何使用Gitpod設定網誌以及相關步驟。首先，透過gitpod.io進入Gitpod並使用GitHub帳號登入。接著，安裝必要的模組，然後執行程式。在Gitpod中可以打開多個終端機進行多個操作，速度也比較快。此外，Gitpod提供了類似codespaces和replit的功能，可以編輯和維護網誌，管理子模組。最後，介紹了如何在GitHub設置token和SSH以便更安全地管理倉儲。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="/downloads/cd2024 2b w3 使用 gitpod 與 localhost 維護個人倉儲.txt"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w4</title><link href="./41023124_2024-Spring-w4-blog-tutorial.html" rel="alternate"></link><published>2024-03-15T13:52:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-15:./41023124_2024-Spring-w4-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;每周進度報告w4&lt;/h1&gt;
-&lt;h2&gt;w4&lt;/h2&gt;
-&lt;p&gt;本周為協同產品設計實習的第四週, 本周進度為將先前&lt;span&gt;教學影片分組整理上字幕並且將自己做得給自評&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;w4 2a 分組任務&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上&lt;/li&gt;
-&lt;li&gt;從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排&lt;/li&gt;
-&lt;li&gt;並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div&gt;
-&lt;div class="syntaxhighlighter jscript" id="highlighter_331762"&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;h3&gt;cd2024 2b 3 如何設定 Github 帳號的雙重認證&lt;/h3&gt;
-&lt;p&gt;影片字幕&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/pPD1wOjpyfQ?si=U9TR2NMuhe_u9Ys1" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;影片敘述 :&lt;/p&gt;
-&lt;p&gt;因為github政策更改，所以所有用戶必須在時限內雙重認證，不然將會被github鎖定mail，所以本影片利用綁定智慧手環、手機下載 Authy 的免費 Apps ，幫變綁定與認證github驗證碼與成功雙重驗證等等&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024_2b_3_如何設定 Github 帳號的雙重認證.txt 逐字稿 txt 丟至 downloads&lt;/p&gt;
-&lt;p&gt;好所以雙重認證啊其實就是&lt;br&gt;你在電腦上要登入的話&lt;br&gt;比方說我這個字所以能夠登入啊&lt;br&gt;我是已經通過他的雙重認證&lt;br&gt;查驗&lt;br&gt;所以你要設定的話你 你必須要登入到github&lt;br&gt;我就第一次當然不可能雙重認證&lt;br&gt;然後你進來就要趕快跑到這個帳號 帳號的設定區&lt;br&gt;然後找到他的這個密碼跟認證這一個&lt;br&gt;項目&lt;br&gt;passwords這個是密碼&lt;br&gt;authentication是認證&lt;br&gt;然後你給他點進來&lt;br&gt;然後他這個內建底下這邊啊他這個應該是沒有啟動了&lt;br&gt;雙重&lt;br&gt;雙重認證&lt;br&gt;然後你給他啟動的話像我是綁定&lt;br&gt;我這個是綁定到&lt;br&gt;我的手錶&lt;br&gt;假如你有智慧手錶跟手機可以連的話&lt;br&gt;你就可以安裝這個&lt;br&gt;只有這個是免費的&lt;br&gt;Ok只有這個是免費&lt;br&gt;那手機也可以安裝這個叫你要的話&lt;br&gt;你手機就&lt;br&gt;搜尋一下這個authy app&lt;br&gt;然後你手機也可以用&lt;br&gt;OK&lt;br&gt;好那只有這一個套件是免費可以&lt;br&gt;把那個密碼因為你在像我在Apple Watch我是可以把手機上的這一個apps&lt;br&gt;安裝在手錶上&lt;br&gt;所以你就只要帶手錶不需要帶手機&lt;br&gt;就這樣&lt;br&gt;好所以你聽到這裡面啦我們想要讀一下&lt;br&gt;因為他這邊即便是簡體中文啊&lt;br&gt;他還是英文啊所以你看&lt;br&gt;他這邊怎麼講&lt;br&gt;他說從&lt;br&gt;因為我們上學期就知道了嘛&lt;br&gt;從2023的3月&lt;br&gt;到年底&lt;br&gt;逐漸的開始強制&lt;br&gt;所有用戶&lt;br&gt;都必須要用雙重認證&lt;br&gt;所以你只要有以前舊的帳號一定記得要趕快設因為他不知道什麼時候&lt;br&gt;OK&lt;br&gt;他這裡啊給你45天啊&lt;br&gt;我給你45天因為你建帳號之後45天內你一定要趕緊把它弄起來沒有的話就進不去了&lt;br&gt;那舊帳號我就不曉得他的他的policy怎樣然後你的帳號因為沒有雙重認證被鎖定&lt;br&gt;你只好重建&lt;br&gt;重建的部分不能用原來的那個email就比較麻煩&lt;br&gt;因為他每一個email只能&lt;br&gt;在這個github他們上登記一次&lt;br&gt;然後那他的使用就是除了連到這邊之外&lt;br&gt;他其實是利用&lt;br&gt;利用這一個二維條碼所以你只要看他下面的說明啊&lt;br&gt;有沒有&lt;br&gt;這個是我們剛講的帳號下的設定&lt;br&gt;然後選擇到密碼跟認證&lt;br&gt;好然後在這個區域在這個區域啊&lt;br&gt;你點選說我要啟用&lt;br&gt;雙重認證&lt;br&gt;英文的話是enable&lt;br&gt;那你假如&lt;br&gt;知道這個是啟用之後啊&lt;br&gt;他這邊就會出現一個二維條碼&lt;br&gt;所以這個二維條碼你就必須要用你的&lt;br&gt;手機&lt;br&gt;打開你的mobile意思就是給他的mobile裡面他會有一個&lt;br&gt;相機的選項&lt;br&gt;然後拍這個二維條碼&lt;br&gt;然後他&lt;br&gt;基本上他就會秀出啊&lt;br&gt;你可以輸入到github的&lt;br&gt;數字&lt;br&gt;就這樣&lt;br&gt;然後一旦設好之後很重要的一點啊&lt;br&gt;好像這個就是二維條碼然後你說那麼完之後很重要的一點啊你一&lt;br&gt;要下載這一個&lt;br&gt;回覆的這個字串&lt;br&gt;他叫做recovery Codes&lt;br&gt;萬一你的手機壞掉&lt;br&gt;或者是你的手機不見&lt;br&gt;你沒辦法用啊因為這個時候你就要靠這個回覆嗎來&lt;br&gt;取回帳號&lt;br&gt;就這樣啊這個回覆嗎你要嘛把它存在隨身碟要嗎把它同時送到你&lt;br&gt;遠端的&lt;br&gt;比較常用的電子郵箱&lt;br&gt;那保證說&lt;br&gt;最後&lt;br&gt;萬一相關的設定都在手錶或手機上的不見了你還&lt;br&gt;可以拿這一串是一堆一堆這個編碼的數字加上&lt;br&gt;來取回你的這個帳號&lt;br&gt;而且你一定要&lt;br&gt;把它下載否則它是上面會有一個選項他說你存了之後啊你說我已經存&lt;br&gt;我的回覆碼&lt;br&gt;然後這個時候你才可以把兩段因為他很害怕萬一你的這一個兩段式&lt;br&gt;認證出問題的話這個帳號形同是沒有任何人可以登入&lt;br&gt;那假如你是付費的話你還可以請他幫你處理&lt;br&gt;我要去打電話也許要從你的這個帳號因為你付費的他有認證碼&lt;br&gt;信用卡或者用什麼樣式用什麼方式來付錢對吧你說我就是&lt;br&gt;也許還可以拿回來但是因為我們是免費的&lt;br&gt;免費帳號是沒有這個金流的部分所以只靠這一個回覆碼來取回你的認證&lt;br&gt;好像我們這個影片就可以把它存起來&lt;br&gt;然後是在這裡&lt;/p&gt;
-
-&lt;h3&gt;cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/3VdJEzJY-oE?si=ISL1atN75CkkaQgT" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;影片敘述 :&lt;/p&gt;
-&lt;p&gt;本次上課內容與github和replit息息相關，如果需要使用replit協同、同步更改github上的內容，就需要利用本影片的步驟，進行github account 上的設定與 replit 去做連結，使其可以相互信任。&lt;/p&gt;
-&lt;p&gt;cd2024_2b_2_如何從 Replit Account 設定 Connect 連結到 Github.txt 逐字稿 txt 丟至downloads&lt;/p&gt;
-&lt;p&gt;開始啊&lt;br&gt;我們就連到我登入這裡你必須要登入到&lt;br&gt;你必須登入到github&lt;br&gt;然後同時啊&lt;br&gt;登入到replit&lt;br&gt;所以你必須要啊先把兩邊把它連起來&lt;br&gt;意思就是說你要跑到你的&lt;br&gt;replit的這個帳號下&lt;br&gt;這是你replit的帳號&lt;br&gt;你要點選他的account&lt;br&gt;這是你帳號下面的這個帳號&lt;br&gt;設定&lt;br&gt;所以我點選這個的話我目前啊&lt;br&gt;在底下這裡其實我已經有連結了&lt;br&gt;兩邊能不能信任&lt;br&gt;靠的就是這個連線的服務&lt;br&gt;就是這個&lt;br&gt;假如你已經出現disconnect&lt;br&gt;表示這一個你已經做過&lt;br&gt;假如你是出現connect表示還沒有連結&lt;br&gt;最假如你本身的github是對應到connect&lt;br&gt;你就給他點下去&lt;br&gt;他會在你的電腦安裝一個應用程式&lt;br&gt;Ok表示你授權&lt;br&gt;可以兩邊可以互通&lt;br&gt;互通之後的帳號就會長這樣&lt;br&gt;你想要連結到帳號下的設定&lt;br&gt;OK&lt;br&gt;那他底下這邊就有一個應用程式&lt;br&gt;這個是帳號&lt;br&gt;在整合區&lt;br&gt;Integration是整合的意思&lt;br&gt;他底下他就有一個Applications&lt;br&gt;去找你兩邊的這個信任是成功的&lt;br&gt;你點選這個Applications他就會出現這個&lt;br&gt;所以你假如有Application下面有replit&lt;br&gt;表示你的github跟replit兩邊是信任&lt;br&gt;意思就說你待會假如吧&lt;br&gt;倉儲啊輸入到你的replit&lt;br&gt;改版完是可以推回來&lt;br&gt;這個就是我們要的&lt;br&gt;我說這個是第一部所以我們確定有這個之後啊&lt;br&gt;我們待會再來做inport的動作所以我們這個小影片我們先把它&lt;br&gt;拍下來ok所以我們小影片這一小段喔&lt;br&gt;我們先拿&lt;/p&gt;
-
-&lt;h3&gt;cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回 github&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/F1_YDWsGvwo?si=ETYzlygghWgq5wen" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;影片敘述 :&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;在本影片中，老師講述了如何在replit創造github的專案，詳細的講述每個指令的功用與意思，並敘述基本的指令與如何進行維護github的倉儲，說明如何將倉儲 import 至 Replit 改版後推回 github。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024 2b 4 說明如何將倉儲 import 至 Replit 改版後推回.txt&amp;nbsp; 逐字稿上傳至 downloads&lt;/p&gt;
-&lt;p&gt;逐字稿&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;所以我們這邊必須要先知道就是說我們用的這一個&lt;br&gt;tempreat就每一個人現在其實內容都一樣&lt;br&gt;但是你必須要&lt;br&gt;想辦法在replit上面&lt;br&gt;來編輯因為你在近端的話也可以我們就要設key&lt;br&gt;那個我們後面才會提到因為你在協同的時候&lt;br&gt;不見得所有人都能上網&lt;br&gt;OK&lt;br&gt;意思就說他可能某一個時段他根本不用上網&lt;br&gt;我還是可以做&lt;br&gt;把我提交了幾次之後&lt;br&gt;等到我能上網的時候我再把他推送&lt;br&gt;那你中間的改版啊可能8個人到時候你是需要合併了&lt;br&gt;那個合併或者解決衝突啊其實才是協同的一個問題&lt;br&gt;那你之前上電腦輔助設計你應該有碰到&lt;br&gt;只是說在協同的時候啊&lt;br&gt;應該解決衝突的這個機會更多所以你必須要對這個系統有一點&lt;br&gt;有更多的了解&lt;br&gt;比方說所謂動態網站的資料&lt;br&gt;Ok 其實是位在&lt;br&gt;Config&lt;br&gt;Content HTM這個檔案&lt;br&gt;轉換完成的靜態資料是位在content的這個目錄下&lt;br&gt;這是第一個要知道了&lt;br&gt;那之前&lt;br&gt;其實我們用蠻久了齁&lt;br&gt;另外這個網站的原始檔是位在markdown&lt;br&gt;所使用的網誌系統我們用的用python寫的這個早就在裡面&lt;br&gt;只是我們之前都沒有&lt;br&gt;特別把他提出來也沒有要求你要寫我那就這學期沒有考試喔&lt;br&gt;重要的是每個禮拜你都要有進度註記&lt;br&gt;那這個就&lt;br&gt;其實跟考試是一樣啊&lt;br&gt;看你東西有沒有做出來你8個組員反正有沒有貢獻其實你的&lt;br&gt;這個組員都很清楚啦&lt;br&gt;所以用的這個轉換完成的這個網頁就位在blog&lt;br&gt;就好像我們現在看的&lt;br&gt;我們看的這個網址&lt;br&gt;這個是我們倉儲的網址&lt;br&gt;對應的網站網址&lt;br&gt;然後你只要打blog他就會出現&lt;br&gt;底下從indesk假如我們把這個&lt;br&gt;直接打到這個blog&lt;br&gt;他就會有一個&lt;br&gt;Indesk的網頁來派送所以我們打到這邊這個就是你的&lt;br&gt;網址&lt;br&gt;也就是內容管理的網址再加上blog我們打看看&lt;br&gt;喔他就跑到這個外面這一頁&lt;br&gt;那我們現在就是要教你怎麼去設定他&lt;br&gt;讓你可以有這樣的一個連結&lt;br&gt;這個時候還是一樣回到我們的&lt;br&gt;這個倉儲裡面&lt;br&gt;所以你現在假如正在看你的這個markdown&lt;br&gt;基本上還沒有inport進來嗎&lt;br&gt;Ok所以這裡變成說好那我們已經有設定兩邊連線我們這邊要&lt;br&gt;怎麼把他弄進去&lt;br&gt;我們現在&lt;br&gt;已經登入到replit&lt;br&gt;Ok而且我們要確定&lt;br&gt;這個連線的部分啦已經完成&lt;br&gt;意思是說你&lt;br&gt;兩邊的服務&lt;br&gt;待會我們inport到replit改版完是推的回去的&lt;br&gt;Ok我們先來看&lt;br&gt;所以我們就要從create可以一個專案&lt;br&gt;現在你應該是已經登入到replit&lt;br&gt;好啦當然剛剛我們一樣也是登入到github&lt;br&gt;所以這個時候我要建立一個repl&lt;br&gt;好謝你點這個create repl&lt;br&gt;我們是要&lt;br&gt;從github&lt;br&gt;所以我們選的是這個&lt;br&gt;我們並不是一個完全空的我們選的是inport from github你點選這個&lt;br&gt;馬上會出現你剛剛建的&lt;br&gt;他馬上&lt;br&gt;會出現你剛才建的&lt;br&gt;帳號下的這一個&lt;br&gt;CD2024&lt;br&gt;有沒有看到&lt;br&gt;好所以你就直接在這個打勾說我要&lt;br&gt;導入的就是這一個倉儲&lt;br&gt;那這個倉儲因為是用python寫的所以你語言這個部分&lt;br&gt;你必須要把內建的Note點js&lt;br&gt;要改&lt;br&gt;改成python&lt;br&gt;Ok然後再&lt;br&gt;他的表單這邊點選一下&lt;br&gt;最確認說你是inport from github&lt;br&gt;然後語言也選了正確的python之後&lt;br&gt;你在按這一個inport from github&lt;br&gt;我要再這樣的一個條件下導進來&lt;br&gt;好像我就按inport他就開始幫你轉了&lt;br&gt;我們必須要在這個平台上面&lt;br&gt;安裝模組&lt;br&gt;他並不知道我們要跑的套件是什麼&lt;br&gt;欸我們現在要跑的是網際內容管理嗎&lt;br&gt;那他需要&lt;br&gt;對應的這一個倉儲&lt;br&gt;最其實要的是這一串&lt;br&gt;那怎麼辦因為我們現在就按到&lt;br&gt;在這裡啊我們我們要打的是這個先看看能不能夠用複製的&lt;br&gt;所以你第一步就在readme&lt;br&gt;.md這邊啊你看看能不能複製&lt;br&gt;看看能不能複製&lt;br&gt;可能真的要打喔當然網頁的部分應該是可以複製&lt;br&gt;可是要執行啊我們必須要在這個shell&lt;br&gt;命令區&lt;br&gt;console&lt;br&gt;Output就是你執行的部分然後這個shell是要執行命令&lt;br&gt;所以我們第一個就是要先把這個檔案啦設定可以執行&lt;br&gt;那我們先想辦法把這個chmod u+x init_replit&lt;br&gt;底線那其實他那個init_replit是一個我們已經安排在裡面的檔案&lt;br&gt;好那我們看能不能把它貼上&lt;br&gt;好他會問你說到底&lt;br&gt;有沒有&lt;br&gt;授權給這個網頁&lt;br&gt;你可以把複製的部分檔案貼上來我說可以&lt;br&gt;他就貼上來他至於這個指令是什麼意思&lt;br&gt;這個指令是要跟我要改變啊檔案的屬性&lt;br&gt;Ok空一格&lt;br&gt;後面就是他的選項&lt;br&gt;U代表的是user&lt;br&gt;x代表是執行&lt;br&gt;所以使用者要讓他可以加上執行的屬性&lt;br&gt;針對的是哪一個檔案呢針對的是這個檔案&lt;br&gt;所以這個指令一執行這個檔案原來不能執行馬上就可以使用者馬上可以執行&lt;br&gt;不知道裡面有東西改變了他會重新載入這個&lt;br&gt;shell的部分&lt;br&gt;好然後接著&lt;br&gt;就是執行他的執行一定要有&lt;br&gt;現在所在的目錄&lt;br&gt;下面的這個你怎麼沒有打前面的這個點加斜線他不會他不知道你要執行哪一個檔案&lt;br&gt;好這樣的話他就會幫你安裝模組&lt;br&gt;Ok意思就是說我們要按這個run之前你就必須要&lt;br&gt;先根據&lt;br&gt;這readme.md下的檔案的這兩個步驟&lt;br&gt;而且要在shell面執行&lt;br&gt;好那一段&lt;br&gt;他這裡全部執行完的話&lt;br&gt;他就會回復到&lt;br&gt;回復到他的這個回應&lt;br&gt;那這個回應的部分我們假如要把上面的已經執行完的訊息啊&lt;br&gt;要把它清除的話我就打clear&lt;br&gt;clear在Linux的一個指令&lt;br&gt;清除畫面的意思&lt;br&gt;Windows下面cls是一樣的&lt;br&gt;我因為我們家有在Windows有沒有&lt;br&gt;我們有時候在這裡面我們有一些畫面&lt;br&gt;假如在Windows你要把它清除是CLS&lt;br&gt;Clear scream&lt;br&gt;是Windows dos的指令&lt;br&gt;因為是Windows dos先出來&lt;br&gt;不好意思用同樣了&lt;br&gt;cls&lt;br&gt;一樣清除畫面的意思&lt;br&gt;我說剛剛我們打的是CLS&lt;br&gt;這個是在命令列&lt;br&gt;假如畫面就叫CLS然後在linux的話&lt;br&gt;他是叫clear&lt;br&gt;因為他有很多視窗你要在這個視窗上你滑鼠就要點這邊他這裡要變黑的&lt;br&gt;你現在在這裡&lt;br&gt;你案enter是作用在這裡&lt;br&gt;是作用在這個小頁面上&lt;br&gt;那我們為了要執行他&lt;br&gt;你必須要滑水點在這個他才知道所以這個會變黑的&lt;br&gt;好那一案enter他就會清除畫面&lt;br&gt;安裝的所需模組之後你的run應該就有作用&lt;br&gt;撒花之後他就開始&lt;br&gt;在你剛才安裝的這些模組的平台&lt;br&gt;環境中來執行執行哪一個&lt;br&gt;其實他是執行main.py&lt;br&gt;那我怎麼會知道耶&lt;br&gt;好那這邊有一個設定&lt;br&gt;你假如吧&lt;br&gt;隱藏的檔案秀出來&lt;br&gt;我再一次喔&lt;br&gt;在這個檔案區有沒有那個檔案區有時候會不見喔&lt;br&gt;有時候會不見&lt;br&gt;給你按這個他就跑出來&lt;br&gt;這裡這個&lt;br&gt;好那這個檔案區的&lt;br&gt;顯示這邊啊有一些檔案是隱藏起來&lt;br&gt;這個是專門看要不要秀出這個&lt;br&gt;檔案的顯示&lt;br&gt;有一些檔案他是隱藏起來&lt;br&gt;假如你點選這個顯示隱藏檔&lt;br&gt;就是顯示碼&lt;br&gt;隱藏的隱藏檔案一點他的話&lt;br&gt;底下有兩個重要的檔案&lt;br&gt;這兩個設定檔config file就是設定檔&lt;br&gt;其中很重要的是這個檔&lt;br&gt;點replit&lt;br&gt;好那意思就說你按run到你他做了什麼你點他就知道了其實你點run&lt;br&gt;你點run啊其實他就是呼叫python3 main.py&lt;br&gt;就啟動那main.py是什麼&lt;br&gt;main.py其實是一堆&lt;br&gt;執行程式所以我們把main.py帶出來這裡面&lt;br&gt;因為他這裡面會牽涉到兩層&lt;br&gt;兩層的啟動這個&lt;br&gt;是內容管理裡面&lt;br&gt;那我們必須要知道說原來他就是透過&lt;br&gt;python3來執行就好了&lt;br&gt;這是我們編寫的網際內容管理系統&lt;br&gt;那一旦你&lt;br&gt;啟動之後&lt;br&gt;他的這個webview&lt;br&gt;我們可以把他拉到同一個畫面&lt;br&gt;待會我們要編輯檔案會比較有比較大的範圍&lt;br&gt;正把這些小頁面都把它拉到一起&lt;br&gt;要待會我們其實是要&lt;br&gt;抓出檔案在這裡來設定&lt;br&gt;好那我們要設定的部分假如你想要看看我們之前用過的&lt;br&gt;編輯&lt;br&gt;你就可以直接用滑鼠右鍵把這個login在分頁中把它打開來&lt;br&gt;我是這樣意思就說&lt;br&gt;他就會給你一個網址可是這個網址對你來講&lt;br&gt;沒有人可以知道你現在這個網址是什麼&lt;br&gt;這表示說你講的是一個人使用的話&lt;br&gt;你不需要去&lt;br&gt;把設定的這個密碼&lt;br&gt;用sercret代替不用你就直接用admin就好了&lt;br&gt;這個小寫的admin&lt;br&gt;就是跟近端編輯是一樣的&lt;br&gt;因為這一串就是保護你&lt;br&gt;admin admin小寫這個就是管理者的密碼&lt;br&gt;被你admin你就直接進去啊&lt;br&gt;那你要讓其他的人來分享&lt;br&gt;分享這個編輯&lt;br&gt;admin其實也可以&lt;br&gt;但是萬一你這個&lt;br&gt;連結的部分表說你現在&lt;br&gt;把這一串連結&lt;br&gt;劃到不同了&lt;br&gt;瀏覽器上面&lt;br&gt;那我這邊&lt;br&gt;我有登登入所以不行你可以試試看&lt;br&gt;這一串連結只要知道的人就可以用admin進來編輯&lt;br&gt;簡單講就這樣&lt;br&gt;好所以你應該馬上可以&lt;br&gt;編輯這一串&lt;br&gt;你的網頁在哪裡啊&lt;br&gt;從剛剛設的就知道啦&lt;br&gt;我們剛才是在這個帳號下的倉儲對吧&lt;br&gt;然後我們倉儲裡面有建一個CD2024&lt;br&gt;所以這個是你的倉儲好了把它copy下來&lt;br&gt;那我們剛才編輯的這裡面我們填入倉儲的位置&lt;br&gt;網頁我們假如自己知道的話自己拼出來假如你直接想要從裡面copy&lt;br&gt;也可以&lt;br&gt;進到setting&lt;br&gt;然後進到pages&lt;br&gt;這個就是你的倉儲&lt;br&gt;是你的網頁&lt;br&gt;好這個把他copy過來&lt;br&gt;copy一樣&lt;br&gt;把它放到你的網頁去&lt;br&gt;可是問題來啦&lt;br&gt;網誌跟簡報呢你必須要想辦法在這個連結後面加上blog&lt;br&gt;加上review&lt;br&gt;可是你假如直接用剛才copy的那個網址&lt;br&gt;你把它貼上來之後&lt;br&gt;你在打blog&lt;br&gt;那這樣沒有辦法變成&lt;br&gt;的連結對不對&lt;br&gt;那這裡要怎麼辦&lt;br&gt;我想要有前面這一個網頁的純字串我不要你&lt;br&gt;附加html的資料&lt;br&gt;那怎麼辦&lt;br&gt;我們就可以回來回來&lt;br&gt;然後把這個刪掉&lt;br&gt;問題是我們這個上面複製的部分要漂白&lt;br&gt;那通常漂白可以跑到這裡&lt;br&gt;這個區域因為這個是純網頁所以你把它貼上來&lt;br&gt;複製&lt;br&gt;html連結就不見&lt;br&gt;這個時候你不要用OK啦因為這裡面其實是讓我們放&lt;br&gt;程式碼的地方只是我們要利用這個網頁的表單&lt;br&gt;把附加的超文件刪掉這個時候你再貼回來他就是乾淨的字串&lt;br&gt;我說這個這個做法一定要把它學起來當然你也可以回到&lt;br&gt;Windows的編輯器來漂白只拿到他的這個字串所這個時候啊你想要&lt;br&gt;畫面直接在打blog在案enter&lt;br&gt;然後他就ok&lt;br&gt;不然的話你還要進入這個超文件編輯在那邊搞半天&lt;br&gt;所以這裡面變成說通常這個是我的做法&lt;br&gt;所以是這樣的話你的&lt;br&gt;簡報就是純文字&lt;br&gt;再加上review&lt;br&gt;這樣的話你就可以把你對應的about裡面的這些資料都把它填好&lt;br&gt;OK&lt;br&gt;那至於底下這個跟我們不相干的我們就可以把它刪掉&lt;br&gt;然後再把他按safe&lt;br&gt;至於我們上面這個有關Cmsimde的說明我們把它寫在第二頁&lt;br&gt;我不要說這個SMAP就是&lt;br&gt;你按的話他會按到幾次列出目前的所有&lt;br&gt;因為我們現在都是一階的嗎所以你可以選他&lt;br&gt;他就會show&lt;br&gt;這個部分&lt;br&gt;我們要改config說你現在想要改config&lt;br&gt;要改這個頁面&lt;br&gt;標題&lt;br&gt;你就按config&lt;br&gt;Ok然後我們這邊我們是&lt;br&gt;所以我自己去&lt;br&gt;是我的帳號&lt;br&gt;cd2024&lt;br&gt;send&lt;br&gt;這個時候我要把現在這個版本&lt;br&gt;我要把它送到我真正的github page&lt;br&gt;叫他背景上&lt;br&gt;我就必須要先&lt;br&gt;按一下convert&lt;br&gt;我要他轉成靜態&lt;br&gt;這個時候再回來&lt;br&gt;我們現在需要git&lt;br&gt;git的工具在哪裡跑到底下可以來找&lt;br&gt;你按一下看一下這個裡面他就有git底下他就有git這個小頁&lt;br&gt;所以他已經知道你從這裡就可以看出我現在有改版的部分就在這裡&lt;br&gt;我說這個也是replit不斷地在進化對不對好所以我們到這邊來講我們就&lt;br&gt;我們已經修改&lt;br&gt;網站標題&lt;br&gt;而且&lt;br&gt;而且怎麼樣在about&lt;br&gt;頁面&lt;br&gt;填入對應的所以我們剛剛做什麼&lt;br&gt;我們填入在about頁面填入&lt;br&gt;正確的&lt;br&gt;倉儲&lt;br&gt;網誌&lt;br&gt;網站連結的這個是每個人都不一樣因為你的帳號不一樣啊&lt;br&gt;你的github帳號會對應&lt;br&gt;不一樣的&lt;br&gt;倉儲的連結網製的連結網站的連結&lt;br&gt;我們剛剛就做了這些改變這個時候我們把它&lt;br&gt;讓他提交&lt;br&gt;提交之後他這邊就會出現這樣&lt;br&gt;你去看喔&lt;br&gt;這個就是遠端remo就是遠端&lt;br&gt;所以他會說update跟遠端同步的就是一個提交&lt;br&gt;底下我們剛剛提交的那個部分啊&lt;br&gt;還沒有push&lt;br&gt;還沒有推到遠端&lt;br&gt;那我們就推就好了嗎&lt;br&gt;因為權限剛剛已經建立了嘛所推的時候他就出現這個&lt;br&gt;你要確認confirm&lt;br&gt;comfirm是確認&lt;br&gt;確認這一個階段所完成的改版&lt;br&gt;要不要推上去假如不要就案deny&lt;br&gt;假如要&lt;br&gt;後面這個確認確認&lt;br&gt;他就會推上去因為權限剛才考那個時候已經建立&lt;br&gt;好所以表示說這個已經上來&lt;br&gt;表示說我們現在見的這個&lt;br&gt;已經跑到&lt;br&gt;目前在轉檔&lt;br&gt;這個就是剛剛提交的內容&lt;br&gt;就這樣&lt;br&gt;待會我們的遠端網站&lt;br&gt;就會跟動態網站的內容同步&lt;br&gt;好說我們先把這個影片我們先把它存下&lt;br&gt;待會我們再來設定完&lt;br&gt;網誌的部分&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w3</title><link href="./2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-14T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-03-14:./2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;W3&lt;/h1&gt;
-&lt;p&gt;2024 Spring 協同產品設計實習的第三週, 主要說明如何善用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作.&lt;/p&gt;
-&lt;h1&gt;列出期中分組倉儲與網站&lt;/h1&gt;
-&lt;p&gt;cd2024 期中分組倉儲與網站&lt;/p&gt;
-&lt;h1&gt;期中協同分組報告&lt;/h1&gt;
-&lt;p&gt;參考 https://github.com/mdecd2024/test-ag1 中的 latex 目錄與 downloads 目錄中的 https://github.com/mdecd2024/test-ag1/blob/main/downloads/report_github.txt&lt;/p&gt;
-&lt;p&gt;並根據下列教學範例:(利用下列做參考並操作)&lt;/p&gt;
-&lt;p&gt;說明如何將 41123130 的個人倉儲設為 2a-midag3 分組倉儲的子模組&lt;/p&gt;
-&lt;p&gt;將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
-&lt;p&gt;利用 Replit 維護分組倉儲&lt;/p&gt;
-&lt;h1&gt;Codespaces 使用&lt;/h1&gt;
-&lt;p&gt;由於 Github Codespaces 免費帳號目前每月可以使用 120 core hours, 故在要使用的時候再開啟此環境，才可以達到最佳使用&lt;/p&gt;
-&lt;h1&gt;使用 Gitpod 維護倉儲與網站&lt;/h1&gt;
-&lt;p&gt;使用 Gitpod 維護個人及分組網站&lt;/p&gt;
-&lt;h1&gt;電腦教室中的協同設計&lt;/h1&gt;
-&lt;p&gt;cd2024 起, 電腦輔助設計室中的每一台電腦已經各自擁有一個外部 IPv4 網址, 因此各組員可將個人倉儲與分組倉儲 git clone 至隨身碟, 利用 Token 或 SSH session 授權維護倉儲與網站內容.&lt;/p&gt;
-&lt;p&gt;如何利用 Classic Token 授權維護倉儲與網站&lt;/p&gt;
-&lt;h1&gt;將組員的個人倉儲設為分組倉儲子模組&lt;/h1&gt;
-&lt;p&gt;cd2024 課程希望將各分組的組員個人網站, 以 submodule 的方式納入各分組倉儲與網站, 設定的指令為:&lt;/p&gt;
-&lt;p&gt;git submodule add 組員的個人倉儲網址 組員的學號&lt;/p&gt;
-&lt;h1&gt;有關 LaTeX 轉 pdf&lt;/h1&gt;
-&lt;p&gt;在 Windows 環境, 利用 LaTeX 協同建立分組報告&lt;/p&gt;
-&lt;h1&gt;利用可攜程式編譯 LaTeX&lt;/h1&gt;
-&lt;p&gt;下載所需檔案，並編譯LaTex&lt;/p&gt;
-&lt;h1&gt;設定個人網誌系統&lt;/h1&gt;
-&lt;p&gt;利用 https://github.com/mdecycu/cmsimde_site 建立的網站, 其動態網站資料位於 config/content.htm, 轉換完成的靜態網站資料位於 content 目錄中.&lt;/p&gt;
-&lt;p&gt;網誌的原始檔案位於 markdown 目錄, 所使用的網誌系統為 Pelican, 轉換完成的網誌內容則位於 blog 目錄. 將 markdown 網誌轉為網誌的指令為: pelican markdown -o blog -s local_publishconf.py 表示使用了 local_publishconfig.py 設定, 其餘與 blog 有關的設定檔案還有:&lt;/p&gt;
-&lt;p&gt;pelicanconf.py 與 publishconf.py 等.&lt;/p&gt;
-&lt;p&gt;為了順利完成上述個人課程網站的網誌設定, 必須根據各用戶所使用的 github 帳號對這三個 .py 檔案進行設定.&lt;/p&gt;
-&lt;h1&gt;OnShape 帳號&lt;/h1&gt;
-&lt;p&gt;利用 MKCad Library 或 VEX Part Library 零件程式庫建立產品系統模型.&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w3</title><link href="./2a-midag6_2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T15:49:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-08:./2a-midag6_2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;a href="/downloads/cd2024 2b w3 使用 gitpod 與 localhost 維護個人倉儲.txt"&gt;逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w3</title><link href="./2a-midag6_2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T15:49:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-08:./2a-midag6_2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -3362,46 +2863,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/ETNuIGNcCd1Lvfeuy1qMnCYBrr8Nhv4OrSVQ2Xfv2o7gdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=8b3kMk"&gt;如何將 41123130 的個人倉儲設為 2a-midag2 分組倉儲的子模組&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EZbnYCWfEylAmXhpOqXWgZUBMxerlNYRgQsBBjZAQ90lmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=8nGXOz"&gt;如何將組員的個人倉儲納入分組倉儲成為子模組&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EUlbUzMAyBFHrHX7bLPRKzsB3L-T-D413BPuH6pMSEZmjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=HjIQab"&gt;如何在 Replit 維護分組倉儲&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w3</title><link href="./41023124_2024-Spring-w3-blog-tutorial.html" rel="alternate"></link><published>2024-03-08T14:04:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-08:./41023124_2024-Spring-w3-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;每周進度報告w3&lt;/h1&gt;
-&lt;h2&gt;w3&lt;/h2&gt;
-&lt;p&gt;W3 任務交付與w3-2中的教學影片進行操作&lt;/p&gt;
-&lt;p&gt;cd2024 w3 任務&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;1. 請各組將組員的個人課程倉儲 cd2024 設為分組倉儲 2a-midag1 的子模組, 且以各組員的學號作為子模組的名稱&lt;/p&gt;
-&lt;p&gt;&amp;nbsp;2. 請各組員將負責分工處理的 &lt;a href="https://webthesis.biblio.polito.it/16429/1/tesi.pdf" rel="noreferrer noopener" target="_blank" title="https://webthesis.biblio.polito.it/16429/1/tesi.pdf"&gt;https://webthesis.biblio.polito.it/16429/1/tesi.pdf&lt;/a&gt; 中英文並列資料 (LaTeX) 放在個人的倉儲網站, 最後在分組倉儲中整合建立出各組的期中報告 pdf 檔案&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;h3&gt;w3-2&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;本周為第三周，進度是照著網誌中的影片將組員的個人倉儲設為分組倉儲子模組與有關 LaTeX 轉 pdf 在 Windows 環境, 說明如何利用 LaTeX 協同建立分組報告。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;2024 Spring 協同產品設計實習的第三週, 主要說明如何善用 Github Codespaces 與 Gitpod, 以及將組員倉儲設為分組倉儲的子模組, 同時導入 LaTeX 轉 pdf 機制, 啟動期中分組報告的製作.&lt;/p&gt;
-&lt;p&gt;列出期中分組倉儲與網站&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://mde.tw/cd2024/content/Brython.html?src=https://gist.githubusercontent.com/mdecycu/8ba6fa28317bc7a784d8350e7bc33580/raw/4da5bed66516f7808811839885aedd946e20f17b/list_cd2024_midterm_url.py"&gt;cd2024 期中分組倉儲與網站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;div&gt;
-&lt;div class="syntaxhighlighter python" id="highlighter_627208"&gt;
-&lt;p&gt;期中協同分組報告&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;請參考&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecd2024/test-ag1"&gt;https://github.com/mdecd2024/test-ag1&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;中的 latex 目錄與 downloads 目錄中的&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecd2024/test-ag1/blob/main/downloads/report_github.txt"&gt;https://github.com/mdecd2024/test-ag1/blob/main/downloads/report_github.txt&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;並根據下列教學範例:&lt;/p&gt;
-&lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/ETNuIGNcCd1Lvfeuy1qMnCYBrr8Nhv4OrSVQ2Xfv2o7gdQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=8b3kMk"&gt;如何將 41123130 的個人倉儲設為 2a-midag2 分組倉儲的子模組&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EZbnYCWfEylAmXhpOqXWgZUBMxerlNYRgQsBBjZAQ90lmg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=8nGXOz"&gt;如何將組員的個人倉儲納入分組倉儲成為子模組&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EUlbUzMAyBFHrHX7bLPRKzsB3L-T-D413BPuH6pMSEZmjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=HjIQab"&gt;如何在 Replit 維護分組倉儲&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w2</title><link href="./2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-07T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-03-07:./2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;W2&lt;/h1&gt;
-&lt;p&gt;協同產品設計實習的第二週, 主要利用 Github Classroom 進行協同分組, 並引導學員除了 Replit, 可以利用 Github Codespaces 維護個人或分組網站內容.&lt;/p&gt;
-&lt;h1&gt;利用 Github Classroom 指定分組倉儲&lt;/h1&gt;
-&lt;p&gt;指定第六組倉儲&lt;/p&gt;
-&lt;h1&gt;利用 Codespaces 維護倉儲與網站&lt;/h1&gt;
-&lt;p&gt;學習使用Codespaces維護分組倉儲及網站內容&lt;/p&gt;
-&lt;p&gt;Github Codespaces 免費帳號每月可以使用 120 core hours&lt;/p&gt;
-&lt;h1&gt;在近端執行動態網站&lt;/h1&gt;
-&lt;p&gt;可以利用近端可攜維護撙網站&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w2</title><link href="./41023124_2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T15:58:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-01:./41023124_2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w2</title><link href="./2a-midag6_2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T14:42:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-01:./2a-midag6_2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;每周進度報告w2&lt;/h1&gt;
@@ -3428,47 +2890,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w2</title><link href="./2a-midag6_2024-Spring-w2-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T14:42:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-03-01:./2a-midag6_2024-Spring-w2-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;每周進度報告w2&lt;/h1&gt;
-&lt;p&gt;第二周進度&lt;/p&gt;
-&lt;p&gt;協同產品設計實習的第二週, 主要利用 Github Classroom 進行分組, 並跟著老師操作與使用Codespaces、近端與Replit進行倉儲維護，並跟著下方所錄的教學影片進行操作。&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;利用 Codespaces 維護倉儲與網站&lt;/p&gt;
-&lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EX2nKmkIMX9EtahHjCFmVg4Bp_6wwEvoKsos6LbRHFl6NA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=qD4FMu"&gt;如何利用 Github Codespaces 維護網站內容&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;在近端執行動態網站&lt;/p&gt;
-&lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EfEB1UUQFttEu-jLYpAaflsB85I01JJFdI_HectY6T5rrw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=eYLF26"&gt;如何利用近端可攜系統維護分組網站&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;說明&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EfhTxuf_qX5NqlZBu3n764wBy1d1un0pOZaItSW2Lao2nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=QRghBy"&gt;甲班第一組組長如何建立 midag1 Team&lt;/a&gt;, 並利用 Codespaces 維護 2a-midag1 分組倉儲&lt;/p&gt;
-&lt;p&gt;說明如何&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EQm-H5Jrv-lMqpKgjWeXhxsBTEZudKJx1M_NQJQumPZttA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=6Ib0iC"&gt;利用 Replit 管理從 Classroom 取得的分組倉儲&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;待各分組的期中報告 Team 與倉儲全部建立就緒後, 則甲班學員後續可配合期末作業名稱 2a2, 由甲班各組組長建立 Team finalag1, finalag2 ....等.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;利用 Github Classroom 指定分組倉儲&lt;/p&gt;
-&lt;p&gt;由於各分組網站從 Github Classroom 執行配置, 因此該倉儲位於 mdecd2024 帳號下, 雖然各組組員具備對此分組倉儲改版的權限, 但是若將分組倉儲 import 到 Replit, 因為其倉儲擁有者為 mdecd2024, 因此無法從 Replit accoount 項下進行授權, 但是可以利用 ssh-keygen 建立 .ssh 目錄下的 id_rsa 與 id_rsa.pub, 之後除了將公鑰送到 Github 之外, 還需要在 .ssh 目錄中建立 config, 且將倉儲 .git/config 中的 https 協定改為 SSH.&lt;/p&gt;
-&lt;p&gt;根據上述流程, 可以在 Replit 中以 SSH 模式取得對 Github 帳號下特定倉儲的改版全縣, 只不過 Replit 的免費帳號環境會不定時刪除 /home/runner/.ssh 目錄中的授權資料, 因此若要使用 Replit 維護從 Github Classroom 取得授權的分組倉儲, 必須使用程式方法配置 .ssh 中的 id_rsa 與 config 檔案.&lt;/p&gt;
-&lt;p&gt;期中分組作業名稱甲班為 2a, 其中甲班第一組組長必須建立名稱為 midag1 的 Team, 讓第一組的組員員加入. 其餘各組的期中報告 Team 名稱則分別為 midag2, midag3 ....&lt;/p&gt;
-&lt;p&gt;根據上述規劃, 甲班第一分組的期中協同倉儲將位於:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://github.com/mdecd2024/2a-midag1"&gt;https://github.com/mdecd2024/2a-midag1&lt;/a&gt;, 第一組的期中報告網站將位於:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mdecd2024.github.io/2a-midag1"&gt;https://mdecd2024.github.io/2a-midag1&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w1</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-03-01T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-03-01:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;w1&lt;/h1&gt;
-&lt;p&gt;2024 Spring 協同產品設計實習的教學主要介紹 OnShape、Coppeliasim 與 Odoo PLM 在機械設計流程中的應用.&lt;/p&gt;
-&lt;h1&gt;2a 建個人課程倉儲&lt;/h1&gt;
-&lt;p&gt;新增個人倉儲，且更新進度&lt;/p&gt;
-&lt;h1&gt;下載可攜套件檔案&lt;/h1&gt;
-&lt;p&gt;下載上課所需檔案&lt;/p&gt;
-&lt;h1&gt;將個人倉儲 import 至 Replit&lt;/h1&gt;
-&lt;h1&gt;設定 Github 帳號的雙重認證&lt;/h1&gt;
-&lt;p&gt;對個人的githib帳號使用雙重認證，並且與電子產品綁定&lt;/p&gt;
-&lt;h1&gt;利用import 倉儲至 Replit 進行改版&lt;/h1&gt;
-&lt;p&gt;利用 Replit 對 cd2024 改版&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 教學影片任務回報與自評</title><link href="./2a-midag6_2024-Spring-w4%E6%95%99%E5%AD%B8%E5%BD%B1%E7%89%87%E4%BB%BB%E5%8B%99%E5%9B%9E%E5%A0%B1%E8%88%87%E8%87%AA%E8%A9%95-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w4教學影片任務回報與自評-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 教學影片任務回報與自評</title><link href="./2a-midag6_2024-Spring-w4%E6%95%99%E5%AD%B8%E5%BD%B1%E7%89%87%E4%BB%BB%E5%8B%99%E5%9B%9E%E5%A0%B1%E8%88%87%E8%87%AA%E8%A9%95-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w4教學影片任務回報與自評-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -3526,7 +2948,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/N_Tx_ZJjoJ0" title="cd2024 2a w2 4 利用  Replit 管理 Github Classroom 分組倉儲(41023239楊祐銘)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;41023225&lt;/p&gt;
-&lt;p&gt;w4自評成績65&lt;/p&gt;</content><category term="教學影片任務回報與自評"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./2a-midag6_2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;w4自評成績65&lt;/p&gt;</content><category term="教學影片任務回報與自評"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w6</title><link href="./2a-midag6_2024-Spring-w6-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w6-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -3546,7 +2968,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;請各組自行搜尋前面已經發布的教學影片, 分別
 在影片上填上字幕, 另行上傳到可以嵌入到各分組的網站上
 從影片字幕中整理出逐字稿, 放在影片下方, 以 .txt 連結安排
-並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./2a-midag6_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+並在各嵌入的教學影片下方, 以摘要方式說明該影片的教學重點&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w9</title><link href="./2a-midag6_2024-Spring-w9-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w9-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -3561,271 +2983,7 @@ chatgpt，到目前是正常的狀態。&lt;/p&gt;
 &lt;p&gt;相關資料收集與閱讀心得&lt;/p&gt;
 &lt;p&gt;分組期中報告 (&lt;a href="https://www.google.com/search?q=latex+%E6%95%99%E5%AD%B8"&gt;LaTeX&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; pdf) 與簡報影片 (&lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; mp4) 佔 20%&lt;/p&gt;
 &lt;p&gt;分組期末報告 (&lt;a href="https://www.google.com/search?q=latex+%E6%95%99%E5%AD%B8"&gt;LaTeX&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; pdf) 與簡報影片 (&lt;a href="https://obsproject.com/"&gt;OBS&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;-&amp;gt; mp4) 佔 40%&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./41023124_2024-Spring-w-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T16:39:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./41023124_2024-Spring-w-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;內容管理系統&lt;/h1&gt;
-&lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
-&lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt; - 假如想要快速將網址套用 html 網站連結, 可以使用此種方法.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 也可以使用 Markdown 的標準網站連結使用格式.&lt;/p&gt;
-&lt;pre class="brush: python"&gt;
-# 引用 Python 程式的方法
-for i in range(10):
-    print(i, "列出字串")
-&lt;/pre&gt;
-
-&lt;p&gt;也可以直接在 .md 檔案中使用 html 標註, 或加入 Javascript 或 Brython 程式碼.&lt;/p&gt;
-&lt;p&gt;從 1 累加到 100:&lt;/p&gt;
-&lt;p&gt;&lt;button id="add1to100"&gt;1 add to 100&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;將 iterable 與 iterator &lt;a href="https://home.gamer.com.tw/creationDetail.php?sn=4337438"&gt;相關說明&lt;/a&gt;, 利用 Brython 與 Ace Editor 整理在這個頁面.&lt;/p&gt;
-&lt;!-- 導入 brython 程式庫 --&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/brython.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/brython_stdlib.js"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;!-- 啟動 Brython --&gt;
-&lt;p&gt;
-&lt;script&gt;
-window.onload=function(){
-brython({debug:1, pythonpath:['./../cmsimde/static/','./../downloads/py/']});
-}
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 FileSaver 與 filereader --&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/ace/FileSaver.min.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/filereader.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 ace --&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/ace/ace.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/ext-language_tools.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/mode-python3.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/snippets/python.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 gearUtils-0.9.js Cango 齒輪繪圖程式庫 --&gt;
-&lt;script src="./../cmsimde/static/Cango-24v03-min.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/gearUtils-09.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/SVGpathUtils-6v03-min.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/sylvester.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/PrairieDraw.js"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 請注意, 這裡使用 Javascript 將 localStorage["kw_py_src1"] 中存在近端瀏覽器的程式碼, 由使用者決定存檔名稱--&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/javascript"&gt;
-function doSave(storage_id, filename){
-    var blob = new Blob([localStorage[storage_id]], {type: "text/plain;charset=utf-8"});
-    filename = document.getElementById(filename).value
-    saveAs(blob, filename+".py");
-}
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-# 清除畫布
-def clear_bd1(ev):
-    bd = doc["brython_div1"]
-    bd.clear()
-Ace1 = ace.Editor(editor_id="kw_editor1", console_id="kw_console1", container_id="kw__container1", storage_id="kw_py_src1" )
-# 從 gist 取出程式碼後, 放入 editor 作為 default 程式
-def run1():
-    # 利用 get 取下 src 變數值
-    try:
-        url = doc.query["src"]
-    except:
-        url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c3a6deaf717f8f2739a4b1392a5ab10936e9693a/from_1_add_to_10_1.py"
-    prog = open(url).read()
-
-    # 將程式載入編輯區
-    Ace1.editor.setValue(prog)
-    Ace1.editor.scrollToRow(0)
-    Ace1.editor.gotoLine(0)
-    # 直接執行程式
-    #ns = {'__name__':'__main__'}
-    #exec(prog, ns)
-    # 按下 run 按鈕
-    Ace1.run()
-
-# 執行程式, 顯示輸出結果與清除輸出結果及對應按鈕綁定
-doc['kw_run1'].bind('click', Ace1.run)
-doc['kw_show_console1'].bind('click', Ace1.show_console)
-doc['kw_clear_console1'].bind('click', Ace1.clear_console)
-doc['clear_bd1'].bind('click', clear_bd1)
-# 呼叫函式執行
-run1()
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 開始 --&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-
-# 清除畫布
-def clear_bd1(ev):
-    bd = doc["brython_div1"]
-    bd.clear()
-
-# 利用 ace 中的 Editor 建立 Ace2 物件, 其中的輸入變數分別對應到頁面中的編輯區物件
-Ace2 = ace.Editor(editor_id="kw_editor1", console_id="kw_console1", container_id="kw__container1", storage_id="kw_py_src1" )
-
-add1to100_url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c48e37714f055c3a0027cbfef59e442a6ef659b9/from_1_add_to_100_1.py"
-
-# 從 gist 取得程式碼
-add_src = open(add1to100_url).read()
-def add(ev):
-    Ace2.editor.setValue(add_src)
-    Ace2.editor.scrollToRow(0)
-    Ace2.editor.gotoLine(0)
-    Ace2.run()
-
-# id 為 "add1to100" 的按鈕點按時, 執行 add 方法
-doc["add1to100"].bind('click', add)
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 結束--&gt;&lt;/p&gt;
-&lt;!-- editor1 開始 --&gt;
-&lt;p&gt;&lt;!-- 用來顯示程式碼的 editor 區域 --&gt;&lt;/p&gt;
-&lt;div id="kw_editor1" style="width: 600px; height: 300px;"&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- 以下的表單與按鈕與前面的 Javascript doSave 函式以及 FileSaver.min.js 互相配合 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 存擋表單開始 --&gt;&lt;/p&gt;
-&lt;form&gt;&lt;label&gt;Filename: &lt;input id="kw_filename" placeholder="input file name" type="text"/&gt;.py&lt;/label&gt; &lt;input onclick="doSave('kw_py_src1', 'kw_filename1');" type="submit" value="Save"/&gt;&lt;/form&gt;
-&lt;p&gt;&lt;!-- 存擋表單結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕開始 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;button id="kw_run1"&gt;Run&lt;/button&gt; &lt;button id="kw_show_console1"&gt;Output&lt;/button&gt; &lt;button id="kw_clear_console1"&gt;清除輸出區&lt;/button&gt;&lt;button id="clear_bd1"&gt;清除繪圖區&lt;/button&gt;&lt;button onclick="window.location.reload()"&gt;Reload&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 程式執行 ouput 區 --&gt;&lt;/p&gt;
-&lt;div style="width: 100%; height: 100%;"&gt;&lt;textarea autocomplete="off" id="kw_console1"&gt;&lt;/textarea&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --&gt;&lt;/p&gt;
-&lt;div id="brython_div1"&gt;&lt;/div&gt;
-&lt;!-- editor1 結束 --&gt;
-&lt;hr/&gt;&lt;!-- ########################################## --&gt;&lt;p&gt;從 1 累加到 100 part2:&lt;/p&gt;
-&lt;p&gt;&lt;button id="add1to100part2"&gt;1 add to 100&lt;/button&gt;&lt;button id="cango_three_gears"&gt;cango_three_gears&lt;/button&gt;&lt;button id="bsnake"&gt;BSnake&lt;/button&gt;&lt;button id="aitetris"&gt;AI Tetris&lt;/button&gt;&lt;button id="threejsblock"&gt;Rotating Block&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 請注意, 這裡使用 Javascript 將 localStorage["kw_py_src2"] 中存在近端瀏覽器的程式碼, 由使用者決定存檔名稱--&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-# 清除畫布
-def clear_bd2(ev):
-    bd = doc["brython_div2"]
-    bd.clear()
-Ace3 = ace.Editor(editor_id="kw_editor2", console_id="kw_console2", container_id="kw__container2", storage_id="kw_py_src2" )
-# 從 gist 取出程式碼後, 放入 editor 作為 default 程式
-def run2():
-    # 利用 get 取下 src 變數值
-    try:
-        url = doc.query["src2"]
-    except:
-        url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c3a6deaf717f8f2739a4b1392a5ab10936e9693a/from_1_add_to_10_1.py"
-    prog = open(url).read()
-
-    # 將程式載入編輯區
-    Ace3.editor.setValue(prog)
-    Ace3.editor.scrollToRow(0)
-    Ace3.editor.gotoLine(0)
-    # 直接執行程式
-    #ns = {'__name__':'__main__'}
-    #exec(prog, ns)
-    # 按下 run 按鈕
-    Ace3.run()
-
-# 執行程式, 顯示輸出結果與清除輸出結果及對應按鈕綁定
-doc['kw_run2'].bind('click', Ace3.run)
-doc['kw_show_console2'].bind('click', Ace3.show_console)
-doc['kw_clear_console2'].bind('click', Ace3.clear_console)
-doc['clear_bd2'].bind('click', clear_bd2)
-# 呼叫函式執行
-run2()
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 part2 開始 --&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-
-# 清除畫布
-def clear_bd2(ev):
-    bd = doc["brython_div2"]
-    bd.clear()
-
-# 利用 ace 中的 Editor 建立 Ace2 物件, 其中的輸入變數分別對應到頁面中的編輯區物件
-Ace4 = ace.Editor(editor_id="kw_editor2", console_id="kw_console2", container_id="kw__container2", storage_id="kw_py_src2" )
-
-# 透過 Ace4 以類別建立一個通用的 button2, 可以在多個案例中將 gist 程導入編輯區
-
-class button2:
-    def __init__(self, url):
-        self.url = url
-
-    # 記得加入 event 輸入變數
-    def do(self,ev):
-        Ace4.editor.setValue(open(self.url).read())
-        Ace4.editor.scrollToRow(0)
-        Ace4.editor.gotoLine(0)
-        Ace4.run()
-
-add1to100_url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c48e37714f055c3a0027cbfef59e442a6ef659b9/from_1_add_to_100_1.py"
-
-# 從 gist 取得程式碼
-add_src = open(add1to100_url).read()
-def add2(ev):
-    Ace4.editor.setValue(add_src)
-    Ace4.editor.scrollToRow(0)
-    Ace4.editor.gotoLine(0)
-    Ace4.run()
-
-# id 為 "add1to100part2" 的按鈕點按時, 執行 add 方法
-doc["add1to100part2"].bind('click', add2)
-# 以下為運用 button2 class 的通用 gist 程式導入區
-################################## cango_three_gears start
-cango_three_gears_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/cango_three_gears_brython_div2.py"
-cango_three_gears = button2(cango_three_gears_url)
-doc["cango_three_gears"].bind("click", cango_three_gears.do)
-################################## cango_three_gears end
-################################## bsnake start
-bsnake_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/kmol_snakey.py"
-bsnake = button2(bsnake_url)
-doc["bsnake"].bind("click", bsnake.do)
-################################## bsnake end
-################################## aitetris start
-aitetris_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/pygame_to_brython_tetris_ai.py"
-aitetris = button2(aitetris_url)
-doc["aitetris"].bind("click", aitetris.do)
-################################## aitetris end
-################################## threejsblock start
-threejsblock_url = "https://gist.githubusercontent.com/mdecycu/2c6323eff49b496d1bafd210f3ec9707/raw/df37802f9e8a386b6424f7945af622b1cd0a9ca5/threejs_rotating_block.py"
-threejsblock = button2(threejsblock_url)
-doc["threejsblock"].bind("click", threejsblock.do)
-################################## threejsblock end
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 part2 結束--&gt;&lt;/p&gt;
-&lt;!-- editor2 開始 --&gt;
-&lt;p&gt;&lt;!-- 用來顯示程式碼的 editor 區域 --&gt;&lt;/p&gt;
-&lt;div id="kw_editor2" style="width: 600px; height: 300px;"&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- 以下的表單與按鈕與前面的 Javascript doSave 函式以及 FileSaver.min.js 互相配合 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 存擋表單開始 --&gt;&lt;/p&gt;
-&lt;form&gt;&lt;label&gt;Filename: &lt;input id="kw_filename2" placeholder="input file name" type="text"/&gt;.py&lt;/label&gt; &lt;input onclick="doSave('kw_py_src2', 'kw_filename2');" type="submit" value="Save"/&gt;&lt;/form&gt;
-&lt;p&gt;&lt;!-- 存擋表單結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕開始 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;button id="kw_run2"&gt;Run&lt;/button&gt; &lt;button id="kw_show_console2"&gt;Output&lt;/button&gt; &lt;button id="kw_clear_console2"&gt;清除輸出區&lt;/button&gt;&lt;button id="clear_bd2"&gt;清除繪圖區&lt;/button&gt;&lt;button onclick="window.location.reload()"&gt;Reload&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 程式執行 ouput 區 --&gt;&lt;/p&gt;
-&lt;div style="width: 100%; height: 100%;"&gt;&lt;textarea autocomplete="off" id="kw_console2"&gt;&lt;/textarea&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --&gt;&lt;/p&gt;
-&lt;div id="brython_div2"&gt;&lt;/div&gt;
-&lt;!-- editor2 結束 --&gt;
-&lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w1-1</title><link href="./2a-midag6_2024-Spring-w1-1blog-tutorial.html" rel="alternate"></link><published>2024-02-23T15:07:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w1-1blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w1-1</title><link href="./2a-midag6_2024-Spring-w1-1blog-tutorial.html" rel="alternate"></link><published>2024-02-23T15:07:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./2a-midag6_2024-Spring-w1-1blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 &lt;h1&gt;每周進度報告w1&lt;/h1&gt;
@@ -3839,285 +2997,7 @@ doc["threejsblock"].bind("click", threejsblock.do)
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;設定網誌&lt;/p&gt;
 &lt;p&gt;利用 [OBS] 加上廣播系統錄製的:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EZMAhRju-rdNrUxk9plOglIBMK2WcO3iL1iK11xipW48Mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=jogiPc"&gt;如何設定個人倉儲中的 Pelican 網誌&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w1-1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程 w1</title><link href="./41023124_2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-23T14:16:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-23:./41023124_2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-&lt;h1&gt;每周進度報告w1&lt;/h1&gt;
-&lt;p&gt;第一周進度&lt;/p&gt;
-&lt;p&gt;依照mde.tw/cd2024中的 Topics / Video中的影片，觀看與進行創建倉儲與帳號&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/ETTxsR2xBJ1Mg1Ikuz0lscEB5heQCnNRxTnzD1OPTkDPEA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=bPQk4F"&gt;建立個人課程 cd2024 倉儲與網站的操作影片&lt;/a&gt;&amp;nbsp;(7:17)&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EdBPsKV-ktZOtvo4InwdSoEBAM4B239cijCPMAb1qAUAxg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=AUcZgW"&gt;設定 Replit 與 Github 應用授權的說明影片&lt;/a&gt;&amp;nbsp;(2:44)&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EQkTC4PryY5KrohZdneAygIB1d2FCzwpl2tn8cdyG-Q8Vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=L28Ued"&gt;說明如何設定 Github 雙重認證&lt;/a&gt;&amp;nbsp;(6:28)&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EQIDGG3E8ElOjzeZrCESQzABRJ2tKiSw1T59WDa3x8FU-w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=E6LSw5"&gt;說明如何利用 Replit 對 cd2024 改版&lt;/a&gt;&amp;nbsp;(20:16)&lt;/p&gt;
-&lt;p&gt;照著影片中的步驟創建個人的cd2024倉儲與網站與如何與Replit連結Github，並更新上推至倉儲去做更新&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;設定網誌&lt;/p&gt;
-&lt;p&gt;利用 [OBS] 加上廣播系統錄製的:&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:v:/g/personal/yen_nfu_edu_tw/EZMAhRju-rdNrUxk9plOglIBMK2WcO3iL1iK11xipW48Mw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&amp;amp;e=jogiPc"&gt;如何設定個人倉儲中的 Pelican 網誌&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-31T18:00:14+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;h1&gt;內容管理系統&lt;/h1&gt;
-&lt;p&gt;使用者可以自行利用 &lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; 倉儲作為 Template, 建立自己的網站內容管理系統.&lt;/p&gt;
-&lt;p&gt;引用網站網址連結的方法:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 在文章中多次引用同一個網站連結時, 可以使用此種方法.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;https://github.com/mdecycu/cmsimde_site&lt;/a&gt; - 假如想要快速將網址套用 html 網站連結, 可以使用此種方法.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://github.com/mdecycu/cmsimde_site"&gt;cmsimde_site&lt;/a&gt; - 也可以使用 Markdown 的標準網站連結使用格式.&lt;/p&gt;
-&lt;pre class="brush: python"&gt;
-# 引用 Python 程式的方法
-for i in range(10):
-    print(i, "列出字串")
-&lt;/pre&gt;
-
-&lt;p&gt;也可以直接在 .md 檔案中使用 html 標註, 或加入 Javascript 或 Brython 程式碼.&lt;/p&gt;
-&lt;p&gt;從 1 累加到 100:&lt;/p&gt;
-&lt;p&gt;&lt;button id="add1to100"&gt;1 add to 100&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;將 iterable 與 iterator &lt;a href="https://home.gamer.com.tw/creationDetail.php?sn=4337438"&gt;相關說明&lt;/a&gt;, 利用 Brython 與 Ace Editor 整理在這個頁面.&lt;/p&gt;
-&lt;!-- 導入 brython 程式庫 --&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/brython.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/brython_stdlib.js"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;!-- 啟動 Brython --&gt;
-&lt;p&gt;
-&lt;script&gt;
-window.onload=function(){
-brython({debug:1, pythonpath:['./../cmsimde/static/','./../downloads/py/']});
-}
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 FileSaver 與 filereader --&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/ace/FileSaver.min.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/filereader.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 ace --&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script src="./../cmsimde/static/ace/ace.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/ext-language_tools.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/mode-python3.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/ace/snippets/python.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 導入 gearUtils-0.9.js Cango 齒輪繪圖程式庫 --&gt;
-&lt;script src="./../cmsimde/static/Cango-24v03-min.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/gearUtils-09.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/SVGpathUtils-6v03-min.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/sylvester.js"&gt;&lt;/script&gt;
-&lt;script src="./../cmsimde/static/PrairieDraw.js"&gt;&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- 請注意, 這裡使用 Javascript 將 localStorage["kw_py_src1"] 中存在近端瀏覽器的程式碼, 由使用者決定存檔名稱--&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/javascript"&gt;
-function doSave(storage_id, filename){
-    var blob = new Blob([localStorage[storage_id]], {type: "text/plain;charset=utf-8"});
-    filename = document.getElementById(filename).value
-    saveAs(blob, filename+".py");
-}
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-# 清除畫布
-def clear_bd1(ev):
-    bd = doc["brython_div1"]
-    bd.clear()
-Ace1 = ace.Editor(editor_id="kw_editor1", console_id="kw_console1", container_id="kw__container1", storage_id="kw_py_src1" )
-# 從 gist 取出程式碼後, 放入 editor 作為 default 程式
-def run1():
-    # 利用 get 取下 src 變數值
-    try:
-        url = doc.query["src"]
-    except:
-        url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c3a6deaf717f8f2739a4b1392a5ab10936e9693a/from_1_add_to_10_1.py"
-    prog = open(url).read()
-
-    # 將程式載入編輯區
-    Ace1.editor.setValue(prog)
-    Ace1.editor.scrollToRow(0)
-    Ace1.editor.gotoLine(0)
-    # 直接執行程式
-    #ns = {'__name__':'__main__'}
-    #exec(prog, ns)
-    # 按下 run 按鈕
-    Ace1.run()
-
-# 執行程式, 顯示輸出結果與清除輸出結果及對應按鈕綁定
-doc['kw_run1'].bind('click', Ace1.run)
-doc['kw_show_console1'].bind('click', Ace1.show_console)
-doc['kw_clear_console1'].bind('click', Ace1.clear_console)
-doc['clear_bd1'].bind('click', clear_bd1)
-# 呼叫函式執行
-run1()
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 開始 --&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-
-# 清除畫布
-def clear_bd1(ev):
-    bd = doc["brython_div1"]
-    bd.clear()
-
-# 利用 ace 中的 Editor 建立 Ace2 物件, 其中的輸入變數分別對應到頁面中的編輯區物件
-Ace2 = ace.Editor(editor_id="kw_editor1", console_id="kw_console1", container_id="kw__container1", storage_id="kw_py_src1" )
-
-add1to100_url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c48e37714f055c3a0027cbfef59e442a6ef659b9/from_1_add_to_100_1.py"
-
-# 從 gist 取得程式碼
-add_src = open(add1to100_url).read()
-def add(ev):
-    Ace2.editor.setValue(add_src)
-    Ace2.editor.scrollToRow(0)
-    Ace2.editor.gotoLine(0)
-    Ace2.run()
-
-# id 為 "add1to100" 的按鈕點按時, 執行 add 方法
-doc["add1to100"].bind('click', add)
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 結束--&gt;&lt;/p&gt;
-&lt;!-- editor1 開始 --&gt;
-&lt;p&gt;&lt;!-- 用來顯示程式碼的 editor 區域 --&gt;&lt;/p&gt;
-&lt;div id="kw_editor1" style="width: 600px; height: 300px;"&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- 以下的表單與按鈕與前面的 Javascript doSave 函式以及 FileSaver.min.js 互相配合 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 存擋表單開始 --&gt;&lt;/p&gt;
-&lt;form&gt;&lt;label&gt;Filename: &lt;input id="kw_filename" placeholder="input file name" type="text"/&gt;.py&lt;/label&gt; &lt;input onclick="doSave('kw_py_src1', 'kw_filename1');" type="submit" value="Save"/&gt;&lt;/form&gt;
-&lt;p&gt;&lt;!-- 存擋表單結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕開始 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;button id="kw_run1"&gt;Run&lt;/button&gt; &lt;button id="kw_show_console1"&gt;Output&lt;/button&gt; &lt;button id="kw_clear_console1"&gt;清除輸出區&lt;/button&gt;&lt;button id="clear_bd1"&gt;清除繪圖區&lt;/button&gt;&lt;button onclick="window.location.reload()"&gt;Reload&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 程式執行 ouput 區 --&gt;&lt;/p&gt;
-&lt;div style="width: 100%; height: 100%;"&gt;&lt;textarea autocomplete="off" id="kw_console1"&gt;&lt;/textarea&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --&gt;&lt;/p&gt;
-&lt;div id="brython_div1"&gt;&lt;/div&gt;
-&lt;!-- editor1 結束 --&gt;
-&lt;hr/&gt;&lt;!-- ########################################## --&gt;&lt;p&gt;從 1 累加到 100 part2:&lt;/p&gt;
-&lt;p&gt;&lt;button id="add1to100part2"&gt;1 add to 100&lt;/button&gt;&lt;button id="cango_three_gears"&gt;cango_three_gears&lt;/button&gt;&lt;button id="bsnake"&gt;BSnake&lt;/button&gt;&lt;button id="aitetris"&gt;AI Tetris&lt;/button&gt;&lt;button id="threejsblock"&gt;Rotating Block&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 請注意, 這裡使用 Javascript 將 localStorage["kw_py_src2"] 中存在近端瀏覽器的程式碼, 由使用者決定存檔名稱--&gt;&lt;/p&gt;
-&lt;p&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-# 清除畫布
-def clear_bd2(ev):
-    bd = doc["brython_div2"]
-    bd.clear()
-Ace3 = ace.Editor(editor_id="kw_editor2", console_id="kw_console2", container_id="kw__container2", storage_id="kw_py_src2" )
-# 從 gist 取出程式碼後, 放入 editor 作為 default 程式
-def run2():
-    # 利用 get 取下 src 變數值
-    try:
-        url = doc.query["src2"]
-    except:
-        url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c3a6deaf717f8f2739a4b1392a5ab10936e9693a/from_1_add_to_10_1.py"
-    prog = open(url).read()
-
-    # 將程式載入編輯區
-    Ace3.editor.setValue(prog)
-    Ace3.editor.scrollToRow(0)
-    Ace3.editor.gotoLine(0)
-    # 直接執行程式
-    #ns = {'__name__':'__main__'}
-    #exec(prog, ns)
-    # 按下 run 按鈕
-    Ace3.run()
-
-# 執行程式, 顯示輸出結果與清除輸出結果及對應按鈕綁定
-doc['kw_run2'].bind('click', Ace3.run)
-doc['kw_show_console2'].bind('click', Ace3.show_console)
-doc['kw_clear_console2'].bind('click', Ace3.clear_console)
-doc['clear_bd2'].bind('click', clear_bd2)
-# 呼叫函式執行
-run2()
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 part2 開始 --&gt;
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-import ace
-
-# 清除畫布
-def clear_bd2(ev):
-    bd = doc["brython_div2"]
-    bd.clear()
-
-# 利用 ace 中的 Editor 建立 Ace2 物件, 其中的輸入變數分別對應到頁面中的編輯區物件
-Ace4 = ace.Editor(editor_id="kw_editor2", console_id="kw_console2", container_id="kw__container2", storage_id="kw_py_src2" )
-
-# 透過 Ace4 以類別建立一個通用的 button2, 可以在多個案例中將 gist 程導入編輯區
-
-class button2:
-    def __init__(self, url):
-        self.url = url
-
-    # 記得加入 event 輸入變數
-    def do(self,ev):
-        Ace4.editor.setValue(open(self.url).read())
-        Ace4.editor.scrollToRow(0)
-        Ace4.editor.gotoLine(0)
-        Ace4.run()
-
-add1to100_url = "https://gist.githubusercontent.com/mdecourse/0229a8a017091476a79700b8a190f185/raw/c48e37714f055c3a0027cbfef59e442a6ef659b9/from_1_add_to_100_1.py"
-
-# 從 gist 取得程式碼
-add_src = open(add1to100_url).read()
-def add2(ev):
-    Ace4.editor.setValue(add_src)
-    Ace4.editor.scrollToRow(0)
-    Ace4.editor.gotoLine(0)
-    Ace4.run()
-
-# id 為 "add1to100part2" 的按鈕點按時, 執行 add 方法
-doc["add1to100part2"].bind('click', add2)
-# 以下為運用 button2 class 的通用 gist 程式導入區
-################################## cango_three_gears start
-cango_three_gears_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/cango_three_gears_brython_div2.py"
-cango_three_gears = button2(cango_three_gears_url)
-doc["cango_three_gears"].bind("click", cango_three_gears.do)
-################################## cango_three_gears end
-################################## bsnake start
-bsnake_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/kmol_snakey.py"
-bsnake = button2(bsnake_url)
-doc["bsnake"].bind("click", bsnake.do)
-################################## bsnake end
-################################## aitetris start
-aitetris_url = "https://gist.githubusercontent.com/mdecycu/d9082d678096bd58378d6afe2c7fa05d/raw/f7a85d737d6723d5e34c526d5daee990ed92c32b/pygame_to_brython_tetris_ai.py"
-aitetris = button2(aitetris_url)
-doc["aitetris"].bind("click", aitetris.do)
-################################## aitetris end
-################################## threejsblock start
-threejsblock_url = "https://gist.githubusercontent.com/mdecycu/2c6323eff49b496d1bafd210f3ec9707/raw/df37802f9e8a386b6424f7945af622b1cd0a9ca5/threejs_rotating_block.py"
-threejsblock = button2(threejsblock_url)
-doc["threejsblock"].bind("click", threejsblock.do)
-################################## threejsblock end
-&lt;/script&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;!-- add 1 to 100 part2 結束--&gt;&lt;/p&gt;
-&lt;!-- editor2 開始 --&gt;
-&lt;p&gt;&lt;!-- 用來顯示程式碼的 editor 區域 --&gt;&lt;/p&gt;
-&lt;div id="kw_editor2" style="width: 600px; height: 300px;"&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- 以下的表單與按鈕與前面的 Javascript doSave 函式以及 FileSaver.min.js 互相配合 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 存擋表單開始 --&gt;&lt;/p&gt;
-&lt;form&gt;&lt;label&gt;Filename: &lt;input id="kw_filename2" placeholder="input file name" type="text"/&gt;.py&lt;/label&gt; &lt;input onclick="doSave('kw_py_src2', 'kw_filename2');" type="submit" value="Save"/&gt;&lt;/form&gt;
-&lt;p&gt;&lt;!-- 存擋表單結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕開始 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;button id="kw_run2"&gt;Run&lt;/button&gt; &lt;button id="kw_show_console2"&gt;Output&lt;/button&gt; &lt;button id="kw_clear_console2"&gt;清除輸出區&lt;/button&gt;&lt;button id="clear_bd2"&gt;清除繪圖區&lt;/button&gt;&lt;button onclick="window.location.reload()"&gt;Reload&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 執行與清除按鈕結束 --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- 程式執行 ouput 區 --&gt;&lt;/p&gt;
-&lt;div style="width: 100%; height: 100%;"&gt;&lt;textarea autocomplete="off" id="kw_console2"&gt;&lt;/textarea&gt;&lt;/div&gt;
-&lt;p&gt;&lt;!-- Brython 程式執行的結果, 都以 brython_div1 作為切入位置 --&gt;&lt;/p&gt;
-&lt;div id="brython_div2"&gt;&lt;/div&gt;
-&lt;!-- editor2 結束 --&gt;
-&lt;hr/&gt;&lt;p&gt;
-&lt;script src="https://unpkg.com/three@0.144.0/build/three.js" type="text/javascript"&gt;&lt;/script&gt;</content><category term="w0"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2a-midag6_2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-31T18:00:12+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-18:./2a-midag6_2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content><category term="w1-1"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程</title><link href="./2a-midag6_2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-05-17T18:54:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-02-18:./2a-midag6_2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
