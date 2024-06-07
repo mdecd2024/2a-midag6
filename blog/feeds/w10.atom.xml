@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T21:27:18+08:00</updated><entry><title>2024 Spring 課程w10</title><link href="./2a-midag6_2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T22:04:00+08:00</published><updated>2024-06-07T21:27:18+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./2a-midag6_2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w10</title><link href="./" rel="alternate"></link><link href="./feeds/w10.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T21:57:48+08:00</updated><entry><title>2024 Spring 課程w10</title><link href="./2a-midag6_2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T22:04:00+08:00</published><updated>2024-06-07T21:57:46+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./2a-midag6_2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -25,6 +25,96 @@
 &lt;p&gt;結論：&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;實習步驟:&lt;/p&gt;
+&lt;p&gt;開啟可攜程式系統中的 CoppeliaSim 開啟鋼球平衡台模擬場景 啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib 在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬 matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;鋼球平衡台零組件繪圖&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;W10 實習任務三:&lt;/p&gt;
+&lt;p&gt;請根據&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mde.tw/cd2024/downloads/Solvespace_model%20_2d_for_cd2024_w6.7z"&gt;Solvespace_model _2d_for_cd2024_w6.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;零組件尺寸, 利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/yen_nfu_edu_tw/EehhlaMDzTxAlOBppbPSoPwBCzsOQxvshtNL8xJel-zbJQ?e=YwKvdH"&gt;Siemens NX1872.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(需要登入 @nfu.edu.tw, cd2024 採用電腦安裝的 NX1872 或隨身碟中的 NX1872) 執行零組件繪圖, 完成後請將過程影片放入個人與分組網站中.&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./41023124_2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T13:40:00+08:00</published><updated>2024-06-07T21:57:48+08:00</updated><author><name>41023124</name></author><id>tag:None,2024-04-26:./41023124_2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;h1&gt;w10&lt;/h1&gt;
+&lt;h2&gt;W10 實習任務一&lt;/h2&gt;
+&lt;p&gt;將老師給的2a出席名單，將程式詢問AI後，將程式改寫並在每一行後方進行註記，方便了解與解析此Brython程式如何進行運作&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;內容與重點，程式是如何運行與操作的&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/41023124/500875a36052f90472928c0fd722707e/raw/42ccb4354ff3beaf2b5771b40cd2133d1d8c944d/2a2"&gt;程式gists url&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;程式內容與重點，程式是如何運行與操作的&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;這個程式是一個Python腳本，它使用了Brython庫（Python的瀏覽器端實現），用於在網頁上動態加載和處理CSV文件數據，並將處理後的數據以HTML的形式插入到網頁中。&lt;/p&gt;
+&lt;p&gt;讓我們來看一下它的主要功能和運行流程：&lt;/p&gt;
+&lt;p&gt;1. **導入模塊**：程式一開始導入了需要使用的模塊，包括`window`（瀏覽器窗口對象）、`ajax`（用於發送Ajax請求）、`document`（HTML文檔對象）、`html`（HTML元素生成器）。&lt;/p&gt;
+&lt;p&gt;2. **fetch_csv_data函數**：這個函數是整個程式的主要部分，它用於獲取CSV數據並將其轉換為HTML格式插入到網頁中。&lt;/p&gt;
+&lt;p&gt;- **CSV文件地址定義**：將CSV文件的URL地址存儲在變量`url`中。&lt;br&gt; &lt;br&gt; - **請求完成回調函數**：定義了`on_complete`函數作為Ajax請求完成後的回調函數。如果請求成功（狀態碼為200或0），則執行以下操作：&lt;br&gt; &lt;br&gt; - 讀取CSV文件內容並按行拆分。&lt;br&gt; &lt;br&gt; - 遍歷每一行數據，忽略空行，將非空行按逗號拆分，並將拆分後的數據存儲到列表中。&lt;br&gt; &lt;br&gt; - 去除第一行（標題行），保留數據行。&lt;br&gt; &lt;br&gt; - 針對每個學生的數據，生成其個人網站鏈接、GitHub倉庫鏈接，以及小組網站鏈接和GitHub倉庫鏈接。&lt;br&gt; &lt;br&gt; - 將生成的鏈接和相關信息插入到HTML頁面中的指定位置。&lt;br&gt; &lt;br&gt; - **發送Ajax請求**：使用Ajax對象發送GET請求到指定的URL，綁定了完成事件，設置請求頭部，並發送請求。&lt;br&gt; &lt;br&gt;3. **調用fetch_csv_data函數**：在程式末尾調用了`fetch_csv_data`函數，觸發CSV數據的獲取和處理過程。&lt;/p&gt;
+&lt;p&gt;總的來說，這個腳本通過Ajax請求獲取CSV數據，然後解析該數據並生成HTML元素，最後將生成的HTML插入到網頁中，完成了將CSV數據動態展示在網頁上的功能。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;鋼球平衡台 PID 控制與模擬&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;W10 實習任務二:&lt;/p&gt;
+&lt;p&gt;請下載&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://229.cycu.org/cd2024_ball_balancing_platform_control_ref.7z"&gt;cd2024_ball_balancing_platform_control_ref.7z&lt;/a&gt;, 閱讀後請將摘要內容放入個人與分組網誌中.&lt;/p&gt;
+&lt;p&gt;閱讀結果:&lt;/p&gt;
+&lt;p&gt;各篇論文要點摘要：&lt;/p&gt;
+&lt;p&gt;結論：&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;實習步驟:&lt;/p&gt;
+&lt;p&gt;開啟可攜程式系統中的 CoppeliaSim 開啟鋼球平衡台模擬場景 啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib 在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬 matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;鋼球平衡台零組件繪圖&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;W10 實習任務三:&lt;/p&gt;
+&lt;p&gt;請根據&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://mde.tw/cd2024/downloads/Solvespace_model%20_2d_for_cd2024_w6.7z"&gt;Solvespace_model _2d_for_cd2024_w6.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;零組件尺寸, 利用&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://nfuedu-my.sharepoint.com/:u:/g/personal/yen_nfu_edu_tw/EehhlaMDzTxAlOBppbPSoPwBCzsOQxvshtNL8xJel-zbJQ?e=YwKvdH"&gt;Siemens NX1872.7z&lt;/a&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;(需要登入 @nfu.edu.tw, cd2024 採用電腦安裝的 NX1872 或隨身碟中的 NX1872) 執行零組件繪圖, 完成後請將過程影片放入個人與分組網站中.&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w10</title><link href="./2024-Spring-w10-blog-tutorial.html" rel="alternate"></link><published>2024-04-26T11:00:00+08:00</published><updated>2024-06-07T21:57:48+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-04-26:./2024-Spring-w10-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+
+
+&lt;p&gt;我負責的是任務2&lt;/p&gt;
+&lt;h1&gt;W10 實習任務一&lt;/h1&gt;
+&lt;p&gt;將老師給的2a出席名單，將程式詢問AI後，將程式改寫並在每一行後方進行註記，方便了解與解析此Brython程式如何進行運作&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;內容與重點，程式是如何運行與操作的&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://gist.githubusercontent.com/41023124/500875a36052f90472928c0fd722707e/raw/42ccb4354ff3beaf2b5771b40cd2133d1d8c944d/2a2"&gt;程式gists url&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;程式內容與重點，程式是如何運行與操作的&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;這個程式是一個Python腳本，它使用了Brython庫（Python的瀏覽器端實現），用於在網頁上動態加載和處理CSV文件數據，並將處理後的數據以HTML的形式插入到網頁中。&lt;/p&gt;
+&lt;p&gt;讓我們來看一下它的主要功能和運行流程：&lt;/p&gt;
+&lt;p&gt;1. **導入模塊**：程式一開始導入了需要使用的模塊，包括`window`（瀏覽器窗口對象）、`ajax`（用於發送Ajax請求）、`document`（HTML文檔對象）、`html`（HTML元素生成器）。&lt;/p&gt;
+&lt;p&gt;2. **fetch_csv_data函數**：這個函數是整個程式的主要部分，它用於獲取CSV數據並將其轉換為HTML格式插入到網頁中。&lt;/p&gt;
+&lt;p&gt;- **CSV文件地址定義**：將CSV文件的URL地址存儲在變量`url`中。&lt;br&gt; &lt;br&gt; - **請求完成回調函數**：定義了`on_complete`函數作為Ajax請求完成後的回調函數。如果請求成功（狀態碼為200或0），則執行以下操作：&lt;br&gt; &lt;br&gt; - 讀取CSV文件內容並按行拆分。&lt;br&gt; &lt;br&gt; - 遍歷每一行數據，忽略空行，將非空行按逗號拆分，並將拆分後的數據存儲到列表中。&lt;br&gt; &lt;br&gt; - 去除第一行（標題行），保留數據行。&lt;br&gt; &lt;br&gt; - 針對每個學生的數據，生成其個人網站鏈接、GitHub倉庫鏈接，以及小組網站鏈接和GitHub倉庫鏈接。&lt;br&gt; &lt;br&gt; - 將生成的鏈接和相關信息插入到HTML頁面中的指定位置。&lt;br&gt; &lt;br&gt; - **發送Ajax請求**：使用Ajax對象發送GET請求到指定的URL，綁定了完成事件，設置請求頭部，並發送請求。&lt;br&gt; &lt;br&gt;3. **調用fetch_csv_data函數**：在程式末尾調用了`fetch_csv_data`函數，觸發CSV數據的獲取和處理過程。&lt;/p&gt;
+&lt;p&gt;總的來說，這個腳本通過Ajax請求獲取CSV數據，然後解析該數據並生成HTML元素，最後將生成的HTML插入到網頁中，完成了將CSV數據動態展示在網頁上的功能。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;鋼球平衡台 PID 控制與模擬&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;W10 實習任務二:&lt;/p&gt;
+&lt;p&gt;請下載&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="http://229.cycu.org/cd2024_ball_balancing_platform_control_ref.7z"&gt;cd2024_ball_balancing_platform_control_ref.7z&lt;/a&gt;, 閱讀後請將摘要內容放入個人與分組網誌中.&lt;/p&gt;
+&lt;p&gt;論論文一：Construction and theoretical study of a ball balancing platform&lt;/p&gt;
+&lt;p&gt;來源:PDF Chat&lt;/p&gt;
+&lt;p&gt;這份實驗手冊詳細描述了如何設計和實現一個二維球平衡控制系統。主要包含以下內容:&lt;/p&gt;
+&lt;p&gt;首先,從物理原理出發,建立了球在平台上運動的非線性方程,並將其線性化,得到了球位置和平台傾斜角度之間的傳遞函數。接著設計了一個級聯控制系統,內迴路為伺服馬達的位置控制,外迴路為球的位置控制。&lt;/p&gt;
+&lt;p&gt;對於內迴路,根據規格要求,計算得到了比例-速度控制器的參數。對於外迴路,設計了比例-積分-微分控制器,並根據預期的超調量、穩定時間和零點位置,推導出相應的控制參數。&lt;/p&gt;
+&lt;p&gt;在仿真中,分別使用PD和PID控制策略對系統進行模擬,驗證了設計的有效性。結果顯示,PD控制可以滿足相關規格,但存在一定的穩態誤差;而PID控制通過合理設定積分飽和和抗飽和機制,可以進一步改善穩態誤差,但可能會影響響應速度。&lt;/p&gt;
+&lt;p&gt;最後,在實際實驗平台上,實現了上述兩種控制策略。通過調整一些參數,如集成飽和限制等,獲得了令人滿意的控制效果。同時也發現了一些未建模因素,如平台和伺服耦合等,對系統性能產生一定影響。&lt;/p&gt;
+&lt;p&gt;總的來說,這是一個涵蓋從理論分析、仿真設計到實驗驗證的完整控制系統開發過程,對於理解和掌握自動控制理論及其在實際系統中的應用具有重要意義。&lt;/p&gt;
+&lt;p&gt;論文二：A real time control system for balancing a ball on a platform with FPGA parallel implementation&lt;/p&gt;
+&lt;p&gt;來源:PDF Chat&lt;/p&gt;
+&lt;p&gt;這篇論文提出了一個用於實時平衡一個球在平台上的新解決方案。主要包括以下幾個步驟:&lt;/p&gt;
+&lt;p&gt;首先,基於拉格朗日方程建立了球在平台上運動的數學模型,並通過泰勒級數近似得到一個線性化的傳遞函數。&lt;/p&gt;
+&lt;p&gt;接著,設計了一個基於PID控制器的閉環控制系統。通過模擬,確定了PID控制器的參數,包括比例、積分和微分增益。&lt;/p&gt;
+&lt;p&gt;為了實現實時控制,作者將PID控制器採用增量式實現算法,在FPGA硬件上進行並行運算。這樣可以大幅提高計算速度,並支持同時控制x、y兩個軸。&lt;/p&gt;
+&lt;p&gt;最後,通過仿真驗證了此FPGA並行PID控制器的性能,證明了可以有效提高球位置的調節精度。&lt;/p&gt;
+&lt;p&gt;總的來說,這是一個結合理論建模、控制設計和FPGA硬件實現的完整方案,有助於提高實時控制系統的效率和可靠性。作者提出的並行PID控制器在硬件上的實現,充分發揮了FPGA的高速並行計算特性,為複雜動態系統的實時控制提供了一種新的解決思路。&lt;/p&gt;
+&lt;p&gt;論文三：Simulation and Experimental Study of Ball Position Control at Biaxial Platform using State Space Approach&lt;/p&gt;
+&lt;p&gt;來源:PDF Chat&lt;/p&gt;
+&lt;p&gt;首先,介紹了平衡問題在自動控制領域的重要性,並簡單討論了各種平衡任務的植物特徵,如球在平板、球在杆和三角洲機器人等。&lt;/p&gt;
+&lt;p&gt;接著,詳細描述了實驗平台的機械設計。它由一個木製底座、支撐架、平臺、觸摸屏、步進電機和角度傳感器等組成。主要使用觸摸屏檢測球體位置,步進電機調整平臺角度,微控制器實現兩個PID閉環控制。&lt;/p&gt;
+&lt;p&gt;對於控制算法,文章採用了一種雙閉環從動控制系統,外迴路控制球體位置,內迴路控制平臺角度。通過實驗,證明了該控制系統能夠穩定地將球體維持在觸摸屏中心。&lt;/p&gt;
+&lt;p&gt;總的來說,這是一個用於平衡控制算法研究的實驗平台,具有一定的創新性。它使用步進電機和微控制器實現了不依賴外部計算機的控制系統,未來還可以擴展到更複雜的三角洲機器人控制等應用。論文最後提出了進一步改進濾波和控制性能的計劃。&lt;/p&gt;
+&lt;p&gt;從整體上看,這是一個典型的自動控制系統設計過程,包括從機械構造、數學建模到控制算法設計與實現的全面論述,對於理解和掌握自動控制理論及其應用具有重要的參考價值。&lt;/p&gt;
+&lt;p&gt;論文四：Design and Implementation a Ball Balancing System for Control Theory Course\&lt;/p&gt;
+&lt;p&gt;來源:PDF Chat&lt;/p&gt;
+&lt;p&gt;通過牛頓力學建立了球體在平台上運動的數學模型,並將其線性化,得到了平台傾斜角度和球體位置之間的傳遞函數。為了穩定平台上球體的位置,作者設計了一個帶有PID控制器的閉環控制系統,其中外迴路負責控制球體位置,內迴路負責控制平台角度。&lt;/p&gt;
+&lt;p&gt;在實際構建中,使用了觸摸屏檢測球體位置,步進電機調整平台角度,Arduino微控制器實現PID控制算法。經過多次調試優化,最終獲得了令人滿意的控制效果,包括穩定時間小於3秒、超調量小於5%等。&lt;/p&gt;
+&lt;p&gt;然而,實驗結果與理論仿真還是存在一些差異,主要原因包括:機械結構誤差、伺服電機特性不同、觸摸屏信號噪音等因素。針對這些問題,論文提出了一些改進措施,如使用更高性能的伺服電機、改進濾波算法等。&lt;/p&gt;
+&lt;p&gt;總的來說,這是一個具有代表性的平衡控制實驗平台,通過理論分析和實驗結果的比較,探討了在穩定自然不穩定系統時的局限性,對於理解和驗證自動控制理論具有重要意義。論文最後還展望了未來可能的改進方向。&lt;/p&gt;
+&lt;p&gt;論文五：Ball on the plate balancing control system&lt;/p&gt;
+&lt;p&gt;來源:PDF Chat&lt;/p&gt;
+&lt;p&gt;這個專案的主要目標是開發一個使用微控制器和相關控制算法的平衡系統，以實時感應反饋調整樑的角度來使球在樑上保持平衡。這個系統能夠讓學生學習和理解比例積分微分（PID）控制的基本原理。在專案中製作了三個原型並進行了比較，特別是在合理性和成本方面。系統集成了一個伺服馬達、一個距離感應器、一個微控制器板和一個機械平台。學生可以通過微控制器編程來了解和實施控制算法。此外，還開發了介面程式，用於在MATLAB中繪製實時位置曲線。這個簡化的系統將作為將理論知識和實踐技能相結合的橋梁。這個方法也適用於更複雜的系統。最終模型的設計目標是創造一個結構，既堅固平衡，又輕便易攜。因此，回到使用木材被確定為最佳選擇，因為成本低且時間因素。最終模型減少了生產材料的使用量，設計了一個更加便攜高效的產品。在實驗中發現了一些問題，例如震動仍然存在，而這個問題可能由於多種原因導致，包括使用非常輕的塑料乒乓球和參數可能調整不當。因此，需要進一步改進系統的重復性。根據閉環實時控制系統和調整良好的參數，系統能夠對樑的角度進行必要的調整，以最小化誤差，即實際位置和預期/設定位置之間的距離。&lt;/p&gt;
+&lt;p&gt;論文六：2D Ball Balancer Control using QUARC&lt;/p&gt;
+&lt;p&gt;來源:PDF Chat&lt;/p&gt;
+&lt;p&gt;結論：在這份研究中，我們成功地展示了如何使用QUARC控制2D平衡球平衡器。通過從第一原理建模系統並設計PID控制器，我們實現了穩定球的位置在平衡板上的目標。透過模擬和實際實驗，我們驗證了控制系統的有效性和性能。此外，我們探討了控制技術中的一些重要概念，如設定點權重和積分器反飽和，進一步豐富了我們對控制系統的理解。這項研究為控制工程領域提供了有價值的見解，並為未來相關研究提供了基礎。&lt;/p&gt;
 &lt;p&gt;開啟可攜程式系統中的 CoppeliaSim 開啟鋼球平衡台模擬場景 啟動可攜程式系統, pip install keyboard cbor pyzmq matplotlib 在 SciTE 中執行上列程式, 確定系統穩定後, 按下 q 終止模擬 matplotlib 將畫出鋼球在平台上的 x 與 y 座標圖&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;鋼球平衡台零組件繪圖&lt;/strong&gt;&lt;/p&gt;
