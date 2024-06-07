@@ -2958,7 +2958,8 @@ doc["add1to100"].bind('click', add)
 <p></p>
 <p>任務二與任務三教學說明影片</p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rOaWBEFZOLY?si=84noVMYNHEMFiHnX" title="YouTube video player" width="560"></iframe></p>
-<p></p><h1>w13</h1>
+<p></p>
+<h1>w13</h1>
 <p>本週為協同產品設計與實習第十三週，說明最後一個月的自我評分項目與說明如何將零組件以 STL 轉入 CoppeliaSim，並且將前兩週使用Solvespace與NX繪製之零件完成與組裝</p>
 <p>cd2024 w13 2a 說明各程式模組之所以作為可攜以及最後一個月的自我評分項目</p>
 <p><span><a href="/downloads/w12 prt檔.zip">零件prt檔</a>     <a href="/downloads/w12 py檔.zip">零件py檔</a>       <a href="/downloads/assembly prt檔.zip">組合件prt檔</a>     <a href="/downloads/assembly py檔.zip">組合件py檔</a>  </span></p>
@@ -2975,7 +2976,8 @@ doc["add1to100"].bind('click', add)
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Cy3j6n0a9wQ?si=kZhKFngcSPxqnalY" title="YouTube video player" width="560"></iframe></p>
 <p></p>
 <p>cd2024 w13 2a 說明如何將零組件以 STL 轉入 CoppeliaSim</p>
-<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-0mbtk1AuoY?si=GudlON0u65rM4ch0" title="YouTube video player" width="560"></iframe></p><h1>w14</h1>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-0mbtk1AuoY?si=GudlON0u65rM4ch0" title="YouTube video player" width="560"></iframe></p>
+<h1>w14</h1>
 <p><span>本週為協同產品設計與實習第十四</span><span>週</span></p>
 <p>至以下連結回報區回報 2a w13 鋼球平衡台零組件與 NXOpen Python 程式</p>
 <p><a href="https://github.com/mdecd2024/2astud-2asite/discussions/33">https://github.com/mdecd2024/2astud-2asite/discussions/33</a> </p>
@@ -2997,7 +2999,8 @@ doc["add1to100"].bind('click', add)
 <p></p>
 <p><span>w14教學影片二</span></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Hyx9cW2LJVM?si=wCDwY5jTjMJEoMok" title="YouTube video player" width="560"></iframe></p>
-<p></p><h1>w15</h1>
+<p></p>
+<h1>w15</h1>
 <p><span>本週為協同產品設計與實習第十五</span><span>週</span></p>
 <p>1.組員將上禮拜還未繪製完成之零件檔與py檔繪製完成<br/>2.看老師將彈珠平衡台加入joint與其他設定，完成彈珠平衡台的平衡<br/>3.其餘組員將個人與群組倉儲之資料進行彙整和整理與利用CoppeliaSim將之前的足球遊戲合併籃球之專題進行發想 使用何種機構能夠將球托起來並進入籃球框中，並繪製與改善程式，嘗試實現此專題設計。</p>
 <p>嘗試改善機構</p>
@@ -3007,4 +3010,54 @@ doc["add1to100"].bind('click', add)
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6SajLQpoYpo?si=RR5NWAoTPdZ9Csph" title="YouTube video player" width="560"></iframe></p>
 <p></p>
 <p>41023233:</p>
+<p>調整籃框與球門的程式 (coppeliasim)</p>
+<p>足球框程式修改</p>
+<p><img alt="" height="450" src="/images/足球框程式.png" width="800"/></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">function sysCall_init()
+    wheelJoint = sim.getObjectHandle('/joint1g')
+    door1 = sim.getObject('/Cuboid') 
+    ball = sim.getObject('/ball1')  -- ???1
+end
+
+function sysCall_actuation()
+    local collision = sim.checkCollision(ball, door1)
+    if collision &gt; 0 then
+        sim.setObjectPosition(ball, -1, {0, 0, 0.25})
+        local currentAngle = sim.getJointPosition(wheelJoint)
+        local targetAngle = currentAngle + math.rad(-36)
+        sim.setJointTargetPosition(wheelJoint, targetAngle)
+    end
+end
+</pre>
 <p></p>
+<pre>籃球框程式修改<br/><img alt="" height="450" src="/images/籃球框程式.png" width="800"/><br/><br/></pre>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">function sysCall_init()
+    wheelJoint = sim.getObjectHandle('/joint1g')
+    rim1 = sim.getObject('/Cylinder1') 
+    ball = sim.getObject('/ball1')  -- ???1
+end
+
+function sysCall_actuation()
+    local collision = sim.checkCollision(ball, rim1)
+    if collision &gt; 0 then
+        sim.setObjectPosition(ball, -1, {0, 0, 0.25})
+        local currentAngle = sim.getJointPosition(wheelJoint)
+        local targetAngle = currentAngle + math.rad(-179.9999999)
+        sim.setJointTargetPosition(wheelJoint, targetAngle)
+    end
+end</pre>
+<p></p>
+<h1>w16</h1>
+<p>本週為協同產品設計與實習第十六週<br/>本周上課為填本分表單 <a href="https://docs.google.com/forms/d/e/1FAIpQLSduO5lTJtheYfoQEzIJPj8Ub6T7K2VdkTwIarz5_T7Ue1ECCg/viewform?pli=1">https://docs.google.com/forms/d/e/1FAIpQLSduO5lTJtheYfoQEzIJPj8Ub6T7K2VdkTwIarz5_T7Ue1ECCg/viewform?pli=1</a> </p>
+<p>與繼續完成期末機器人設計、程式編寫與更改、模擬，場景球框得分錯誤更改 ; 檔案將上傳至github倉儲downloads下</p>
+<p>更改player球員程式</p>
+<p><img alt="" height="270" src="/images/playerpyrewrite.png" width="480"/></p>
+<p>更改進球後得分加錯記分板(將球門名稱更改)，與投進籃框後得5分(-36改成-179.9999)</p>
+<p><img alt="" height="334" src="/images/wrongdoor.png" width="480"/><br/><br/>footballcourt 場地</p>
+<p><img alt="" height="270" src="/images/footballcourt.png" width="480"/></p>
+<p>player 球員</p>
+<p><img alt="" height="270" src="/images/player.png" width="480"/></p>
+<p>site場景</p>
+<p><img alt="" height="270" src="/images/site.png" width="480"/></p>
+<p>操作影片<br/><br/></p>
+<p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/qX-zUc79-L8?si=cZZueZx-9MpKwHLj" title="YouTube video player" width="560"></iframe></p>
