@@ -3005,3 +3005,44 @@ doc["add1to100"].bind('click', add)
 <p>改善程式加入翻轉托盤、頂球</p>
 <p><img alt="" height="270" src="/images/改善程式.png" width="480"/></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/6SajLQpoYpo?si=RR5NWAoTPdZ9Csph" title="YouTube video player" width="560"></iframe></p>
+<p></p>
+<p>41023233:</p>
+<p>調整籃框與球門的程式 (coppeliasim)</p>
+<p>足球框程式修改</p>
+<p><img alt="" height="450" src="/images/足球框程式.png" width="800"/></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">function sysCall_init()
+    wheelJoint = sim.getObjectHandle('/joint1g')
+    door1 = sim.getObject('/Cuboid') 
+    ball = sim.getObject('/ball1')  -- ???1
+end
+
+function sysCall_actuation()
+    local collision = sim.checkCollision(ball, door1)
+    if collision &gt; 0 then
+        sim.setObjectPosition(ball, -1, {0, 0, 0.25})
+        local currentAngle = sim.getJointPosition(wheelJoint)
+        local targetAngle = currentAngle + math.rad(-36)
+        sim.setJointTargetPosition(wheelJoint, targetAngle)
+    end
+end
+</pre>
+<p></p>
+<pre>籃球框程式修改<br/><img alt="" height="450" src="/images/籃球框程式.png" width="800"/><br/><br/></pre>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">function sysCall_init()
+    wheelJoint = sim.getObjectHandle('/joint1g')
+    rim1 = sim.getObject('/Cylinder1') 
+    ball = sim.getObject('/ball1')  -- ???1
+end
+
+function sysCall_actuation()
+    local collision = sim.checkCollision(ball, rim1)
+    if collision &gt; 0 then
+        sim.setObjectPosition(ball, -1, {0, 0, 0.25})
+        local currentAngle = sim.getJointPosition(wheelJoint)
+        local targetAngle = currentAngle + math.rad(-179.9999999)
+        sim.setJointTargetPosition(wheelJoint, targetAngle)
+    end
+end</pre>
+<pre><br/><br/><br/></pre>
+<p></p>
+<p></p>
