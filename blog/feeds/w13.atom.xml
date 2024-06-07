@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w13</title><link href="./" rel="alternate"></link><link href="./feeds/w13.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T21:57:48+08:00</updated><entry><title>2024 Spring 課程w13</title><link href="./2a-midag6_2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T18:51:00+08:00</published><updated>2024-06-07T21:57:46+08:00</updated><author><name>41023233 41023124</name></author><id>tag:None,2024-05-17:./2a-midag6_2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - w13</title><link href="./" rel="alternate"></link><link href="./feeds/w13.atom.xml" rel="self"></link><id>./</id><updated>2024-06-07T21:27:18+08:00</updated><entry><title>2024 Spring 課程w13</title><link href="./2a-midag6_2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T18:51:00+08:00</published><updated>2024-06-07T21:27:18+08:00</updated><author><name>41023233 41023124</name></author><id>tag:None,2024-05-17:./2a-midag6_2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
@@ -12,25 +12,6 @@
 &lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;a href="https://41023124.github.io/cd2024/downloads/assembly%20py%E6%AA%94.zip"&gt;組合件py檔&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;0:13 為 base_w&amp;nbsp; &amp;nbsp; &amp;nbsp; 0:49 為 platform&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1:30 為 s_link&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1:50 為 shaft&amp;nbsp; &amp;nbsp; &amp;nbsp; 2:05 為 y_link&amp;nbsp; &amp;nbsp; 2:34 為 assembly&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/2kD7b0qfWIg?si=JWtm96hrAYTiIESM" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Cy3j6n0a9wQ?si=kZhKFngcSPxqnalY" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;cd2024 w13 2a 說明如何將零組件以 STL 轉入 CoppeliaSim&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/-0mbtk1AuoY?si=GudlON0u65rM4ch0" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;</content><category term="w13"></category><category term="網誌編寫"></category></entry><entry><title>2024 Spring 課程w13</title><link href="./2024-Spring-w13-blog-tutorial.html" rel="alternate"></link><published>2024-05-17T11:00:00+08:00</published><updated>2024-06-07T21:57:48+08:00</updated><author><name>41023233</name></author><id>tag:None,2024-05-17:./2024-Spring-w13-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
-
-
-&lt;p&gt;這周補上上禮拜未完成之零件，分別為 platform與base，順便補上繪製過程以利參考。&lt;/p&gt;
-&lt;p&gt;本週為協同產品設計與實習第十三週，說明最後一個月的自我評分項目與說明如何將零組件以 STL 轉入 CoppeliaSim，並且將前兩週使用Solvespace與NX繪製之零件完成與組裝&lt;/p&gt;
-&lt;p&gt;cd2024 w13 2a 說明各程式模組之所以作為可攜以及最後一個月的自我評分項目&lt;/p&gt;
-
-&lt;p&gt;NX1872 platform 繪製影片
-&lt;a href="https://youtu.be/np3ga8Z5zA0"&gt;https://youtu.be/np3ga8Z5zA0&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="681" height="369" src="https://www.youtube.com/embed/np3ga8Z5zA0" title="NX1872 零件platform繪製" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;NX1872 base_w 繪製影片
-&lt;a href="https://youtu.be/tOo63JO_ShA"&gt;https://youtu.be/tOo63JO_ShA&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="681" height="369" src="https://www.youtube.com/embed/tOo63JO_ShA" title="NX1872 零件bsse_w繪製" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;p&gt;&lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Cy3j6n0a9wQ?si=kZhKFngcSPxqnalY" title="YouTube video player"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;cd2024 w13 2a 說明如何將零組件以 STL 轉入 CoppeliaSim&lt;/p&gt;
