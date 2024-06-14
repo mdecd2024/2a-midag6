@@ -3052,6 +3052,145 @@ end</pre>
 <p>與繼續完成期末機器人設計、程式編寫與更改、模擬，場景球框得分錯誤更改 ; 檔案將上傳至github倉儲downloads下</p>
 <p>更改player球員程式</p>
 <p><img alt="" height="270" src="/images/playerpyrewrite.png" width="480"/></p>
+<p></p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">from zmqRemoteApi import RemoteAPIClient
+import keyboard
+import math
+import time
+
+client = RemoteAPIClient('localhost', 23000)
+
+print('Program started')
+sim = client.getObject('sim')
+# sim.startSimulation()
+print('Simulation started')
+
+v = 8
+a = 40
+
+# 選擇控制的球員
+player = '/a_player1'
+
+
+def setVelocity(lfwV, rfwV, lbwV, rbwV):
+    leftMotor1 = sim.getObject(player + '/joint_lf')
+    rightMotor1 = sim.getObject(player + '/joint_rf')
+    leftMotor2 = sim.getObject(player + '/joint_lb')
+    rightMotor2 = sim.getObject(player + '/joint_rb')
+    sim.setJointTargetVelocity(leftMotor1, lfwV)
+    sim.setJointTargetVelocity(rightMotor1, rfwV)
+    sim.setJointTargetVelocity(leftMotor2, lbwV)
+    sim.setJointTargetVelocity(rightMotor2, rbwV)
+    # 輸入四個變數分別給四個軸速度
+
+
+def setangel(y):
+    ontology = sim.getObject(player)
+    angel = [-90 * math.pi / 180, y * math.pi / 180, 0 * math.pi / 180]
+    leftMotor = sim.getObject(player + '/joint_lf')
+    rightMotor = sim.getObject(player + '/joint_rf')
+    sim.setObjectOrientation(leftMotor, ontology, angel)
+    sim.setObjectOrientation(rightMotor, ontology, angel)
+    # 輸入一個變數改變前輪方向
+
+
+def controlangel(y):
+    if keyboard.is_pressed('a'):
+        setangel(-y)
+    elif keyboard.is_pressed('d'):
+        setangel(y)
+    else:
+        setangel(0)
+
+
+def setRotation(joint_name, target_angle):
+    joint = sim.getObject(player + joint_name)
+    current_angle = sim.getJointPosition(joint)
+    target_angle_radians = target_angle * math.pi / 180  # 將目標角度轉換為弧度
+
+    # 調整每一步的角度增量
+    step_size = 5 * math.pi / 180  # 每一步旋轉5度
+    steps = int(abs(target_angle_radians - current_angle) / step_size)
+
+    print(f'Current angle (radians): {current_angle}')
+    print(f'Target angle (radians): {target_angle_radians}')
+    print(f'Steps: {steps}')
+
+    # 平滑地移動到目標角度
+    for _ in range(steps):
+        if target_angle_radians &gt; current_angle:
+            current_angle += step_size
+        else:
+            current_angle -= step_size
+        sim.setJointPosition(joint, current_angle)
+        time.sleep(0.01)  # 小延遲以模擬平滑運動
+        if keyboard.is_pressed('q'):  # 在過程中允許用戶終止操作
+            break
+
+    # 最後確保精確設置到目標角度
+    sim.setJointPosition(joint, target_angle_radians)
+    print(f'Set {joint_name} to angle {target_angle}')
+
+
+def resetJointPosition(joint_name):
+    joint = sim.getObject(player + joint_name)
+    sim.setJointPosition(joint, 0)
+    print(f'Reset {joint_name} to 0')
+
+
+def turnover():
+    floor = sim.getObject('/Floor')
+    player1 = sim.getObject(player)
+    a = sim.getObjectOrientation(player1, floor)
+    b = sim.getObjectPosition(player1, floor)
+    a[0] = 0
+    a[1] = 0
+    b[2] = 0.3
+    sim.setObjectPosition(player1, floor, b)
+    sim.setObjectOrientation(player1, floor, a)
+
+
+def playercontrol(x, y):
+    if keyboard.is_pressed('w'):
+        setVelocity(x, x, x, x)
+        controlangel(y)
+    elif keyboard.is_pressed('s'):
+        setVelocity(-x, -x, -x, -x)
+        controlangel(y)
+    elif keyboard.is_pressed('a'):
+        setVelocity(-x, x, -x, x)
+    elif keyboard.is_pressed('d'):
+        setVelocity(x, -x, x, -x)
+    elif keyboard.is_pressed('space'):
+        turnover()
+    elif keyboard.is_pressed('q'):
+        # stop simulation
+        sim.stopSimulation()
+    elif keyboard.is_pressed('r'):
+        print('R key pressed')
+        setRotation('/joint_rf2', 45)
+    elif keyboard.is_pressed('f'):
+        print('F key pressed')
+        setRotation('/joint_rf2', 120)
+    elif keyboard.is_pressed('g'):
+        print('G key pressed')
+        setRotation('/joint_up', -200)
+    elif keyboard.is_pressed('h'):
+        print('H key pressed')
+        setRotation('/joint_up', 0)
+    else:
+        setVelocity(0, 0, 0, 0)
+        setangel(0)
+
+
+while True:
+    if keyboard.is_pressed('shift'):
+        playercontrol(v + 4, a - 20)
+    else:
+        playercontrol(v, a)
+
+</pre>
+<p></p>
 <p>更改進球後得分加錯記分板(將球門名稱更改)，與投進籃框後得5分(-36改成-179.9999)</p>
 <p><img alt="" height="334" src="/images/wrongdoor.png" width="480"/><br/><br/>footballcourt 場地</p>
 <p><img alt="" height="270" src="/images/footballcourt.png" width="480"/></p>
@@ -3061,3 +3200,20 @@ end</pre>
 <p><img alt="" height="270" src="/images/site.png" width="480"/></p>
 <p>操作影片<br/><br/></p>
 <p><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/qX-zUc79-L8?si=cZZueZx-9MpKwHLj" title="YouTube video player" width="560"></iframe></p>
+<h1>w17</h1>
+<p><span>本週為協同產品設計與實習第十七週</span><br/><span>本周上課為填本分表單</span></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdd4WdqZCfabonlM8jOzdpd3jQl_831C_7qXJBZuL8nOQ5NWA/viewform?pli=1">https://docs.google.com/forms/d/e/1FAIpQLSdd4WdqZCfabonlM8jOzdpd3jQl_831C_7qXJBZuL8nOQ5NWA/viewform?pli=1</a> </p>
+<p>並完成連結中的任務 <a href="https://github.com/mdecycu/cd2024/discussions/19">https://github.com/mdecycu/cd2024/discussions/19</a> </p>
+<p>任務內容 : </p>
+<p dir="auto">請根據<span> </span><a href="https://mde.tw/cd2024/content/index.html" rel="nofollow">https://mde.tw/cd2024/content/index.html</a><span> </span>網頁中的期末報告題目說明, 逐一完成下列評量項目,</p>
+<ol dir="auto">
+<li>
+<p dir="auto">請利用 NX1872, 完成可以參與球賽競技的機器人零件與組立件設計, 過程中請拍攝零組件繪製過程, 以 "cd2024 協同產品設計實習期末實習評量項目一, 學號 XXXXXXX" 作為 mp4 影片標題, 上傳至 Youtube 後, 在個人靜態網站中新增標題為 "w17", 格式為 H1 的頁面, 嵌入所完成的項目一 Youtube 影片以及所完成的零組件檔案連結後, 將此網頁網址 (即<span> </span><a href="https://xn--_github-n14kz1hx94cem6g.github.io/cd2024/w17" rel="nofollow">https://個人_github帳號.github.io/cd2024/w17</a>) 提交連結回報至評量回傳表的對應欄位中.</p>
+</li>
+<li>
+<p dir="auto">請自選上列項目一中某一零件組立過程, 以 NXOpen Python 程式完成組立, 過程中請拍攝 Python Journal 程式組立過程, 以"cd2024 協同產品設計實習期末實習評量項目二, 學號 XXXXXXX" 作為 mp4 影片標題, 上傳至 Youtube 後, 在 "w17" 頁面中嵌入所完成的項目二 Youtube 影片以及所完成的 Python Journal 程式檔案連結 (請放入 downloads 目錄, 並以 .txt 作為副檔名), 將此網頁網址 (即<span> </span><a href="https://xn--_github-n14kz1hx94cem6g.github.io/cd2024/w17" rel="nofollow">https://個人_github帳號.github.io/cd2024/w17</a>) 提交連結回報至評量回傳表的對應欄位中.</p>
+</li>
+<li>
+<p dir="auto">請將所完成的機器人球員放入 CoppeliaSim 運動場景中 (即<span> </span><a href="https://mde.tw/cd2024/content/index.html" rel="nofollow">https://mde.tw/cd2024/content/index.html</a><span> </span>網頁中的<span> </span><a href="http://229.cycu.org/cd2024_footbasketball_field_specification_step2.7z" rel="nofollow">cd2024_footbasketball_field_specification_step2.7z</a><span> </span>場景), 讓球員可以由 ZMQ Remote API 程式控制, 執行後按下 w 鍵後球員可向前移動, 按下 s 後球員可向後移動, 過程中請拍攝 Python 程式執行與球員前後移動過程, 以"cd2024 協同產品設計實習期末實習評量項目三, 學號 XXXXXXX" 作為 mp4 影片標題", 上傳至 Youtube 後, 在 "w17" 頁面中嵌入所完成的項目三 Youtube 影片、場景 .ttt 連結以及所完成的 ZMQ Remote API Python 程式檔案連結 (請放入 downloads 目錄, 並以 .txt 作為副檔名), 將此網頁網址 (即<span> </span><a href="https://xn--_github-n14kz1hx94cem6g.github.io/cd2024/w17" rel="nofollow">https://個人_github帳號.github.io/cd2024/w17</a>) 提交連結回報至評量回傳表的對應欄位中.</p>
+</li>
+</ol>
